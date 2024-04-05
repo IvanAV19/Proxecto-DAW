@@ -5,46 +5,103 @@
   - [2- Xustificación do proxecto](#2--xustificación-do-proxecto)
   - [3- Axudas e financiación](#3--axudas-e-financiación)
   - [4- Prevención de riesgos laborales](#4--prevención-de-riesgos-laborales)
-  - [3- Modelo de negocio](#3--modelo-de-negocio)
-    - [3.1- Viabilidade](#31--viabilidade)
-      - [3.1.1- Viabilidade técnica](#311--viabilidade-técnica)
-      - [3.1.2- Viabilidade económica](#312--viabilidade-económica)
-    - [3.2- Competencia](#32--competencia)
-    - [3.3- Promoción](#33--promoción)
-  - [4- Requirimentos](#4--requirimentos)
-  - [5- Planificación](#5--planificación)
-
-
-> *EXPLICACIÓN*: Este documento será a páxina de explicación de en que consiste o teu proxecto. Coida a súa redacción con todo ou teu mimo. Elimina posteriormente todas as lineas "EXPLICACIÓN" cando creas finalizada a súa redacción.
-> Podes acompañar á redacción deste ficheiro con imaxes, pero non abuses deles.
-> Explica da mellor forma posible de en que consiste o proxecto é que ferramentas e linguaxes de programación empregarás.
+  - [5- Modelo de negocio](#3--modelo-de-negocio)
+    - [5.1- Viabilidade](#51--viabilidade)
+      - [5.1.1- Viabilidade técnica](#511--viabilidade-técnica)
+      - [5.1.2- Viabilidade económica](#512--viabilidade-económica)
+    - [5.2- Competencia](#52--competencia)
+    - [5.3- Promoción](#53--promoción)
+  - [6- Requirimentos](#6--requirimentos)
+  - [7- Planificación](#7--planificación)
 
 ## 1- Descrición do proxecto
 
-> *EXPLICACIÓN*: Realiza unha breve descrición do anteproxecto.Resalta o fundamental *coas túas propias palabras**. Utiliza unha linguaxe correcta, *pero natural**, que o entenda todo o mundo, mesmo e en especial, as persoas que non teñan un coñecemento técnico avanzado. Pode ser un estracto ou resumo de apartados que xa contemples noutros ficheiros.
+> Este proyecto “BIOS Simulator” pretende ser un sistema educativo basado en una página web con el estilo de una BIOS, diseñada para profesores que buscan un sistema de aprendizaje para enseñar como funciona una BIOS.
 >
->Neste apartado trátase de describir a análise realizada e a toma de decisións adoptada sobre aspectos básicos ou iniciais do proxecto como:
+>  “BIOS Simulator” permite al profesor subir plantillas de ejercicios sobre las diversas funciones de las que dispone una BIOS. El sistema automatiza la corrección de los ejercicios, ya que el alumno podrá ver si su solución es correcta nada más enviar las respuestas.
 >
-> - ¿En que consiste o noso proxecto? ¿Cal é o propósito principal da aplicación a desenvolver? ¿Cales son os obxectivos?
-> - ¿A quen vai destinada a aplicación? (Contexto social ou sector empresarial, tipo de persoas, ...)
-> - ¿Cal é a necesidade ou necesidades que se pretenden cubrir ou satisfacer?
-> - ¿Existen na actualidade aplicacións que tenten dar resposta a esa(s) necesidade(s)? ¿En que medida o conseguen?
-> - ¿O desenvolvemento da aplicación abre unha oportunidade de negocio? ¿É posible comercializala? Como?
-> - ¿Que tecnoloxías son as máis axeitadas para a realización do proxecto?
+>  Además, la web ofrece un entorno amigable e interactivo tanto para los profesores como para los alumnos.
+>
+> "BIOS Simulator" es una solución online al ser una aplicación web. Este formato es de muy fácil acceso porque el usuario solo necesita un navegador para establecer una conexión con el servidor que aloja el proyecto y no se requiere instalación de software.
+>
+> Todos los recursos necesarios para la prestación de los servicios se almacenan en el servidor: plantillas de ejercicios, base de datos, copias de seguridad, etc.
+>
+> El éxito de la aplicación depende de la correcta configuración de los parámetros del sistema. Es decir, plantillas de ejercicios, soluciones de estos mismos, actividades que son asociadas por el profesor que crea la plantilla. Con la combinación correcta de los valores de estas variables, puede asegurarse de que se crea la plantilla correcta de acuerdo con los requisitos establecidos en las soluciones.
 
 ## 2- Xustificación do proxecto
 
-> *EXPLICACIÓN*: Neste apartado incluirase a información necesaria para xustificar a realización do proxecto. Debe indicarse como xurdiu a idea do proxecto, que obxectivo se persegue coa súa posta en marcha e/ou que problema vai resolver.
+> “BIOS Simulator” está destinado para trabajar con profesores que enseñen o quieran enseñar a sus alumnos como funciona realmente una BIOS sin tener que agrupar a sus alumnos en un solo ordenador y preocuparse por los posibles problemas que puedan causar a este mismo. Ya que con este sistema cada alumno puede aprender a utilizar una BIOS desde su propio ordenador.
+>
+> Además, ni el profesor ni los alumnos tendrán que preocuparse por si escogen una mala opción que pudiera desencadenar alguna clase de fallo en el ordenador ya que estarían trabajando sobre una aplicación web y no en la propia BIOS.
 
 ## 3- Axudas e financiación
 
-> *EXPLICACIÓN*: Neste apartado elaborarase un orzamento, indicando os recursos materiais e persoais necesarios, e as necesidades de financiamento para a súa posta en marcha.
+> En este apartado se detallarán los recursos materiales y humanos necesarios para poner en marcha el proyecto, así como las necesidades de financiación asociadas. Se elaborará un presupuesto que incluya todos los gastos previstos durante el desarrollo y la implementación de la página web educativa que simula una BIOS.
+
+### Recursos materiales:
+
+- **Dominio web:** El costo fijo anual del dominio web será de 10 €/año.
+- **Servidor:** El costo fijo mensual del servidor será de 10 €/mes, lo que equivale a 120 €/año.
+- **Desarrollos web:** Los costos variables de los desarrollos web serán de 5 €/hora, con un máximo de 15 horas al mes, lo que supone un total de 900 € anuales.
+- **Soporte técnico:** Los costos variables del soporte técnico serán de 10 €/hora, con un máximo de 15 horas al mes, lo que equivale a 1800 € anuales.
+
+### Recursos humanos:
+
+- **Personal de desarrollo:** Se determinará el número de desarrolladores necesarios para llevar a cabo el proyecto, así como sus roles y responsabilidades específicas.
+- **Diseñadores y creativos:** Se considerará la contratación de diseñadores gráficos, diseñadores web y otros profesionales creativos para la creación de la identidad visual y el diseño del sitio web.
+- **Gestores de proyecto:** Se asignará personal para la gestión y coordinación del proyecto, incluyendo la planificación, seguimiento y control de las actividades, así como la comunicación con los interesados.
+
+### Financiación:
+
+- **Costos totales anuales:** Los costos totales del proyecto para el año serán de 2700 €.
+- **Productos/Servicios:** Se ofrecerán dos opciones de productos/servicios:
+  - Opción 1, que incluye la aplicación y soporte de errores por 15 €/mes.
+  - Opción 2, que incluye Opción 1 más la administración y gestión de la app web por 30 €/mes.
+
+### Previsión de ingresos:
+
+- **Año 1:**
+  - Opción 1: Con 2 clientes, se generarán ingresos de 360,00 €/año.
+  - Opción 2: Con 4 clientes, se generarán ingresos de 1.440,00 €/año.
+  
+- **Año 2:**
+  - Opción 1: Con 2 clientes, se generarán ingresos de 360,00 €/año.
+  - Opción 2: Con 8 clientes, se generarán ingresos de 2.880,00 €/año.
+
+Con esta información, se pretende asegurar una gestión eficiente de los recursos y una planificación financiera sólida para la puesta en marcha y desarrollo exitoso del proyecto de la página web educativa que simula una BIOS.
 
 ## 4- Prevención de riesgos laborales
 
-> *EXPLICACIÓN*: Neste apartado indicaranse as necesidades de permisos e autorizacións para levar a cabo as actividades, se son precisas, identificaranse os riscos inherentes á execución, e definirase o plan de prevención de riscos, así como os medios e os equipamentos necesarios.
+> En este apartado se detallan las medidas necesarias para garantizar la seguridad y salud de los trabajadores involucrados en el desarrollo y mantenimiento de Bios-Simulator. Además, se identifican los riesgos inherentes a la ejecución de las actividades y se establece un plan de prevención de riesgos, así como los medios y equipos necesarios para mitigarlos.
 
-## 3- Modelo de negocio
+### Necesidades de permisos y autorizaciones
+
+Para llevar a cabo las actividades relacionadas con el desarrollo y mantenimiento de la página web educativa, no se requieren permisos especiales o autorizaciones adicionales más allá de las habituales para el desarrollo de software y el alojamiento web.
+
+### Riesgos inherentes a la ejecución
+
+1. **Riesgos ergonómicos:** Dado que el trabajo se realiza frente a un ordenador, existe el riesgo de fatiga visual, dolores musculares y lesiones relacionadas con la postura. Se debe promover el uso de mobiliario ergonómico y realizar pausas regulares para descansar la vista y estirar los músculos.
+
+2. **Riesgos psicosociales:** La presión por cumplir con los plazos de entrega y la concentración prolongada pueden provocar estrés y ansiedad en los trabajadores. Se deben establecer medidas para gestionar la carga de trabajo, fomentar un ambiente laboral positivo y ofrecer apoyo psicológico si es necesario.
+
+3. **Riesgos de seguridad de la información:** Dado que la página web puede contener información sensible o confidencial, existe el riesgo de violaciones de seguridad, como el acceso no autorizado o la divulgación de datos. Se deben implementar medidas de seguridad adecuadas, como el cifrado de datos, el control de acceso y la capacitación en concienciación sobre seguridad.
+
+### Plan de prevención de riesgos
+
+- Se proporcionará formación sobre ergonomía y seguridad en el trabajo a todos los empleados involucrados en el desarrollo y mantenimiento de la página web educativa.
+- Se establecerán pausas regulares durante la jornada laboral para descansar la vista y realizar ejercicios de estiramiento.
+- Se realizarán evaluaciones periódicas de riesgos psicosociales y se implementarán medidas para promover el bienestar emocional de los trabajadores.
+- Se aplicarán políticas de seguridad de la información, que incluyen la gestión de contraseñas, el cifrado de datos y la protección contra malware y ataques cibernéticos.
+- Se designará a un responsable de seguridad y salud en el trabajo para supervisar la implementación del plan de prevención de riesgos y coordinar las acciones necesarias.
+
+### Medios y equipos necesarios
+
+- Equipos informáticos adecuados, como ordenadores portátiles o de escritorio con pantallas de alta resolución y teclados ergonómicos.
+- Mobiliario de oficina ergonómico, que incluye sillas ajustables y mesas de trabajo con altura regulable.
+- Software de seguridad informática, como antivirus, firewall y herramientas de detección de intrusiones.
+- Material de formación sobre ergonomía, seguridad en el trabajo y concienciación sobre seguridad de la información.
+
+## 5- Modelo de negocio
 
 > *EXPLICACIÓN*: Elección do modelo de negocio explicando a súa xustificación.
 >
@@ -62,26 +119,26 @@
 >   + Outros.
 
  
-### 3.1- Viabilidade
+### 5.1- Viabilidade
 
-#### 3.1.1- Viabilidade técnica
+#### 5.1.1- Viabilidade técnica
 
 > - Será posible dispoñer dos recursos humanos e medios de produción necesarios (materias primas, maquinaria,  instalacións, etc.)?
 > - Existe algún impedimento técnico que dificulte o proceso produtivo?  
 
-#### 3.1.2- Viabilidade económica
+#### 5.1.2- Viabilidade económica
 
 > - Os beneficios do proxecto son superiores aos costes?
 > - As perdas poden cubrirse vía financiamento (por parte da administración pública, con subvencións, etc)?    
 
-### 3.2- Competencia
+### 5.2- Competencia
 
 - Identificación da competencia, as súas características e a súa posición no mercado.
 - Existencia de productos/servizos substitutivos.
 
 Recurso: [Modelo de plan de negocios. Empresa de servicios informáticos. IGAPE](http://www.igape.es/images/crear-unha-empresa/Recursos/PlansdeNegocio/16ServiciosInformaticos12_5_cas.pdf) (páxina 45 e seguintes)
 
-### 3.3- Promoción
+### 5.3- Promoción
 
 > *EXPLICACIÓN* Técnicas elixidas para a promoción da empresa.
 >
@@ -96,7 +153,7 @@ Recurso: [Modelo de plan de negocios. Empresa de servicios informáticos. IGAPE]
 >   + Outros.
 > - Xustifica a elección.
   
-## 4- Requirimentos
+## 6- Requirimentos
 
 > *EXPLICACIÓN*: Descrición dos medios materiais e das tecnoloxías necesarias que se usarán para desenvolver o proxecto incluíndo as linguaxes de programación frontend e backend, técnicas, librerías, bases de datos, servizos usados, servidores, API’s, etc.
 >
@@ -104,7 +161,7 @@ Recurso: [Modelo de plan de negocios. Empresa de servicios informáticos. IGAPE]
 > - **Backend:** tecnoloxías usadas.
 > - **Frontend:** tecnoloxías usadas
 
-## 5- Planificación
+## 7- Planificación
 
 > *EXPLICACIÓN*: Inclúe un calendario co tempo estimado a adicar a cada fase do proxecto.
 >

@@ -30,8 +30,15 @@
 
 ## Uso
 
-> *EXPLICACIÓN*: É este apartado describe brevemente como se usará a aplicación Web do proxecto. Describe o uso da interface web *só o uso** (a modo de sumario) *dos aspectos máis relevantes do seu funcionamento** (máxima brevidade, coma se fose un anuncio reclamo ou comercial).
+> Podrá acceder a la aplicación web a través de su navegador buscando por el nombre “biossimulator.com”. Al iniciar sesión, el alumno aparecerá directamente en la página principal de la aplicación web:
 >
+> En esta ventana dispondrá de un menú en la parte superior para acceder a las distintas secciones de la BIOS. Después la página se divide en 2 secciones, a su derecha existirá una sección con las preguntas o ejercicios que ponga el profesor, a la izquierda las tareas del alumno, en la que aparecerá un formulario con todas las opciones de esa sección de la BIOS.
+>
+> Una vez llegado a este punto, dependiendo de las respuestas del alumno, pueden desarrollarse tres resultados distintos:
+>
+>  - Si el alumno selecciona las opciones correctas de las preguntas, la aplicación le dirá que sus respuestas han sido correctas y se le dará la enhorabuena:
+>  - Si el alumno selecciona las opciones incorrectas de las preguntas, la aplicación le dirá que sus respuestas han sido incorrectas y se le pedirá que lo intente de nuevo:
+>  - Si el alumno envía las respuestas y deja alguna sin responder la aplicación lo redirigirá a la misma página en la que ya estaba. Ya que es obligatorio cubrir todas las preguntas.
 
 ## Sobre o autor
 

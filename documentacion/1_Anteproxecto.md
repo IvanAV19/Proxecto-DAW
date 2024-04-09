@@ -5,7 +5,7 @@
   - [2- Xustificación do proxecto](#2--xustificación-do-proxecto)
   - [3- Axudas e financiación](#3--axudas-e-financiación)
   - [4- Prevención de riesgos laborales](#4--prevención-de-riesgos-laborales)
-  - [5- Modelo de negocio](#3--modelo-de-negocio)
+  - [5- Modelo de negocio](#5--modelo-de-negocio)
     - [5.1- Viabilidade](#51--viabilidade)
       - [5.1.1- Viabilidade técnica](#511--viabilidade-técnica)
       - [5.1.2- Viabilidade económica](#512--viabilidade-económica)

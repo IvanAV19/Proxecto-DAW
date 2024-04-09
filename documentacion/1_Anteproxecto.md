@@ -163,13 +163,44 @@ Recurso: [Modelo de plan de negocios. Empresa de servicios informáticos. IGAPE]
 
 ## 7- Planificación
 
-> *EXPLICACIÓN*: Inclúe un calendario co tempo estimado a adicar a cada fase do proxecto.
->
-> O proxecto estará formado polas seguintes fases:
->
-> - Estudo preliminar
-> - Análise
-> - Deseño
-> - Codificación e probas (debe ser a fase máis longa).
->
-> Debe facerse un calendario ou un diagrama de Gantt indicando, para cada fase, a data de inicio, a súa duración e breve descrición das tarefas a realizar.
+- **Fase 1: Anteproyecto**
+  - Duración: 2 semanas
+  - Fechas: 1 abril - 15 abril
+  - Descripción:
+    - Definir el alcance y los objetivos del proyecto.
+    - Realizar investigación preliminar sobre tecnologías y herramientas a utilizar.
+    - Identificar requisitos iniciales y stakeholders.
+
+- **Fase 2: Análisis**
+  - Duración: 1 semana
+  - Fechas: 16 abril - 22 abril
+  - Descripción:
+    - Recopilar y analizar los requisitos detallados del proyecto.
+    - Identificar los casos de uso y escenarios de usuario.
+    - Realizar diagramas de flujo y modelos de datos preliminares.
+
+- **Fase 3: Diseño**
+  - Duración: 1 semana
+  - Fechas: 23 abril - 29 abril
+  - Descripción:
+    - Diseñar la arquitectura del sistema.
+    - Crear diagramas de clases y de secuencia.
+    - Diseñar la interfaz de usuario (UI) y la experiencia del usuario (UX).
+
+- **Fase 4: Codificación y pruebas**
+  - Duración: 4 semanas
+  - Fechas: 30 abril - 27 maio
+  - Descripción:
+    - Implementar el código según el diseño previo.
+    - Realizar pruebas unitarias y de integración.
+    - Depurar y corregir errores.
+    - Realizar pruebas de aceptación del cliente.
+
+- **Fase 5: Implantación**
+  - Duración: 1 semana
+  - Fechas: 28 maio - 3 junio
+  - Descripción:
+    - Preparar el entorno de producción.
+    - Desplegar la aplicación en el servidor.
+    - Realizar pruebas finales en el entorno de producción.
+    - Capacitar al cliente en el uso de la aplicación.

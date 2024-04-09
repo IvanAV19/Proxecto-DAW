@@ -155,11 +155,23 @@ Recurso: [Modelo de plan de negocios. Empresa de servicios informáticos. IGAPE]
   
 ## 6- Requirimentos
 
-> *EXPLICACIÓN*: Descrición dos medios materiais e das tecnoloxías necesarias que se usarán para desenvolver o proxecto incluíndo as linguaxes de programación frontend e backend, técnicas, librerías, bases de datos, servizos usados, servidores, API’s, etc.
->
-> - **Infraestructura:** dominio web, servidor web dedicado, servidor de base de datos, almacenamento, memoria, ...
-> - **Backend:** tecnoloxías usadas.
-> - **Frontend:** tecnoloxías usadas
+### Infraestructura:
+- **Dominio Web**: Se adquirirá un nombre de dominio adecuado para el proyecto.
+- **Servidor Web Dedicado**: Se utilizará un servidor web dedicado para alojar la aplicación.
+- **Servidor de Base de Datos**: Se implementará un servidor de base de datos para gestionar los datos del proyecto.
+- **Almacenamiento**: Se requerirá almacenamiento suficiente para los archivos y datos de la aplicación.
+- **Memoria**: Se asignará memoria adecuada en el servidor para garantizar el rendimiento óptimo.
+
+### Backend:
+- **Lenguaje de Programación**: Se utilizará PHP como lenguaje principal en el backend debido a su amplia adopción y funcionalidades para desarrollo web.
+- **Framework**: Se empleará Laravel como framework de desarrollo web debido a su estructura modular, su amplio ecosistema de herramientas y su facilidad para implementar patrones de diseño.
+- **Base de Datos**: Se utilizará MariaDB como sistema de gestión de base de datos debido a su compatibilidad con MySQL y su rendimiento.
+- **Servicio de Autenticación**: Se aprovechará el propio sistema de autenticación de Laravel, que proporciona características de autenticación completas y seguras.
+
+### Frontend:
+- **Lenguajes de Programación**: Se empleará HTML, CSS y JavaScript para el desarrollo del frontend para garantizar una experiencia de usuario dinámica y atractiva.
+- **Librerías de Estilos**: Se aprovechará Bootstrap para la creación de un diseño responsive y moderno.
+- **Gestor de Paquetes**: Se utilizará npm para gestionar las dependencias del proyecto y facilitar la instalación de nuevas herramientas y librerías.
 
 ## 7- Planificación
 

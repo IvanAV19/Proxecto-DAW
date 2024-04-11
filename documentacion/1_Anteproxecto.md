@@ -48,7 +48,9 @@ El éxito de la aplicación depende de la correcta configuración de los paráme
 
 ![Imagen de Costes](../img/costesVariables.PNG "Costes Fijos")
 
-Siendo la previsión de costes totales
+La previsión de costes totales es de 2.700 € anuales, siendo esta variable ya que se debe tener en cuenta que el coste del uso del servidor varía según el tráfico de la aplicación.
+
+![Imagen de Costes](../img/costesTotales.PNG "Costes Totales")
 
 ### Recursos humanos:
 
@@ -62,6 +64,8 @@ Siendo la previsión de costes totales
 - **Productos/Servicios:** Se ofrecerán dos opciones de productos/servicios:
   - Opción 1, que incluye la aplicación y soporte de errores por 15 €/mes.
   - Opción 2, que incluye Opción 1 más la administración y gestión de la app web por 30 €/mes.
+ 
+![Imagen de Costes](../img/productosServicios.PNG "Productos y Servicios")
 
 ### Previsión de ingresos:
 

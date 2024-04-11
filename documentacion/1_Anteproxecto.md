@@ -30,11 +30,11 @@ El éxito de la aplicación depende de la correcta configuración de los paráme
 
 ## 2- Xustificación do proxecto
 
-> Este proyecto surge de la necesidad de los docentes a la hora de mostrar las funcionalidades de la BIOS de manera segura y sin riesgos. “BIOS Simulator” está destinado para trabajar con profesores que impartan esta materia sin la necesidad de tener que agrupar a los alumnos en un solo ordenador. De esta manera disminuyen los posibles problemas que se puedan llegar a causar a los equipos, ya que con este sistema cada alumno puede aprender a utilizar una BIOS desde su propio ordenador de manera controlada y segura ya que estarán trabajando sobre una aplicación web y no en la propia BIOS.
+Este proyecto surge de la necesidad de los docentes a la hora de mostrar las funcionalidades de la BIOS de manera segura y sin riesgos. “BIOS Simulator” está destinado para trabajar con profesores que impartan esta materia sin la necesidad de tener que agrupar a los alumnos en un solo ordenador. De esta manera disminuyen los posibles problemas que se puedan llegar a causar a los equipos, ya que con este sistema cada alumno puede aprender a utilizar una BIOS desde su propio ordenador de manera controlada y segura ya que estarán trabajando sobre una aplicación web y no en la propia BIOS.
 
 ## 3- Axudas e financiación
 
-> Los recursos materiales y humanos necesarios para poner en marcha el proyecto, así como las necesidades de financiación asociadas son los siguientes:
+Los recursos materiales y humanos necesarios para poner en marcha el proyecto, así como las necesidades de financiación asociadas son los siguientes:
 
 ### Recursos materiales:
 
@@ -64,8 +64,6 @@ La previsión de costes totales es de 2.700 € anuales, siendo esta variable ya
 - **Productos/Servicios:** Se ofrecerán dos opciones de productos/servicios:
   - Opción 1, que incluye la aplicación y soporte de errores por 15 €/mes.
   - Opción 2, que incluye Opción 1 más la administración y gestión de la app web por 30 €/mes.
- 
-![Imagen de Costes](../img/productosServicios.PNG "Productos y Servicios")
 
 ### Previsión de ingresos:
 
@@ -77,11 +75,13 @@ La previsión de costes totales es de 2.700 € anuales, siendo esta variable ya
   - Opción 1: Con 2 clientes, se generarán ingresos de 360,00 €/año.
   - Opción 2: Con 8 clientes, se generarán ingresos de 2.880,00 €/año.
 
-Con esta información, se pretende asegurar una gestión eficiente de los recursos y una planificación financiera sólida para la puesta en marcha y desarrollo exitoso del proyecto de la página web educativa que simula una BIOS.
+Con estos datos, se pretende asegurar una gestión eficiente de los recursos y una planificación financiera sólida para la puesta en marcha y desarrollo exitoso del proyecto de la página web educativa que simula una BIOS.
+
+![Imagen de Costes](../img/prevision.PNG "Previsión de Ingresos")
 
 ## 4- Prevención de riesgos laborales
 
-> En este apartado se detallan las medidas necesarias para garantizar la seguridad y salud de los trabajadores involucrados en el desarrollo y mantenimiento de Bios-Simulator. Además, se identifican los riesgos inherentes a la ejecución de las actividades y se establece un plan de prevención de riesgos, así como los medios y equipos necesarios para mitigarlos.
+En este apartado se detallan las medidas necesarias para garantizar la seguridad y salud de los trabajadores involucrados en el desarrollo y mantenimiento de Bios-Simulator. Además, se identifican los riesgos inherentes a la ejecución de las actividades y se establece un plan de prevención de riesgos, así como los medios y equipos necesarios para mitigarlos.
 
 ### Necesidades de permisos y autorizaciones
 
@@ -112,56 +112,120 @@ Para llevar a cabo las actividades relacionadas con el desarrollo y mantenimient
 
 ## 5- Modelo de negocio
 
-> *EXPLICACIÓN*: Elección do modelo de negocio explicando a súa xustificación.
->
-> **Xustifica a elección.**
-> 1. Xustificación das necesidades detectadas que cubre o sistema a desenvolver.
-> 2. Posibilidades de comercialización do sistema (viabilidade, competidores, ...).
-> 3. Ideas para a súa comercialización.
+La opción elegida es constituirme como autónomo, ya que me brinda flexibilidad, independencia económica. Puedo gestionar mi horario, elegir los proyectos y clientes que deseo, y desarrollar nuevas habilidades. Además, tengo el control de mi negocio y puedo crecer profesionalmente. Teniendo en cuenta que ser autónomo implica asumir riesgos económicos y responsabilidades adicionales.
 
-> Ejemplos de modelo de negocio: 
->   + Modelo de pago.
->   + Freemium: é de balde pero as funcionalidades extras son de pago.
->   + In house: desenvolvementos a medida para contornos empresariais.
->   + De subscrición.
->   + Por publicidade.
->   + Outros.
+He detectado posibles necesidades en el actual Sistema Educativo, en el que la educación a distancia está en auge.
 
+### Necesidades detectadas
+
+1. **Herramientas de Enseñanza Efectivas**:
+   - Los profesores necesitan herramientas efectivas que les permitan enseñar de manera clara y comprensible las funcionalidades de la BIOS a los estudiantes.
+
+2. **Seguridad y Protección del Equipo**:
+   - Es fundamental garantizar que los estudiantes puedan aprender sobre la BIOS sin correr el riesgo de dañar los equipos. Por lo tanto, se necesita una solución que proporcione un entorno seguro y controlado para practicar.
+
+3. **Acceso Remoto**:
+   - En entornos educativos donde el aprendizaje a distancia es común, es importante contar con una herramienta que permita a los estudiantes acceder al material de enseñanza desde cualquier lugar.
+
+4. **Flexibilidad y Escalabilidad**:
+   - El sistema educativo puede requerir una solución flexible y escalable que pueda adaptarse a diferentes entornos y necesidades educativas, desde pequeñas aulas hasta grandes instituciones.
+
+5. **Actualización de Contenidos**:
+   - Es posible que se necesite una forma fácil y eficiente de actualizar y mantener el contenido del curso relacionado con la BIOS a medida que evolucionan las tecnologías y las prácticas de enseñanza.
+
+6. **Feedback y Evaluación**:
+   - Los profesores pueden requerir herramientas integradas que les permitan evaluar el progreso de los estudiantes y proporcionar retroalimentación personalizada sobre su desempeño en las actividades relacionadas con la BIOS.
+
+7. **Accesibilidad y Usabilidad**:
+   - Es importante que la herramienta sea accesible para todos los estudiantes, incluidos aquellos con discapacidades, y que tenga una interfaz de usuario intuitiva y fácil de usar.
+ 
+### Posibilidades de Comercialización
+
+1. **Venta Directa a Instituciones Educativas**:
+   - **Viabilidad**: Vender directamente a instituciones educativas puede ser viable si el sistema ofrece un valor claro y demostrable para mejorar la enseñanza de la BIOS.
+   - **Competidores**: Es posible que existan competidores que ofrecen herramientas similares para la enseñanza de la BIOS, como software educativo especializado o simuladores de sistemas informáticos por lo que mi empresa se esforzará en ser la más competitiva.
+
+2. **Suscripciones para Acceso Online**:
+   - **Viabilidad**: Ofrecer suscripciones para acceder al sistema online puede ser una opción rentable, especialmente al proporcionar actualizaciones regulares y soporte técnico continuo.
+
+3. **Licencias para Escuelas y Universidades**:
+   - **Viabilidad**: Ofrecer licencias de uso a escuelas y universidades puede llegar a ser una estrategia efectiva para llegar a un amplio público objetivo y generar ingresos.
+
+4. **Alianzas con Editoriales Educativas**:
+   - **Viabilidad**: Establecer alianzas con editoriales educativas para incluir "BIOS Simulator" como parte de sus materiales de enseñanza puede ser una forma efectiva de llegar a más usuarios y generar reconocimiento de marca.
+
+5. **Programas de Capacitación para Profesores**:
+   - **Viabilidad**: Ofrecer programas de capacitación para profesores sobre cómo utilizar eficazmente "BIOS Simulator" en el aula puede ser una forma de generar ingresos adicionales y aumentar la adopción del sistema.
+  
+### Posibles Modelos de Pago para tu Negocio
+
+1. **Pago Único por Licencia**:
+   - Los clientes pagan una tarifa única por una licencia de uso del producto. Una vez pagada, tienen acceso completo al sistema sin necesidad de pagos adicionales.
+
+2. **Suscripción Mensual/Anual**:
+   - Los clientes pagan una tarifa recurrente, ya sea mensual o anual, para acceder al sistema y recibir actualizaciones periódicas, soporte técnico y nuevas características.
+
+3. **Modelo Freemium**:
+   - Ofrece una versión básica gratuita del producto con funcionalidades limitadas, y luego ofrece opciones premium pagas con características adicionales y funcionalidades avanzadas.
+
+4. **Pago por Personalización o Servicios Profesionales**:
+   - Ofrece servicios de personalización del sistema según las necesidades específicas del cliente, cobrando una tarifa por estos servicios adicionales.
+
+5. **Pago por Capacitación o Cursos**:
+   - Ofrece cursos de capacitación adicionales para usuarios interesados en aprender a utilizar el sistema de manera más efectiva, cobrando una tarifa por la participación en estos cursos.
  
 ### 5.1- Viabilidade
 
 #### 5.1.1- Viabilidade técnica
 
-> - Será posible dispoñer dos recursos humanos e medios de produción necesarios (materias primas, maquinaria,  instalacións, etc.)?
-> - Existe algún impedimento técnico que dificulte o proceso produtivo?  
+Se considera que el proyecto es técnicamente viable debido a las siguientes razones:
+
+1. **Propiedad de Recursos Materiales**: Todos los recursos materiales necesarios para poner en marcha el proyecto son de mi propiedad, lo que incluye equipos, software necesario y cualquier otro hardware o infraestructura requerida.
+
+2. **RRHH**: Al ser el único trabajador del proyecto, tengo un control total sobre el proceso de desarrollo y mantenimiento del sistema y del desarrollo, tengo la libertad de elegir las tecnologías más adecuadas para el proyecto según mis preferencias. Esto me permite una adaptación eficiente a las necesidades del negocio y la implementación de soluciones técnicas óptimas, lo que me facilita la toma de decisiones técnicas y la implementación de cambios según sea necesario.
 
 #### 5.1.2- Viabilidade económica
 
-> - Os beneficios do proxecto son superiores aos costes?
-> - As perdas poden cubrirse vía financiamento (por parte da administración pública, con subvencións, etc)?    
+Evaluación de costes directos e indirectos del proyecto como los beneficios esperados a 2 años vista.
+
+![Imagen de Costes](../img/entornoEconomico.PNG "Entorno Económico")  
 
 ### 5.2- Competencia
 
-- Identificación da competencia, as súas características e a súa posición no mercado.
-- Existencia de productos/servizos substitutivos.
-
-Recurso: [Modelo de plan de negocios. Empresa de servicios informáticos. IGAPE](http://www.igape.es/images/crear-unha-empresa/Recursos/PlansdeNegocio/16ServiciosInformaticos12_5_cas.pdf) (páxina 45 e seguintes)
+La competencia en el mercado se compone de varias empresas que ofrecen productos o servicios similares al que ofrece mi empresa pero este proyecto tiene además el valor añadido de poder ser destinado al campo de la educación.
 
 ### 5.3- Promoción
 
-> *EXPLICACIÓN* Técnicas elixidas para a promoción da empresa.
->
-> - Técnicas elixidas:
->   + Redes sociais.
->   + Plataformas multimedia.
->   + Páxina web.
->   + Posicionamento web.
->   + Patrocinios.
->   + Participación en eventos.
->   + Prácticas de responsabilidade social corporativa. 
->   + Outros.
-> - Xustifica a elección.
-  
+#### Las Técnicas Elegidas son:
+
+1. **Redes Sociales**:
+   - Utilizaremos plataformas como Facebook, Twitter, e Instagram para llegar a una amplia audiencia, compartir contenido relevante y establecer una comunidad en línea.
+
+2. **Plataformas Multimedia**:
+   - Aprovecharemos plataformas como YouTube y Vimeo para crear videos promocionales, tutoriales y demostraciones de nuestros productos y servicios.
+
+3. **Página Web**:
+   - Desarrollaremos y mantendremos una página web profesional que sirva como punto central de información sobre nuestra empresa, productos y servicios.
+
+4. **Posicionamiento Web**:
+   - Implementaremos estrategias de SEO (Optimización de Motores de Búsqueda) para mejorar el posicionamiento de nuestra página web en los resultados de búsqueda y aumentar nuestra visibilidad en línea.
+
+5. **Patrocinios**:
+   - Exploraremos oportunidades de patrocinio de eventos locales, conferencias educativas y competiciones estudiantiles para aumentar la exposición de nuestra marca y establecer asociaciones en la comunidad.
+
+6. **Prácticas de Responsabilidad Social Corporativa (RSC)**:
+   - Comprometernos con prácticas empresariales socialmente responsables, como donaciones a organizaciones benéficas locales, programas de voluntariado y acciones medioambientales, para fortalecer nuestra imagen de marca y contribuir positivamente a la comunidad.
+
+#### Justificación de la Elección:
+
+- **Alcance Amplio y Diversificado**: Al combinar diferentes técnicas de promoción, podemos llegar a una audiencia más amplia y diversa, abarcando tanto a usuarios activos en línea como a aquellos que prefieren medios tradicionales.
+
+- **Interacción y Engagement**: Las redes sociales y las plataformas multimedia nos permitirán interactuar directamente con nuestros clientes potenciales, responder preguntas, recopilar comentarios y crear relaciones más sólidas con nuestra audiencia.
+
+- **Visibilidad y Credibilidad**: Una página web bien diseñada y un sólido posicionamiento en buscadores aumentarán nuestra visibilidad en línea y mejorarán nuestra credibilidad como empresa.
+
+- **Participación en la Comunidad**: A través de patrocinios, eventos y prácticas de RSC, demostraremos nuestro compromiso con la comunidad local y ganaremos la confianza y lealtad de los clientes al demostrar nuestros valores y responsabilidad social.
+
 ## 6- Requirimentos
 
 ### Infraestructura:
@@ -184,33 +248,29 @@ Recurso: [Modelo de plan de negocios. Empresa de servicios informáticos. IGAPE]
 
 ## 7- Planificación
 
-- **Fase 1: Anteproyecto**
-  - Duración: 2 semanas
-  - Fechas: 1 abril - 15 abril
+- **Estudio preliminar**
+  - Duración estimada: 2 meses
   - Descripción:
     - Definir el alcance y los objetivos del proyecto.
     - Realizar investigación preliminar sobre tecnologías y herramientas a utilizar.
     - Identificar requisitos iniciales y stakeholders.
 
 - **Fase 2: Análisis**
-  - Duración: 1 semana
-  - Fechas: 16 abril - 22 abril
+  - Duración estimada: 1 mes
   - Descripción:
     - Recopilar y analizar los requisitos detallados del proyecto.
     - Identificar los casos de uso y escenarios de usuario.
     - Realizar diagramas de flujo y modelos de datos preliminares.
 
 - **Fase 3: Diseño**
-  - Duración: 1 semana
-  - Fechas: 23 abril - 29 abril
+  - Duración estimada: 1 mes
   - Descripción:
     - Diseñar la arquitectura del sistema.
     - Crear diagramas de clases y de secuencia.
     - Diseñar la interfaz de usuario (UI) y la experiencia del usuario (UX).
 
 - **Fase 4: Codificación y pruebas**
-  - Duración: 4 semanas
-  - Fechas: 30 abril - 27 maio
+  - Duración estimada: 4 meses
   - Descripción:
     - Implementar el código según el diseño previo.
     - Realizar pruebas unitarias y de integración.
@@ -218,10 +278,17 @@ Recurso: [Modelo de plan de negocios. Empresa de servicios informáticos. IGAPE]
     - Realizar pruebas de aceptación del cliente.
 
 - **Fase 5: Implantación**
-  - Duración: 1 semana
-  - Fechas: 28 maio - 3 junio
+  - Duración estimada: 1 mes
   - Descripción:
     - Preparar el entorno de producción.
     - Desplegar la aplicación en el servidor.
     - Realizar pruebas finales en el entorno de producción.
     - Capacitar al cliente en el uso de la aplicación.
+   
+| Tarea                  | Duración Estimada | Inicio      | Fin         |
+|------------------------|-------------------|-------------|-------------|
+| Estudio preliminar     | 2 meses           | 01/04/2024  | 01/06/2024  |
+| Análisis               | 1 mes             | 01/06/2024  | 01/07/2024  |
+| Diseño                 | 1 mes             | 01/07/2024  | 01/08/2024  |
+| Codificación y pruebas | 4 meses           | 01/08/2024  | 01/12/2024  |
+| Implantación           | 1 mes             | 01/12/2024  | 01/01/2025  |

@@ -16,13 +16,13 @@
 
 ## 1- Descrición do proxecto
 
-> Este proyecto “BIOS Simulator” pretende ser un sistema educativo basado en una página web con el estilo de una BIOS, diseñada para profesores que buscan un sistema de aprendizaje para enseñar como funciona una BIOS.
+> “BIOS Simulator” pretende ser un sistema educativo basado en una página web con el estilo de una BIOS, está diseñada para docentes que buscan un sistema de aprendizaje sencillo y dinámico para enseñar como funciona una BIOS.
 >
->  “BIOS Simulator” permite al profesor subir plantillas de ejercicios sobre las diversas funciones de las que dispone una BIOS. El sistema automatiza la corrección de los ejercicios, ya que el alumno podrá ver si su solución es correcta nada más enviar las respuestas.
+>  “BIOS Simulator” permite al docente subir plantillas de ejercicios sobre las diversas funciones de las que dispone una BIOS. El sistema automatiza la corrección de los ejercicios, así pues, el alumno podrá comprobar si su solución es correcta automáticamente.
 >
->  Además, la web ofrece un entorno amigable e interactivo tanto para los profesores como para los alumnos.
+>  Además, la web ofrece un entorno amigable e interactivo tanto para los docentes como para los alumnos.
 >
-> "BIOS Simulator" es una solución online al ser una aplicación web. Este formato es de muy fácil acceso porque el usuario solo necesita un navegador para establecer una conexión con el servidor que aloja el proyecto y no se requiere instalación de software.
+> "BIOS Simulator" ofrece una solución en línea como una aplicación web, lo que facilita su acceso al usuario, quien solo necesita un navegador para conectarse al servidor del proyecto, sin necesidad de instalar software adicional.
 >
 > Todos los recursos necesarios para la prestación de los servicios se almacenan en el servidor: plantillas de ejercicios, base de datos, copias de seguridad, etc.
 >
@@ -30,13 +30,11 @@
 
 ## 2- Xustificación do proxecto
 
-> “BIOS Simulator” está destinado para trabajar con profesores que enseñen o quieran enseñar a sus alumnos como funciona realmente una BIOS sin tener que agrupar a sus alumnos en un solo ordenador y preocuparse por los posibles problemas que puedan causar a este mismo. Ya que con este sistema cada alumno puede aprender a utilizar una BIOS desde su propio ordenador.
->
-> Además, ni el profesor ni los alumnos tendrán que preocuparse por si escogen una mala opción que pudiera desencadenar alguna clase de fallo en el ordenador ya que estarían trabajando sobre una aplicación web y no en la propia BIOS.
+> Este proyecto surge de la necesidad de los docentes a la hora de mostrar las funcionalidades de la BIOS de manera segura y sin riesgos. “BIOS Simulator” está destinado para trabajar con profesores que impartan esta materia sin la necesidad de tener que agrupar a los alumnos en un solo ordenador. De esta manera disminuyen los posibles problemas que se puedan llegar a causar a los equipos, ya que con este sistema cada alumno puede aprender a utilizar una BIOS desde su propio ordenador de manera controlada y segura ya que estarán trabajando sobre una aplicación web y no en la propia BIOS.
 
 ## 3- Axudas e financiación
 
-> En este apartado se detallarán los recursos materiales y humanos necesarios para poner en marcha el proyecto, así como las necesidades de financiación asociadas. Se elaborará un presupuesto que incluya todos los gastos previstos durante el desarrollo y la implementación de la página web educativa que simula una BIOS.
+> Los recursos materiales y humanos necesarios para poner en marcha el proyecto, así como las necesidades de financiación asociadas son los siguientes:
 
 ### Recursos materiales:
 

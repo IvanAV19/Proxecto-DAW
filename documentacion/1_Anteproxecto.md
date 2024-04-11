@@ -16,17 +16,17 @@
 
 ## 1- Descrición do proxecto
 
-> “BIOS Simulator” pretende ser un sistema educativo basado en una página web con el estilo de una BIOS, está diseñada para docentes que buscan un sistema de aprendizaje sencillo y dinámico para enseñar como funciona una BIOS.
->
->  “BIOS Simulator” permite al docente subir plantillas de ejercicios sobre las diversas funciones de las que dispone una BIOS. El sistema automatiza la corrección de los ejercicios, así pues, el alumno podrá comprobar si su solución es correcta automáticamente.
->
->  Además, la web ofrece un entorno amigable e interactivo tanto para los docentes como para los alumnos.
->
-> "BIOS Simulator" ofrece una solución en línea como una aplicación web, lo que facilita su acceso al usuario, quien solo necesita un navegador para conectarse al servidor del proyecto, sin necesidad de instalar software adicional.
->
-> Todos los recursos necesarios para la prestación de los servicios se almacenan en el servidor: plantillas de ejercicios, base de datos, copias de seguridad, etc.
->
-> El éxito de la aplicación depende de la correcta configuración de los parámetros del sistema. Es decir, plantillas de ejercicios, soluciones de estos mismos, actividades que son asociadas por el profesor que crea la plantilla. Con la combinación correcta de los valores de estas variables, puede asegurarse de que se crea la plantilla correcta de acuerdo con los requisitos establecidos en las soluciones.
+“BIOS Simulator” pretende ser un sistema educativo basado en una página web con el estilo de una BIOS, está diseñada para docentes que buscan un sistema de aprendizaje sencillo y dinámico para enseñar como funciona una BIOS.
+
+“BIOS Simulator” permite al docente subir plantillas de ejercicios sobre las diversas funciones de las que dispone una BIOS. El sistema automatiza la corrección de los ejercicios para que los alumnos puedan verificar las respuestas de forma automática.
+
+Además, el diseño de la web ha sido creada para ofrecer un entorno amigable e interactivo tanto para docentes como alumnos.
+
+"BIOS Simulator" ofrece una solución en línea como una aplicación web, lo que facilita su acceso al usuario, quien solo necesita un navegador para conectarse al servidor del proyecto, sin necesidad de instalar software adicional.
+
+Todos los recursos necesarios para la prestación de los servicios se almacenan en el servidor: plantillas de ejercicios, base de datos, copias de seguridad, etc.
+
+El éxito de la aplicación depende de la correcta configuración de los parámetros del sistema. Es decir, plantillas de ejercicios, soluciones de estos mismos, actividades que son asociadas por el profesor que crea la plantilla. Con la combinación correcta de los valores de estas variables, puede asegurarse de que se crea la plantilla correcta de acuerdo con los requisitos establecidos en las soluciones.
 
 ## 2- Xustificación do proxecto
 
@@ -40,8 +40,15 @@
 
 - **Dominio web:** El costo fijo anual del dominio web será de 10 €/año.
 - **Servidor:** El costo fijo mensual del servidor será de 10 €/mes, lo que equivale a 120 €/año.
+
+![Imagen de Costes](../img/costes.PNG "Costes Fijos")
+
 - **Desarrollos web:** Los costos variables de los desarrollos web serán de 5 €/hora, con un máximo de 15 horas al mes, lo que supone un total de 900 € anuales.
 - **Soporte técnico:** Los costos variables del soporte técnico serán de 10 €/hora, con un máximo de 15 horas al mes, lo que equivale a 1800 € anuales.
+
+![Imagen de Costes](../img/costesVariables.PNG "Costes Fijos")
+
+Siendo la previsión de costes totales
 
 ### Recursos humanos:
 

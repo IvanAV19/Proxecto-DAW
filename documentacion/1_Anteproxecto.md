@@ -38,13 +38,13 @@ Los recursos materiales y humanos necesarios para poner en marcha el proyecto, a
 
 ### Recursos materiales:
 
-- **Dominio web:** El costo fijo anual del dominio web será de 10 €/año.
-- **Servidor:** El costo fijo mensual del servidor será de 10 €/mes, lo que equivale a 120 €/año.
+- **Dominio web:** El coste fijo anual del dominio web será de 10 €/año.
+- **Servidor:** El coste fijo mensual del servidor será de 10 €/mes, lo que equivale a 120 €/año.
 
 ![Imagen de Costes](../img/costes.PNG "Costes Fijos")
 
-- **Desarrollos web:** Los costos variables de los desarrollos web serán de 5 €/hora, con un máximo de 15 horas al mes, lo que supone un total de 900 € anuales.
-- **Soporte técnico:** Los costos variables del soporte técnico serán de 10 €/hora, con un máximo de 15 horas al mes, lo que equivale a 1800 € anuales.
+- **Desarrollos web:** Los costes variables de los desarrollos web serán de 5 €/hora, con un máximo de 15 horas al mes, lo que supone un total de 900 € anuales.
+- **Soporte técnico:** Los costes variables del soporte técnico serán de 10 €/hora, con un máximo de 15 horas al mes, lo que equivale a 1800 € anuales.
 
 ![Imagen de Costes](../img/costesVariables.PNG "Costes Fijos")
 

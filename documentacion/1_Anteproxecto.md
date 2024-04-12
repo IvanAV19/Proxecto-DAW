@@ -60,10 +60,10 @@ La previsión de costes totales es de 2.700 € anuales, siendo esta variable ya
 
 ### Financiación:
 
-- **Costos totales anuales:** Los costos totales del proyecto para el año serán de 2700 €.
+- **Costes totales anuales:** Los costes totales del proyecto para el año serán de 2700 €.
 - **Productos/Servicios:** Se ofrecerán dos opciones de productos/servicios:
   - Opción 1, que incluye la aplicación y soporte de errores por 15 €/mes.
-  - Opción 2, que incluye Opción 1 más la administración y gestión de la app web por 30 €/mes.
+  - Opción 2, que incluye la Opción 1 más la administración y gestión de la app web por 30 €/mes.
 
 ### Previsión de ingresos:
 
@@ -112,7 +112,7 @@ Para llevar a cabo las actividades relacionadas con el desarrollo y mantenimient
 
 ## 5- Modelo de negocio
 
-La opción elegida es constituirme como autónomo, ya que me brinda flexibilidad, independencia económica. Puedo gestionar mi horario, elegir los proyectos y clientes que deseo, y desarrollar nuevas habilidades. Además, tengo el control de mi negocio y puedo crecer profesionalmente. Teniendo en cuenta que ser autónomo implica asumir riesgos económicos y responsabilidades adicionales.
+La opción elegida es constituirme como autónomo, ya que me brinda flexibilidad y independencia económica. Puedo gestionar mi horario, elegir los proyectos y clientes que deseo, y desarrollar nuevas habilidades. Además, tengo el control de mi negocio y puedo crecer profesionalmente. Teniendo en cuenta que ser autónomo implica asumir riesgos económicos y responsabilidades adicionales.
 
 He detectado posibles necesidades en el actual Sistema Educativo, en el que la educación a distancia está en auge.
 
@@ -157,7 +157,7 @@ He detectado posibles necesidades en el actual Sistema Educativo, en el que la e
 5. **Programas de Capacitación para Profesores**:
    - **Viabilidad**: Ofrecer programas de capacitación para profesores sobre cómo utilizar eficazmente "BIOS Simulator" en el aula puede ser una forma de generar ingresos adicionales y aumentar la adopción del sistema.
   
-### Posibles Modelos de Pago para tu Negocio
+### Posibles Modelos de Pago para el Negocio
 
 1. **Pago Único por Licencia**:
    - Los clientes pagan una tarifa única por una licencia de uso del producto. Una vez pagada, tienen acceso completo al sistema sin necesidad de pagos adicionales.
@@ -166,7 +166,7 @@ He detectado posibles necesidades en el actual Sistema Educativo, en el que la e
    - Los clientes pagan una tarifa recurrente, ya sea mensual o anual, para acceder al sistema y recibir actualizaciones periódicas, soporte técnico y nuevas características.
 
 3. **Modelo Freemium**:
-   - Ofrece una versión básica gratuita del producto con funcionalidades limitadas, y luego ofrece opciones premium pagas con características adicionales y funcionalidades avanzadas.
+   - Ofrece una versión básica gratuita del producto con funcionalidades limitadas, y luego ofrece opciones premium de pago con características adicionales y funcionalidades avanzadas.
 
 4. **Pago por Personalización o Servicios Profesionales**:
    - Ofrece servicios de personalización del sistema según las necesidades específicas del cliente, cobrando una tarifa por estos servicios adicionales.
@@ -182,7 +182,7 @@ Se considera que el proyecto es técnicamente viable debido a las siguientes raz
 
 1. **Propiedad de Recursos Materiales**: Todos los recursos materiales necesarios para poner en marcha el proyecto son de mi propiedad, lo que incluye equipos, software necesario y cualquier otro hardware o infraestructura requerida.
 
-2. **RRHH**: Al ser el único trabajador del proyecto, tengo un control total sobre el proceso de desarrollo y mantenimiento del sistema y del desarrollo, tengo la libertad de elegir las tecnologías más adecuadas para el proyecto según mis preferencias. Esto me permite una adaptación eficiente a las necesidades del negocio y la implementación de soluciones técnicas óptimas, lo que me facilita la toma de decisiones técnicas y la implementación de cambios según sea necesario.
+2. **RRHH**: Al ser el único trabajador del proyecto, tengo un control total sobre el proceso de desarrollo y mantenimiento del sistema, tengo la libertad de elegir las tecnologías más adecuadas para el proyecto según mis preferencias. Esto me permite una adaptación eficiente a las necesidades del negocio y la implementación de soluciones técnicas óptimas, lo que me facilita la toma de decisiones técnicas y la implementación de cambios según sea necesario.
 
 #### 5.1.2- Viabilidade económica
 
@@ -214,7 +214,7 @@ La competencia en el mercado se compone de varias empresas que ofrecen productos
    - Exploraremos oportunidades de patrocinio de eventos locales, conferencias educativas y competiciones estudiantiles para aumentar la exposición de nuestra marca y establecer asociaciones en la comunidad.
 
 6. **Prácticas de Responsabilidad Social Corporativa (RSC)**:
-   - Comprometernos con prácticas empresariales socialmente responsables, como donaciones a organizaciones benéficas locales, programas de voluntariado y acciones medioambientales, para fortalecer nuestra imagen de marca y contribuir positivamente a la comunidad.
+   - Nos comprometeremos con prácticas empresariales socialmente responsables, como donaciones a organizaciones benéficas locales, programas de voluntariado y acciones medioambientales, para fortalecer nuestra imagen de marca y contribuir positivamente a la comunidad.
 
 #### Justificación de la Elección:
 

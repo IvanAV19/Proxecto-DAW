@@ -12,36 +12,61 @@
 
 ## 1- Descrición Xeral
 
->*EXPLICACION*: Descrición Xeral do proxecto
+"BIOS Simulator" se concibe como un sistema educativo basado en una página web con el aspecto y la funcionalidad de una BIOS, diseñado específicamente para profesores que buscan un método efectivo de enseñar el funcionamiento de una BIOS.
+
+"BIOS Simulator" permite a los profesores cargar plantillas de ejercicios sobre las diversas funciones de las que dispone una BIOS. El sistema automatiza la corrección de estos ejercicios, permitiendo que los alumnos vean de inmediato si sus respuestas son correctas tras enviarlas. Además, la plataforma web ofrece un entorno interactivo y amigable tanto para profesores como para alumnos.
+
+Al ser una aplicación web, "BIOS Simulator" garantiza un acceso fácil para los usuarios, ya que solo necesitan un navegador para conectarse al servidor que aloja el proyecto, sin necesidad de instalar software adicional. Todos los recursos necesarios, como plantillas de ejercicios, base de datos y copias de seguridad, están almacenados en el servidor.
+
+El éxito de la aplicación depende de la correcta configuración de los parámetros del sistema, que incluyen las plantillas de ejercicios, las soluciones correspondientes, actividades asociadas por el profesor que crea la plantilla. Con la combinación correcta de los valores de estas variables, puede asegurarse de que se crea la plantilla correcta de acuerdo con los requisitos establecidos en las soluciones.
+
+Destinado a profesores del ámbito de la informática, "BIOS Simulator" ofrece una alternativa eficaz para enseñar a los alumnos el funcionamiento de una BIOS. Con esta aplicación, los docentes tienen la capacidad de impartir conocimientos sobre la BIOS sin la necesidad de agrupar a los alumnos en un solo ordenador, evitando así preocupaciones por posibles problemas que puedan surgir en el equipo.
+
+Con este sistema, cada alumno tiene la oportunidad de aprender a utilizar una BIOS desde su propio ordenador de manera segura. La aplicación está diseñada de tal manera que, en caso de elegir una opción incorrecta, no se produce ningún fallo en el ordenador, ya que en ningún momento se trabaja directamente sobre la BIOS, sino sobre la aplicación web.
 
 ## 2- Funcionalidades
 
->*EXPLICACION* Describir que servizos ou operacións se van poder realizar por medio do noso proxecto, indicando que actores interveñen en cada caso.
->
-> Enumeradas, de maneira que na fase de deseño poidamos definir o diagrama ou configuración correspondente a cada funcionalidade.
-> Cada función ten uns datos de entrada e uns datos de saída. Entre os datos de entrada e de saída, realízase un proceso, que debe ser explicado.
+1. **Registro de Usuarios**
+   - **Descripción**: Permite a los usuarios registrarse en la plataforma proporcionando su información personal.
+   - **Actores Involucrados**: Usuarios, Sistema.
+   - **Datos de Entrada**: Nombre de usuario, correo electrónico, contraseña.
+   - **Proceso**: El sistema verifica la validez de los datos ingresados y los almacena en la base de datos.
+   - **Datos de Salida**: Confirmación de registro.
 
-Exemplo:
+2. **Inicio de Sesión**
+   - **Descripción**: Permite a los usuarios iniciar sesión en la plataforma utilizando sus credenciales.
+   - **Actores Involucrados**: Usuarios, Sistema.
+   - **Datos de Entrada**: Correo electrónico del usuario, contraseña.
+   - **Proceso**: El sistema verifica la autenticidad de las credenciales ingresadas y otorga acceso si son válidas.
+   - **Datos de Salida**: Sesión iniciada, acceso a funciones del usuario.
 
-| Acción   |  Descrición        |
-|----------|--------------------|
-| Alta de productos   | Dar de alta os productos na base de datos|
-| Modificar productos | Modificación de productos na base de datos|
-| Presentación dos productos  | Mostra dos productos por medio da páxina web |
+3. **Realización de Ejercicios**
+   - **Descripción**: Permite a los alumnos realizar los ejercicios cargados en la aplicación.
+   - **Actores Involucrados**: Alumnos, Sistema.
+   - **Datos de Entrada**: Ejercicio seleccionado, respuestas proporcionadas por el alumno.
+   - **Proceso**: El sistema evalúa las respuestas del alumno y proporciona retroalimentación sobre su desempeño.
+   - **Datos de Salida**: Resultado del ejercicio, retroalimentación.
 
 ## 3- Tipos de usuarios
+   
+1. **Usuario Registrado**
+   - **Descripción**: Los usuarios registrados han creado una cuenta en el sistema y tienen acceso a las funcionalidades del mismo, como realizar actividades.
 
-> *EXPLICACION* Describir os tipos de usuario que poderán acceder ao noso sistema. Habitualmente os tipos de usuario veñen definidos polas funcionalidades ás cales teñen acceso. En termos xerais existen moitos grupos de usuarios: anónimos, novos, rexistrados, bloqueados, confirmados, verificados, administradores, etc.
->
-> Exemplo:
->
-> - Usuario xenérico, que terá acceso a ...
-> - Usuario técnico, que poderá...
+2. **Usuario Administrador**
+   - **Descripción**: Los administradores tienen privilegios ampliados en el sistema y pueden acceder a todas las funcionalidades de administración. Tienen la capacidad de gestionar usuarios, configurar ajustes del sistema, y moderar contenidos y actividades.
+
+3. **Usuario Premium**
+   - **Descripción**: Los usuarios premium tienen acceso a características exclusivas y funcionalidades avanzadas del sistema. Pueden disfrutar de beneficios adicionales, como contenido exclusivo, soporte prioritario y funciones avanzadas.
 
 ## 4- Contorno operacional
 
-> *EXPLICACION* Neste apartado deben describirse os recursos necesarios, dende o punto de vista do usuario, para poder operar coa aplicación web. Habitualmente consiste nun navegador web actualizado e unha conexión a internet.
-Se é necesario algún hardware ou software adicional, deberá indicarse.
+Los usuarios solo necesitan disponer de:
+
+- **Navegador Web Actualizado**: Se requiere un navegador web moderno y actualizado, como Google Chrome, Mozilla Firefox, Microsoft Edge o Safari, para acceder a la plataforma y disfrutar de todas sus funcionalidades.
+
+- **Conexión a Internet**: Es imprescindible contar con una conexión a internet estable y de calidad para acceder a la aplicación y cargar todos los contenidos de manera óptima.
+
+No se necesitan otros recursos adicionales de hardware o software para utilizar la aplicación, lo que garantiza una experiencia de usuario accesible.
 
 ## 5- Normativa
 

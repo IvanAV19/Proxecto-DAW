@@ -8,8 +8,6 @@
   - [5- Normativa](#5--normativa)
   - [6- Melloras futuras](#6--melloras-futuras)
 
-> *EXPLICACION*: Este documento describe os requirimentos para "nome do proxecto" especificando que funcionalidade ofrecerá e de que xeito.
-
 ## 1- Descrición Xeral
 
 "BIOS Simulator" se concibe como un sistema educativo basado en una página web con el aspecto y la funcionalidad de una BIOS, diseñado específicamente para profesores que buscan un método efectivo de enseñar el funcionamiento de una BIOS.

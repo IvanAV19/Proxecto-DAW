@@ -26,13 +26,11 @@
 
 ## 1- Descrición do proxecto
 
-> _EXPLICACIÓN_: Realiza unha breve descrición do anteproxecto.Resalta o fundamental *coas túas propias palabras\*\*. Utiliza unha linguaxe correcta, *pero natural\*\*, que o entenda todo o mundo, mesmo e en especial, as persoas que non teñan un coñecemento técnico avanzado. Pode ser un estracto ou resumo de apartados que xa contemples noutros ficheiros.
->
-> Neste apartado trátase de describir a análise realizada e a toma de decisións adoptada sobre aspectos básicos ou iniciais do proxecto como:
->
-> - ¿En que consiste o noso proxecto? ¿Cal é o propósito principal da aplicación a desenvolver? ¿Cales son os obxectivos?
-> - ¿O desenvolvemento da aplicación abre unha oportunidade de negocio? ¿É posible comercializala? Como?
-> - ¿Que tecnoloxías son as máis axeitadas para a realización do proxecto?
+La aplicación está destinada a la gestión de mantenimientos de equipos, dirigida principalmente a empresas especializadas en este ámbito. El propósito principal de la aplicación es proporcionar una plataforma centralizada que simplifique la gestión de clientes, dispositivos y mantenimientos.
+
+Con esta aplicación, las empresas podrán registrar nuevos clientes y asociar dispositivos a cada uno de ellos, lo que facilitará la creación de un historial detallado de los mantenimientos realizados en cada equipo. Además, la plataforma permitirá asignar técnicos a las solicitudes de servicio y llevar un seguimiento exhaustivo de las intervenciones realizadas.
+
+El objetivo principal de esta aplicación es optimizar y agilizar el proceso de gestión de mantenimientos, permitiendo a las empresas ofrecer un servicio más eficiente y de mayor calidad a sus clientes. Además, se considera que esta solución tiene potencial para convertirse en una herramienta comercializable ya que muchas empresas requieren de herramientas eficientes para gestionar sus operaciones de mantenimiento.
 
 ## 2- Empresa
 
@@ -40,30 +38,60 @@
 
 ### 2.1- Idea de negocio
 
-> _EXPLICACIÓN_: Define o producto central, o valor engadido e a utilidade. Se se ogrecen productos aumentados, indicalo tamén.
+El producto central de este proyecto es una aplicación de gestión de mantenimientos de equipos. Su principal valor añadido radica en proporcionar a las empresas una plataforma centralizada y eficiente para gestionar clientes, dispositivos y mantenimientos.
+
+La utilidad de esta aplicación es facilitar la administración de los procesos de mantenimiento y reparación de equipos, permitiendo a las empresas llevar un registro detallado de los clientes, los dispositivos asociados a cada uno y los mantenimientos realizados en cada equipo. Esto les ayudará a mejorar la organización interna, optimizar la asignación de recursos y ofrecer un servicio más eficiente y de mayor calidad a sus clientes.
+
+Además del producto central, se podrían ofrecer productos aumentados, como servicios de análisis de datos para identificar tendencias en los mantenimientos realizados, herramientas de programación de intervenciones automatizadas o servicios de asesoramiento técnico para la optimización de procesos de mantenimiento. Estos productos aumentados podrían ofrecer un valor adicional y ampliar las posibilidades de negocio para las empresas que utilicen la aplicación.
 
 ### 2.2- Xustificación da idea
 
-> _EXPLICACIÓN_: Neste apartado incluirase a información necesaria para xustificar a realización do proxecto. Debe indicarse como xurdiu a idea do proxecto, que obxectivo se persegue coa súa posta en marcha e/ou que problema vai resolver.
->
-> En este apartado indicade a nivel de idea de negocio:
->
-> - ¿Cal é a necesidade ou necesidades que se pretenden cubrir ou satisfacer?
-> - ¿Existen na actualidade aplicacións ou productos que tenten dar resposta a esa(s) necesidade(s)? ¿En que medida o conseguen?
-> - ¿Trátase de un segmento de mercado desabastecido ou insuficientemente atendido?
-> - ¿Un produto ineficiente? Un mercado novo?
->
-> Para sustentar as xustificación deberás proporcionar datos. Fontes máis utilizadas: INE, IGE, Informes sectoriais de
-> Industria, Statista... Deberás facer unha DAFO.
+La idea de desarrollar una aplicación para la gestión de mantenimientos de equipos surge de la necesidad identificada en muchas empresas de servicios de mantenimiento y reparación de dispositivos de contar con una herramienta eficiente para organizar y gestionar sus actividades. Esta necesidad se deriva de la complejidad inherente a la gestión de múltiples clientes, dispositivos y tareas de mantenimiento, así como de la falta de soluciones integrales disponibles en el mercado que satisfagan estas necesidades de manera adecuada.
+
+Actualmente, existen algunas aplicaciones y productos en el mercado que intentan abordar esta problemática, pero muchas de ellas son soluciones fragmentadas o poco adaptadas a las necesidades específicas de este sector. En general, estas herramientas suelen carecer de funcionalidades completas para la gestión de clientes, dispositivos y mantenimientos, lo que dificulta su uso y limita su eficacia.
+
+Por lo tanto, se puede decir que se trata de un segmento de mercado desabastecido o insuficientemente atendido, donde hay una clara oportunidad para desarrollar una solución integral y eficiente que cubra todas las necesidades de gestión de mantenimientos de equipos.
+
+#### Análisis DAFO
+
+##### Debilidades:
+- Falta de experiencia en el desarrollo de aplicaciones de gestión.
+- Necesidad de inversión inicial para el desarrollo y lanzamiento del producto.
+- Posible resistencia al cambio por parte de los usuarios acostumbrados a otros métodos de gestión.
+- Competencia potencial de empresas establecidas en el mercado de software de gestión.
+
+##### Amenazas:
+- Rápida evolución tecnológica que puede hacer obsoleta la aplicación en poco tiempo.
+- Posibles problemas de seguridad y privacidad de los datos de los clientes.
+- Posibilidad de cambios en la regulación que afecten al mercado o a las operaciones del negocio.
+
+##### Fortalezas:
+- Solución integral que cubre todas las necesidades de gestión de mantenimientos de equipos.
+- Potencial para capturar un segmento de mercado desatendido o insuficientemente atendido.
+- Flexibilidad para adaptarse a las necesidades específicas de cada cliente.
+- Posibilidad de ofrecer servicios de valor añadido, como soporte técnico o consultoría.
+
+##### Oportunidades:
+- Demanda creciente de soluciones de gestión eficientes en el sector de servicios de mantenimiento y reparación.
+- Posibilidad de expandir el negocio a otros sectores o mercados relacionados con la gestión de activos.
+- Potencial para establecer alianzas estratégicas con fabricantes de equipos o empresas de servicios complementarios.
 
 ### 2.3- Segmento de clientes
 
-> _EXPLICACIÓN_: Neste apartado debes indicar a quen irá dirixido o negocio, os potenciales clientes, respostando as seguinte pregunta: ¿A quen está dirixido?
->
-> Debes:
->
-> - Indicar o segmento ou segmentos cos rasgos principais e cuantificar o mercado.
-> - E se é o caso, diferenciar entre usuario e cliente.
+#### Mercado Objetivo:
+- El negocio estará dirigido a empresas dedicadas al mantenimiento y reparación de equipos, como empresas de servicios de informática, empresas de reparación de electrodomésticos, empresas de mantenimiento industrial, entre otras.
+- También se puede considerar como potenciales clientes a departamentos de mantenimiento de grandes empresas o instituciones que gestionan sus propios equipos internamente.
+
+#### Características del Segmento:
+- Las empresas del segmento suelen tener una amplia variedad de equipos y dispositivos que requieren mantenimiento regular.
+- Buscan soluciones integrales que les permitan gestionar eficientemente los mantenimientos, programar intervenciones, asignar técnicos y llevar un seguimiento detallado de las actividades realizadas.
+
+#### Cuantificación del Mercado:
+- Según datos del Instituto Nacional de Estadística (INE), en nuestro país existen aproximadamente 26.000 (https://www.ine.es/jaxiT3/Datos.htm?t=3954) empresas dedicadas al mantenimiento y reparación de equipos.
+
+#### Usuarios vs Clientes:
+- Los usuarios finales de la aplicación serán los técnicos de mantenimiento y los responsables de operaciones en las empresas clientes.
+- Los clientes serán las empresas que contraten el servicio de gestión de mantenimientos, las cuales pagarán por el uso de la plataforma según el número de usuarios y las funcionalidades contratadas.
 
 ### 2.4- Axudas e financiación
 

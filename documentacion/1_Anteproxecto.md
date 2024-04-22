@@ -165,24 +165,20 @@ He detectado posibles necesidades en ...
  
 #### Posibilidades de Comercialización
 
-##### Venta Directa a Empresas de Mantenimiento:
+1. **Venta Directa a Empresas de Mantenimiento:**
+   - **Viabilidad:** Vender directamente a empresas de mantenimiento es una estrategia viable, ya que estas empresas tienen una clara necesidad de gestionar eficientemente sus actividades de mantenimiento.
 
-**Viabilidad:** Vender directamente a empresas de mantenimiento es una estrategia viable, ya que estas empresas tienen una clara necesidad de gestionar eficientemente sus actividades de mantenimiento.
+2. **Suscripciones para Acceso Online:**
+   - **Viabilidad:** Ofrecer suscripciones para acceder al sistema online puede ser rentable, especialmente al proporcionar actualizaciones regulares y soporte técnico continuo.
+   - **Modelo de Pago:** Las suscripciones pueden estructurarse en planes mensuales, anuales o a largo plazo, brindando flexibilidad a los clientes para elegir la opción que mejor se adapte a sus necesidades y presupuesto.
 
-##### Suscripciones para Acceso Online:
+3. **Alianzas Estratégicas con Proveedores de Equipos:**
+   - **Viabilidad:** Establecer alianzas con proveedores de equipos puede ser una estrategia efectiva para llegar a un público objetivo más amplio y generar reconocimiento de marca.
+   - **Beneficios Mutuos:** Estas alianzas pueden beneficiar tanto a nuestra empresa como a los proveedores de equipos, ya que nuestra solución de gestión de mantenimiento puede agregar valor a sus clientes y fortalecer la relación comercial.
 
-**Viabilidad:** Ofrecer suscripciones para acceder al sistema online puede ser rentable, especialmente al proporcionar actualizaciones regulares y soporte técnico continuo.
-**Modelo de Pago:** Las suscripciones pueden estructurarse en planes mensuales, anuales o a largo plazo, brindando flexibilidad a los clientes para elegir la opción que mejor se adapte a sus necesidades y presupuesto.
-
-##### Alianzas Estratégicas con Proveedores de Equipos:
-
-**Viabilidad:** Establecer alianzas con proveedores de equipos puede ser una estrategia efectiva para llegar a un público objetivo más amplio y generar reconocimiento de marca.
-**Beneficios Mutuos:** Estas alianzas pueden beneficiar tanto a nuestra empresa como a los proveedores de equipos, ya que nuestra solución de gestión de mantenimiento puede agregar valor a sus clientes y fortalecer la relación comercial.
-
-##### Servicios de Consultoría y Personalización:
-
-**Viabilidad:** Ofrecer servicios de consultoría y personalización puede ser una fuente adicional de ingresos, especialmente para empresas que requieren soluciones altamente personalizadas.
-**Valor Agregado:** Estos servicios pueden agregar valor al producto central al adaptarlo a las necesidades específicas de cada cliente, lo que puede aumentar la satisfacción del cliente y la retención a largo plazo.
+4. **Servicios de Consultoría y Personalización:**
+   - **Viabilidad:** Ofrecer servicios de consultoría y personalización puede ser una fuente adicional de ingresos, especialmente para empresas que requieren soluciones altamente personalizadas.
+   - **Valor Agregado:** Estos servicios pueden agregar valor al producto central al adaptarlo a las necesidades específicas de cada cliente, lo que puede aumentar la satisfacción del cliente y la retención a largo plazo.
   
 #### Posibles Modelos de Pago para el Negocio
 

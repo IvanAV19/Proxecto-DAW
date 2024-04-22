@@ -146,30 +146,61 @@ La opción elegida es constituirme como autónomo, ya que me brinda flexibilidad
 
 He detectado posibles necesidades en ...
 
-### Necesidades detectadas
+#### Necesidades detectadas
 
+1. **Ineficiencias en la gestión actual:**
+   - Dependencia de sistemas obsoletos basados en papel.
+   - Falta de integración entre los procesos de mantenimiento y reparación.
+   - Dificultades en la coordinación de técnicos y programación de intervenciones.
 
+2. **Deficiencias en la atención al cliente:**
+   - Retrasos en la respuesta a solicitudes de servicio.
+   - Falta de seguimiento detallado de las intervenciones realizadas.
+   - Escasa capacidad para generar informes de rendimiento y calidad de servicio.
+
+3. **Necesidad de optimización operativa:**
+   - Dificultades en la planificación y programación de mantenimientos.
+   - Falta de visibilidad sobre el estado de los equipos y su historial de mantenimiento.
+   - Limitaciones en la capacidad de gestionar clientes y dispositivos de manera centralizada.
  
-### Posibilidades de Comercialización
+#### Posibilidades de Comercialización
 
+##### Venta Directa a Empresas de Mantenimiento:
 
+**Viabilidad:** Vender directamente a empresas de mantenimiento es una estrategia viable, ya que estas empresas tienen una clara necesidad de gestionar eficientemente sus actividades de mantenimiento.
+
+##### Suscripciones para Acceso Online:
+
+**Viabilidad:** Ofrecer suscripciones para acceder al sistema online puede ser rentable, especialmente al proporcionar actualizaciones regulares y soporte técnico continuo.
+**Modelo de Pago:** Las suscripciones pueden estructurarse en planes mensuales, anuales o a largo plazo, brindando flexibilidad a los clientes para elegir la opción que mejor se adapte a sus necesidades y presupuesto.
+
+##### Alianzas Estratégicas con Proveedores de Equipos:
+
+**Viabilidad:** Establecer alianzas con proveedores de equipos puede ser una estrategia efectiva para llegar a un público objetivo más amplio y generar reconocimiento de marca.
+**Beneficios Mutuos:** Estas alianzas pueden beneficiar tanto a nuestra empresa como a los proveedores de equipos, ya que nuestra solución de gestión de mantenimiento puede agregar valor a sus clientes y fortalecer la relación comercial.
+
+##### Servicios de Consultoría y Personalización:
+
+**Viabilidad:** Ofrecer servicios de consultoría y personalización puede ser una fuente adicional de ingresos, especialmente para empresas que requieren soluciones altamente personalizadas.
+**Valor Agregado:** Estos servicios pueden agregar valor al producto central al adaptarlo a las necesidades específicas de cada cliente, lo que puede aumentar la satisfacción del cliente y la retención a largo plazo.
   
-### Posibles Modelos de Pago para el Negocio
+#### Posibles Modelos de Pago para el Negocio
 
-1. **Pago Único por Licencia**:
-   - Los clientes pagan una tarifa única por una licencia de uso del producto. Una vez pagada, tienen acceso completo al sistema sin necesidad de pagos adicionales.
+1. **Licenciamiento de software:**
+   - Venta de licencias de uso del sistema, con opciones de suscripción mensual o anual.
+   - Diferenciación de planes según el número de usuarios y la capacidad de almacenamiento.
 
-2. **Suscripción Mensual/Anual**:
-   - Los clientes pagan una tarifa recurrente, ya sea mensual o anual, para acceder al sistema y recibir actualizaciones periódicas, soporte técnico y nuevas características.
+2. **Servicios de soporte técnico:**
+   - Oferta de paquetes de soporte técnico, que incluyan asistencia telefónica, actualizaciones y mantenimiento.
+   - Tarifas diferenciadas según el nivel de servicio y la disponibilidad de atención.
 
-3. **Modelo Freemium**:
-   - Ofrece una versión básica gratuita del producto con funcionalidades limitadas, y luego ofrece opciones premium de pago con características adicionales y funcionalidades avanzadas.
+3. **Modelos basados en el uso:**
+   - Tarificación por uso del sistema, con precios escalonados según el volumen de operaciones o la cantidad de dispositivos gestionados.
+   - Posibilidad de ofrecer versiones gratuitas o de prueba limitada para captar nuevos clientes.
 
-4. **Pago por Personalización o Servicios Profesionales**:
-   - Ofrece servicios de personalización del sistema según las necesidades específicas del cliente, cobrando una tarifa por estos servicios adicionales.
-
-5. **Pago por Capacitación o Cursos**:
-   - Ofrece cursos de capacitación adicionales para usuarios interesados en aprender a utilizar el sistema de manera más efectiva, cobrando una tarifa por la participación en estos cursos.
+4. **Personalización y consultoría:**
+   - Tarifas adicionales por servicios de personalización y consultoría, como la integración con sistemas existentes o el desarrollo de funcionalidades específicas.
+   - Oferta de servicios de formación y capacitación para usuarios finales y administradores del sistema.
 
 #### 2.5.1- Viabilidade
 

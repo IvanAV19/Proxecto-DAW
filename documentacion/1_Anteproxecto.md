@@ -142,10 +142,6 @@ Con estos datos, se pretende asegurar una gestión eficiente de los recursos y u
 
 ### 2.5- Modelo de negocio
 
-La opción elegida es constituirme como autónomo, ya que me brinda flexibilidad y independencia económica. Puedo gestionar mi horario, elegir los proyectos y clientes que deseo, y desarrollar nuevas habilidades. Además, tengo el control de mi negocio y puedo crecer profesionalmente. Teniendo en cuenta que ser autónomo implica asumir riesgos económicos y responsabilidades adicionales.
-
-He detectado posibles necesidades en ...
-
 #### Necesidades detectadas
 
 1. **Ineficiencias en la gestión actual:**
@@ -216,17 +212,30 @@ Evaluación de costes directos e indirectos del proyecto como los beneficios esp
 
 #### 2.5.1.3- Conclusión
 
-> - É viable?
-> - Os beneficios do proxecto son superiores aos costes?
-> - As perdas poden cubrirse vía financiamento (por parte da administración pública, con subvencións, etc)?
+1. **¿Es viable?**
+   Sí, el proyecto es viable, esto sugiere que el proyecto tiene el potencial de generar beneficios a largo plazo.
+
+2. **¿Los beneficios del proyecto son superiores a los costes?**
+   Sí, según la evaluación de costes e ingresos adjunta en la documentación del proyecto, los ingresos son superiores a los costes a partir del segundo año. Esto indica que el proyecto tiene una estructura financiera sólida y tiene el potencial de generar ganancias una vez que se establezca y comience a operar.
+
+3. **¿Las pérdidas pueden cubrirse vía financiamiento?**
+   Es posible que las pérdidas iniciales puedan cubrirse mediante financiamiento, especialmente si se recibe apoyo de la administración pública o se obtienen subvenciones u otras formas de financiamiento externo.
 
 ### 2.6- Competencia
 
-> _EXPLICACIÓN_: Neste apartado deberase indicar que outras empresas operan no mercado. Que cota de mercado teñen e como están posicionadas. Existencia de productos/servizos substitutivos
-> Recurso:
->
-> - [Modelo de plan de negocios. Empresa de servicios informáticos. IGAPE](../material_axuda/GuiaElaboracionPlanNegocio_cas.pdf) (páxina 45 e seguintes)
-> - [Modelos de plan de negocios. IGAPE](http://www.aprendeainnovar.igape.es/es/crear-unha-empresa/crear-unha-empresa/plan-de-negocio/modelos-del-plan-de-negocio)
+1. **Empresas Competidoras:**
+   - Nomadia Field Service: Ofrece un paquete de software para la gestión de servicios externos, con características como programación en tiempo real, reserva de citas y transacciones. [Sitio web](https://www.nomadia-group.com/en/landing-page-nomadia-fsm/?utm_source=GetApp)
+   - MEX Maintenance: Proporciona soluciones para la gestión de activos y mantenimiento diario, incluyendo creación de informes y pedidos automáticos de tiendas. Su aplicación MEX Mobile facilita la gestión de instalaciones tanto para los administradores como para los técnicos de servicio en el campo. [Sitio web](https://www.mex.com.au/Products/MEX)
+   - MaintainX: Ofrece un software de digitalización de procedimientos y órdenes de trabajo con prioridad para dispositivos móviles. Está diseñado para ayudar a los equipos de primera línea de fábricas a saber exactamente qué necesitan hacer y cómo hacerlo, incluyendo procedimientos de seguridad centralizados. [Sitio web](https://www.getmaintainx.com/?utm_campaign=Maintenance+Management&utm_medium=cpc&utm_source=GetApp)
+
+2. **Análisis de Vacíos en el Mercado:**
+   - Aunque existen algunas empresas que ofrecen soluciones relacionadas, no hay competidores directos en España que ofrezcan una aplicación para la gestión de mantenimientos de equipos con las mismas características y funcionalidades que nuestra idea.
+   - Esta falta de competidores directos representa una oportunidad para llenar un vacío en el mercado local y ofrecer una solución única y adaptada a las necesidades de las empresas españolas.
+
+3. **Identificación de Desafíos Potenciales:**
+   - Uno de los desafíos potenciales podría ser la necesidad de educar al mercado sobre la importancia y los beneficios de utilizar una aplicación específica para la gestión de mantenimientos de equipos.
+   - Otro desafío podría ser establecer la confianza y credibilidad entre los potenciales clientes, especialmente si están acostumbrados a utilizar métodos tradicionales de gestión de mantenimientos.
+   - Sin embargo, con una estrategia de marketing sólida y un enfoque en la excelencia del producto y el servicio al cliente, estos desafíos pueden superarse con éxito.
 
 ### 2.7- Promoción
 
@@ -271,7 +280,7 @@ Evaluación de costes directos e indirectos del proyecto como los beneficios esp
 
 ### 2.9- Forma xurídica
 
-> _EXPLICACIÓN_: Neste apartado
+La opción elegida es constituirme como autónomo, ya que me brinda flexibilidad y independencia económica. Puedo gestionar mi horario, elegir los proyectos y clientes que deseo, y desarrollar nuevas habilidades. Además, tengo el control de mi negocio y puedo crecer profesionalmente. Teniendo en cuenta que ser autónomo implica asumir riesgos económicos y responsabilidades adicionales.
 
 ### 2.10- Prevención de riesgos laborales
 

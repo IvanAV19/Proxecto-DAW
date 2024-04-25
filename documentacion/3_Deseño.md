@@ -10,7 +10,7 @@
 
 ## 1- Diagrama da arquitectura
 
-> Primera idea
+> Primera versión del Diagrama de Arquitectura
 
 ![Diagrama de Arquitectura](../diseños/diagrama_arquitectura.drawio.png "Diagrama de Arquitectura")
 

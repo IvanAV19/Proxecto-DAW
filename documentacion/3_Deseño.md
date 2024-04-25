@@ -10,7 +10,9 @@
 
 ## 1- Diagrama da arquitectura
 
-> *EXPLICACIÓN:* Incluír os diagramas de arquitectura que representen de forma gráfica a aplicación, os seus compoñentes e a súa interrelación: front-end, back-end, bases de datos, nube, microservizos, etc.
+> Primera idea
+
+![Diagrama de Arquitectura](../diseños/diagrama_arquitectura.drawio.png "Diagrama de Arquitectura")
 
 ## 2- Casos de uso
 

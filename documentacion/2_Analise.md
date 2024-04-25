@@ -10,17 +10,17 @@
 
 ## 1- Descrición Xeral
 
-"BIOS Simulator" se concibe como un sistema educativo basado en una página web con el aspecto y la funcionalidad de una BIOS, diseñado específicamente para profesores que buscan un método efectivo de enseñar el funcionamiento de una BIOS.
+DeviceCare es una aplicación destinada a la gestión de mantenimientos de equipos, dirigida principalmente a empresas especializadas en este ámbito. El propósito principal de la aplicación es proporcionar una plataforma centralizada que simplifique la gestión de clientes, dispositivos y mantenimientos.
 
-"BIOS Simulator" permite a los profesores cargar plantillas de ejercicios sobre las diversas funciones de las que dispone una BIOS. El sistema automatiza la corrección de estos ejercicios, permitiendo que los alumnos vean de inmediato si sus respuestas son correctas tras enviarlas. Además, la plataforma web ofrece un entorno interactivo y amigable tanto para profesores como para alumnos.
+**Funcionalidades Principales:**
+- Registro de nuevos clientes y asociación de dispositivos a cada uno de ellos.
+- Creación de un historial detallado de los mantenimientos realizados en cada equipo.
+- Asignación de técnicos a las solicitudes de servicio y seguimiento exhaustivo de las intervenciones realizadas.
 
-Al ser una aplicación web, "BIOS Simulator" garantiza un acceso fácil para los usuarios, ya que solo necesitan un navegador para conectarse al servidor que aloja el proyecto, sin necesidad de instalar software adicional. Todos los recursos necesarios, como plantillas de ejercicios, base de datos y copias de seguridad, están almacenados en el servidor.
+**Objetivo:**
+El objetivo principal de DeviceCare es optimizar y agilizar el proceso de gestión de mantenimientos, permitiendo a las empresas ofrecer un servicio más eficiente y de mayor calidad a sus clientes. Además, se considera que esta solución tiene potencial para convertirse en una herramienta comercializable, ya que muchas empresas requieren herramientas eficientes para gestionar sus operaciones de mantenimiento.
 
-El éxito de la aplicación depende de la correcta configuración de los parámetros del sistema, que incluyen las plantillas de ejercicios, las soluciones correspondientes, actividades asociadas por el profesor que crea la plantilla. Con la combinación correcta de los valores de estas variables, puede asegurarse de que se crea la plantilla correcta de acuerdo con los requisitos establecidos en las soluciones.
-
-Destinado a profesores del ámbito de la informática, "BIOS Simulator" ofrece una alternativa eficaz para enseñar a los alumnos el funcionamiento de una BIOS. Con esta aplicación, los docentes tienen la capacidad de impartir conocimientos sobre la BIOS sin la necesidad de agrupar a los alumnos en un solo ordenador, evitando así preocupaciones por posibles problemas que puedan surgir en el equipo.
-
-Con este sistema, cada alumno tiene la oportunidad de aprender a utilizar una BIOS desde su propio ordenador de manera segura. La aplicación está diseñada de tal manera que, en caso de elegir una opción incorrecta, no se produce ningún fallo en el ordenador, ya que en ningún momento se trabaja directamente sobre la BIOS, sino sobre la aplicación web.
+DeviceCare representa una solución integral para las empresas del sector, brindando una gestión más efectiva de los mantenimientos de equipos y contribuyendo al crecimiento y la eficiencia de las mismas.
 
 ## 2- Funcionalidades
 
@@ -38,23 +38,27 @@ Con este sistema, cada alumno tiene la oportunidad de aprender a utilizar una BI
    - **Proceso**: El sistema verifica la autenticidad de las credenciales ingresadas y otorga acceso si son válidas.
    - **Datos de Salida**: Sesión iniciada, acceso a funciones del usuario.
 
-3. **Realización de Ejercicios**
-   - **Descripción**: Permite a los alumnos realizar los ejercicios cargados en la aplicación.
-   - **Actores Involucrados**: Alumnos, Sistema.
-   - **Datos de Entrada**: Ejercicio seleccionado, respuestas proporcionadas por el alumno.
-   - **Proceso**: El sistema evalúa las respuestas del alumno y proporciona retroalimentación sobre su desempeño.
-   - **Datos de Salida**: Resultado del ejercicio, retroalimentación.
+3. **Registro de Clientes**
+   - **Descripción**: Permite registrar nuevos clientes en la aplicación.
+   - **Actores Involucrados**: Técnicos, Sistema.
+   - **Datos de Entrada**: Datos del cliente.
+   - **Proceso**: El técnico registra al cliente en la aplicación.
+   - **Datos de Salida**: Cliente registrado.
+
+4. **Registro de Dispositivos**
+   - **Descripción**: Permite registrar nuevos dispositivos detallado de los mantenimientos a realizar en cada equipo y asocia el cliente al dispositivo.
+   - **Actores Involucrados**: Técnicos, Sistema.
+   - **Datos de Entrada**: Detalles del mantenimiento, información del equipo, cliente asociado.
+   - **Proceso**: El técnico registra los detalles de cada dispositivo, incluyendo cliente, tipo de mantenimiento y descripción de este mismo.
+   - **Datos de Salida**: Dispositivo registrado.
 
 ## 3- Tipos de usuarios
    
 1. **Usuario Registrado**
-   - **Descripción**: Los usuarios registrados han creado una cuenta en el sistema y tienen acceso a las funcionalidades del mismo, como realizar actividades.
+   - **Descripción**: Los usuarios registrados han creado una cuenta en el sistema y tienen acceso a las funcionalidades del mismo, como registrar clientes o dispositivos.
 
 2. **Usuario Administrador**
    - **Descripción**: Los administradores tienen privilegios ampliados en el sistema y pueden acceder a todas las funcionalidades de administración. Tienen la capacidad de gestionar usuarios, configurar ajustes del sistema, y moderar contenidos y actividades.
-
-3. **Usuario Premium**
-   - **Descripción**: Los usuarios premium tienen acceso a características exclusivas y funcionalidades avanzadas del sistema. Pueden disfrutar de beneficios adicionales, como contenido exclusivo, soporte prioritario y funciones avanzadas.
 
 ## 4- Contorno operacional
 
@@ -72,36 +76,51 @@ En este apartado, se detalla cómo el proyecto cumple con la normativa vigente r
 
 ### Cumplimiento de la Ley Orgánica 3/2018
 
-El proyecto "BIOS Simulator" cumple con la normativa nacional en materia de protección de datos. Se hace referencia a la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales (LOPDPGDD).
+El proyecto "DeviceCare" cumple con la normativa nacional en materia de protección de datos. Se hace referencia a la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales (LOPDPGDD).
 
 ### Información sobre el Tratamiento de Datos
 
 En cumplimiento de la normativa, se proporciona la siguiente información sobre el tratamiento de datos en la plataforma:
 
 - **Responsable del Tratamiento de Datos**: Iván Alonso Vidal
-- **Finalidad del Tratamiento**: Los datos proporcionados por los usuarios se utilizan exclusivamente para el funcionamiento de la plataforma "BIOS Simulator" y la mejora de la experiencia del usuario.
+- **Finalidad del Tratamiento**: Los datos proporcionados por los usuarios se utilizan exclusivamente para el funcionamiento de la plataforma "DeviceCare" y la mejora de la experiencia del usuario.
 - **Aviso Legal**: Se incluye un aviso legal detallado que informa a los usuarios sobre sus derechos y obligaciones al utilizar la plataforma.
 - **Política de Privacidad**: Se proporciona una política de privacidad que explica cómo se recopilan, utilizan, almacenan y protegen los datos personales de los usuarios.
 - **Política de Cookies**: Se presenta una política de cookies que informa a los usuarios sobre el uso de cookies en la plataforma y cómo pueden gestionar sus preferencias de cookies.
 
-El proyecto "BIOS Simulator" se compromete a cumplir con todas las obligaciones legales establecidas en la normativa vigente para garantizar la protección de los datos personales de los usuarios y proporcionar un entorno seguro y transparente para su uso.
+El proyecto "DeviceCare" se compromete a cumplir con todas las obligaciones legales establecidas en la normativa vigente para garantizar la protección de los datos personales de los usuarios y proporcionar un entorno seguro y transparente para su uso.
 
 ## 6- Melloras futuras
 
-La aplicación web "BIOS Simulator" se encuentra en una etapa prematura de su desarrollo, por lo cual aún no dispone de todo el potencial que podría llegar a alcanzar en un futuro con mejoras y posibles ampliaciones.
+La aplicación web "DeviceCare" se encuentra en una etapa prematura de su desarrollo, por lo cual aún no dispone de todo el potencial que podría llegar a alcanzar en un futuro con mejoras y posibles ampliaciones.
 
 Algunas de las nuevas funcionalidades que podrían considerarse son las siguientes:
 
-- **Creación de tablas en la base de datos**: Permitir que los profesores creen sus propias preguntas y respuestas para sus alumnos, almacenándolas en la base de datos.
+1. **Notificaciones Automatizadas**:
+   - Desarrollar un sistema de notificaciones automatizadas para alertar a los clientes sobre el estado de sus equipos y los próximos mantenimientos programados.
 
-- **Panel de control para profesores**: Creación de una sección exclusiva para los profesores, desde la cual puedan gestionar sus preguntas, ejercicios enlazados y subirlos directamente a la base de datos.
+2. **Gestión de Inventario**:
+   - Agregar funcionalidades para gestionar el inventario de piezas y repuestos, facilitando la gestión de pedidos de suministros y el seguimiento de productos disponibles.
 
-- **Plantillas de ejercicios personalizadas**: Permitir a los profesores subir plantillas de ejercicios para sus clases, de modo que los alumnos solo puedan acceder a las plantillas activadas por el profesor.
+3. **Programación de Mantenimientos Periódicos**:
+   - Permitir a los clientes programar mantenimientos periódicos para sus equipos, con recordatorios automáticos para garantizar un servicio preventivo constante.
 
-- **Relación entre formularios**: Permitir que los ejercicios contengan preguntas de distintas secciones de la BIOS, desafiando a los alumnos a buscar las opciones correctas entre todas las disponibles.
+4. **Integración de Facturación**:
+   - Integrar un sistema de facturación para generar automáticamente facturas detalladas de los servicios prestados, simplificando la gestión financiera de la empresa.
 
-- **Ampliación de secciones de la BIOS**: Añadir más secciones de la BIOS con sus diferentes valores y opciones, para proporcionar una experiencia más completa de aprendizaje.
+5. **Análisis de Datos y Reportes**:
+   - Incorporar herramientas de análisis de datos y generación de reportes para visualizar métricas clave y tomar decisiones informadas basadas en datos.
 
-- **Funcionalidad de guía de teclas**: Hacer funcional la sección de guía de teclas, permitiendo a los usuarios avanzar entre las distintas opciones de la BIOS y seleccionar valores como si estuvieran interactuando con una BIOS real.
+6. **Gestión de Personal y Horarios**:
+   - Desarrollar un módulo para gestionar el personal técnico, asignar horarios de trabajo y planificar rutas de servicio de manera eficiente.
 
-Estas mejoras potenciales pueden mejorar significativamente la experiencia de aprendizaje de los usuarios y añadir valor al proyecto en el futuro.
+7. **Interfaz Móvil**:
+   - Desarrollar una aplicación móvil complementaria para que los técnicos puedan acceder a la información de los mantenimientos y actualizar el estado de los equipos desde cualquier lugar.
+
+8. **Soporte Multilingüe**:
+   - Incorporar soporte para múltiples idiomas para adaptar la aplicación a las necesidades de clientes internacionales.
+
+9. **Integración con IoT**:
+    - Explorar la integración con dispositivos IoT para monitorear el estado de los equipos de forma remota y anticipar posibles problemas.
+
+Estas son solo algunas ideas de posibles mejoras que podrían considerarse para ampliar y enriquecer la funcionalidad de la aplicación.

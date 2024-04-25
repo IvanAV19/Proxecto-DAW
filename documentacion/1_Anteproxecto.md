@@ -95,9 +95,6 @@ Los recursos materiales y humanos necesarios para poner en marcha el proyecto, a
 
 - **Dominio web:** El coste fijo anual del dominio web será de 10 €/año.
 - **Servidor:** El coste fijo mensual del servidor será de 10 €/mes, lo que equivale a 120 €/año.
-- **Electricidad:** El coste fijo mensual de la electricidad será de  €/mes, lo que equivale a  €/año.
-- **Agua:** El coste fijo mensual del agua será de  €/mes, lo que equivale a  €/año.
-- **Internet:** El coste fijo mensual del internet será de  €/mes, lo que equivale a  €/año.
 
 ![Imagen de Costes](../img/costes.PNG "Costes Fijos")
 
@@ -203,7 +200,7 @@ Se considera que el proyecto es técnicamente viable debido a las siguientes raz
 
 ##### 2.5.1.2- Viabilidade económica
 
-Evaluación de costes directos e indirectos del proyecto como los beneficios esperados a 2 años vista.
+Teniendo en cuenta los datos sobre la inversión y costes tratados en el apartados de "[2.4- Axudas e financiación](#24--axudas-e-financiación)", esta sería la evaluación de costes directos e indirectos del proyecto como los beneficios esperados a 2 años vista.
 
 ![Imagen de Costes](../img/entornoEconomico.PNG "Entorno Económico")
 

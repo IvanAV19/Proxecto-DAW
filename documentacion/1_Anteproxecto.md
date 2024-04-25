@@ -95,6 +95,9 @@ Los recursos materiales y humanos necesarios para poner en marcha el proyecto, a
 
 - **Dominio web:** El coste fijo anual del dominio web será de 10 €/año.
 - **Servidor:** El coste fijo mensual del servidor será de 10 €/mes, lo que equivale a 120 €/año.
+- **Electricidad:** El coste fijo mensual de la electricidad será de  €/mes, lo que equivale a  €/año.
+- **Agua:** El coste fijo mensual del agua será de  €/mes, lo que equivale a  €/año.
+- **Internet:** El coste fijo mensual del internet será de  €/mes, lo que equivale a  €/año.
 
 ![Imagen de Costes](../img/costes.PNG "Costes Fijos")
 

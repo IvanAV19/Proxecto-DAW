@@ -109,7 +109,7 @@ Los recursos materiales y humanos necesarios para poner en marcha el proyecto, a
 
 ![Imagen de Costes](../img/costesVariables.PNG "Costes Fijos")
 
-La previsión de costes totales es de 2.700 € anuales, siendo esta variable ya que se debe tener en cuenta que el coste del uso del servidor varía según el tráfico de la aplicación.
+La previsión de costes totales es de 2.700 € anuales, siendo esta variable, ya que se debe tener en cuenta que el coste del uso del servidor varía según el tráfico de la aplicación.
 
 ![Imagen de Costes](../img/costesTotales.PNG "Costes Totales")
 
@@ -254,7 +254,7 @@ Evaluación de costes directos e indirectos del proyecto como los beneficios esp
    - Implementaremos estrategias de SEO (Optimización de Motores de Búsqueda) para mejorar el posicionamiento de nuestra página web en los resultados de búsqueda y aumentar nuestra visibilidad en línea.
 
 5. **Patrocinios**:
-   - Exploraremos oportunidades de patrocinio de eventos locales, conferencias educativas y competiciones estudiantiles para aumentar la exposición de nuestra marca y establecer asociaciones en la comunidad.
+   - Exploraremos oportunidades de patrocinio en eventos locales y encuentros profesionales del sector para aumentar la exposición de nuestra marca y establecer asociaciones en la comunidad empresarial.
 
 6. **Prácticas de Responsabilidad Social Corporativa (RSC)**:
    - Nos comprometeremos con prácticas empresariales socialmente responsables, como donaciones a organizaciones benéficas locales, programas de voluntariado y acciones medioambientales, para fortalecer nuestra imagen de marca y contribuir positivamente a la comunidad.
@@ -271,24 +271,33 @@ Evaluación de costes directos e indirectos del proyecto como los beneficios esp
 
 ### 2.8- Proposta de valor
 
-> _EXPLICACIÓN_: **Apartado fundamental.**
->
-> - En que se diferencia fronte os competidores.
-> - Que melloras terá fronte os competidores.
-> - Que valor aporta ao mercado.
-> - ¿Porqué mercarán/contratarán este producto/servizo/idea fronte o resto?
+1. **Diferenciación frente a los competidores:**
+   - Nuestro servicio se distingue por ofrecer un enfoque integral en el mantenimiento de equipos, combinando la eficiencia operativa con la atención personalizada al cliente.
+   - Implementaremos un sistema de seguimiento detallado de cada mantenimiento realizado, brindando transparencia y confianza a nuestros clientes en cada etapa del proceso.
+
+2. **Mejoras frente a los competidores:**
+   - Integraremos tecnología avanzada para agilizar la gestión de mantenimientos y optimizar los tiempos de respuesta, ofreciendo un servicio más rápido y eficiente.
+   - Ofreceremos opciones de personalización en los planes de mantenimiento, adaptándonos a las necesidades específicas de cada cliente y superando las soluciones genéricas de la competencia.
+
+3. **Valor que aporta al mercado:**
+   - Nuestro servicio proporciona tranquilidad a los clientes al ofrecer un seguimiento detallado y transparente de cada mantenimiento, garantizando la calidad y confiabilidad en la atención.
+   - La combinación de eficiencia operativa y atención personalizada mejora la experiencia del cliente, generando una mayor satisfacción y fidelización en el mercado.
+
+4. **¿Por qué comprarán/contratarán este producto/servicio/idea frente al resto?:**
+   - Los clientes optarán por nuestro servicio debido a nuestra capacidad para ofrecer soluciones a medida que se adaptan a sus necesidades específicas, brindando un servicio personalizado y eficiente que se distingue de la competencia.
+   - La transparencia en la gestión y el seguimiento detallado de cada mantenimiento generarán confianza en los clientes, convirtiéndonos en la opción preferida en el mercado de reparación y mantenimiento de equipos.
 
 ### 2.9- Forma xurídica
 
-La opción elegida es constituirme como autónomo, ya que me brinda flexibilidad y independencia económica. Puedo gestionar mi horario, elegir los proyectos y clientes que deseo, y desarrollar nuevas habilidades. Además, tengo el control de mi negocio y puedo crecer profesionalmente. Teniendo en cuenta que ser autónomo implica asumir riesgos económicos y responsabilidades adicionales.
+La opción elegida es constituirme como autónomo, ya que me brinda flexibilidad e independencia económica. Puedo gestionar mi horario, elegir los proyectos y clientes que deseo, y desarrollar nuevas habilidades. Además, tengo el control de mi negocio y puedo crecer profesionalmente. Teniendo en cuenta que ser autónomo implica asumir riesgos económicos y responsabilidades adicionales.
 
 ### 2.10- Prevención de riesgos laborales
 
-En este apartado se detallan las medidas necesarias para garantizar la seguridad y salud de los trabajadores involucrados en el desarrollo y mantenimiento de Bios-Simulator. Además, se identifican los riesgos inherentes a la ejecución de las actividades y se establece un plan de prevención de riesgos, así como los medios y equipos necesarios para mitigarlos.
+En este apartado se detallan las medidas necesarias para garantizar la seguridad y salud de los trabajadores involucrados en el desarrollo y mantenimiento de la aplicación. Además, se identifican los riesgos inherentes a la ejecución de las actividades y se establece un plan de prevención de riesgos, así como los medios y equipos necesarios para mitigarlos.
 
 #### Necesidades de permisos y autorizaciones
 
-Para llevar a cabo las actividades relacionadas con el desarrollo y mantenimiento de la página web educativa, no se requieren permisos especiales o autorizaciones adicionales más allá de las habituales para el desarrollo de software y el alojamiento web.
+Para llevar a cabo las actividades relacionadas con el desarrollo y mantenimiento de la aplicación web, no se requieren permisos especiales o autorizaciones adicionales más allá de las habituales para el desarrollo de software y el alojamiento web.
 
 #### Riesgos inherentes a la ejecución
 
@@ -300,7 +309,7 @@ Para llevar a cabo las actividades relacionadas con el desarrollo y mantenimient
 
 #### Plan de prevención de riesgos
 
-- Se proporcionará formación sobre ergonomía y seguridad en el trabajo a todos los empleados involucrados en el desarrollo y mantenimiento de la página web educativa.
+- Se proporcionará formación sobre ergonomía y seguridad en el trabajo a todos los empleados involucrados en el desarrollo y mantenimiento de la aplicación web.
 - Se establecerán pausas regulares durante la jornada laboral para descansar la vista y realizar ejercicios de estiramiento.
 - Se realizarán evaluaciones periódicas de riesgos psicosociales y se implementarán medidas para promover el bienestar emocional de los trabajadores.
 - Se aplicarán políticas de seguridad de la información, que incluyen la gestión de contraseñas, el cifrado de datos y la protección contra malware y ataques cibernéticos.

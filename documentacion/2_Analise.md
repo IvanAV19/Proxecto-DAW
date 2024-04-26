@@ -52,6 +52,20 @@ DeviceCare representa una solución integral para las empresas del sector, brind
    - **Proceso**: El técnico registra los detalles de cada dispositivo, incluyendo cliente, tipo de mantenimiento y descripción de este mismo.
    - **Datos de Salida**: Dispositivo registrado.
 
+5. **Registro de Mantenimientos**
+   - **Descripción**: Permite registrar nuevos mantenimientos en la aplicación.
+   - **Actores Involucrados**: Administrador, Sistema.
+   - **Datos de Entrada**: Nombre del mantenimiento, precio.
+   - **Proceso**: El sistema verifica la validez de los datos ingresados y los almacena en la base de datos.
+   - **Datos de Salida**: Mantenimiento Registrado.
+
+6. **Registro de Técnicos**
+   - **Descripción**: Permite registrar nuevos técnicos en la aplicación.
+   - **Actores Involucrados**: Administrador, Sistema.
+   - **Datos de Entrada**: Nombre de usuario, correo electrónico, contraseña.
+   - **Proceso**: El sistema verifica la validez de los datos ingresados y los almacena en la base de datos.
+   - **Datos de Salida**: Técnico registrado.
+
 ## 3- Tipos de usuarios
    
 1. **Usuario Registrado**

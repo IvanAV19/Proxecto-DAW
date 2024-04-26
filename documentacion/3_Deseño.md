@@ -16,9 +16,11 @@
 
 ## 2- Casos de uso
 
-> *EXPLICACIÓN:* Facer os diagramas de casos de uso que representen como as persoas usuarias interaccionan co sistema.
->
->Deben incluírse o(s) tipo(s) de usuario implicados en cada caso de uso.
+> Primera versión de los Diagramas de Casos de Uso
+
+![Diagrama de Caso de Uso del Usuario(Técnico)](../diseños/diagrama_casoDeUso_usuario(tecnico).drawio.png "Diagrama de Caso de Uso del Usuario(Técnico)")
+
+![Diagrama de Caso de Uso del Administrador](../diseños/diagrama_casoDeUso_usuario(administrador).drawio.png "Diagrama de Caso de Uso del Administrador")
 
 ## 3- Diagrama de Base de Datos
 

@@ -24,12 +24,9 @@
 
 ## 3- Diagrama de Base de Datos
 
-> *EXPLICACIÓN:* Neste apartado incluiranse os diagramas relacionados coa Base de Datos:
->
-> - Modelo Entidade/relación
-> - Modelo relacional
->
-> Pódese entregar a captura do phpMyAdmin se se emprega MariaDB como Modelo relacional.
+> Primera versión del Diagrama de Entidad Relacion / Relacional
+
+![Diagrama de Entidad Relacion / Relacional](../diseños/diagrama_entidadRelacion_DB.drawio.png "Diagrama de Entidad Relacion / Relacional")
 
 ## 4- Deseño de interface de usuarios
 

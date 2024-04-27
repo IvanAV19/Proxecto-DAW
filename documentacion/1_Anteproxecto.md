@@ -100,7 +100,7 @@ Los recursos materiales y humanos necesarios para poner en marcha el proyecto, a
 ![Imagen de Costes](../img/costes.PNG "Costes Fijos")
 
 - **Desarrollos web:** Los costes variables de los desarrollos web serán de 5 €/hora, con un máximo de 15 horas al mes, lo que supone un total de 900 € anuales.
-- **Soporte técnico:** Los costes variables del soporte técnico serán de 10 €/hora, con un máximo de 15 horas al mes, lo que equivale a 1800 € anuales.
+- **Soporte técnico:** Los costes variables del soporte técnico serán de 10 €/hora, con un máximo de 15 horas al mes, lo que equivale a 1.670,4 € anuales.
 
 ![Imagen de Costes](../img/costesVariables.PNG "Costes Fijos")
 

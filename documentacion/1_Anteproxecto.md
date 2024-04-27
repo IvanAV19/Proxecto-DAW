@@ -95,6 +95,7 @@ Los recursos materiales y humanos necesarios para poner en marcha el proyecto, a
 
 - **Dominio web:** El coste fijo anual del dominio web será de 10 €/año.
 - **Servidor:** El coste fijo mensual del servidor será de 10 €/mes, lo que equivale a 120 €/año.
+- **Suministros:** El coste fijo mensual de los suministros será de 56.67€/mes, lo que equivale a 680.04 €/año.
 
 ![Imagen de Costes](../img/costes.PNG "Costes Fijos")
 
@@ -103,7 +104,7 @@ Los recursos materiales y humanos necesarios para poner en marcha el proyecto, a
 
 ![Imagen de Costes](../img/costesVariables.PNG "Costes Fijos")
 
-La previsión de costes totales es de 2.700 € anuales, siendo esta variable, ya que se debe tener en cuenta que el coste del uso del servidor varía según el tráfico de la aplicación.
+La previsión de costes totales es de 3380.44 € anuales, siendo esta variable, ya que se debe tener en cuenta que el coste del uso del servidor varía según el tráfico de la aplicación.
 
 ![Imagen de Costes](../img/costesTotales.PNG "Costes Totales")
 
@@ -115,7 +116,7 @@ La previsión de costes totales es de 2.700 € anuales, siendo esta variable, y
 
 ### Financiación:
 
-- **Costes totales anuales:** Los costes totales del proyecto para el año serán de 2700 €.
+- **Costes totales anuales:** Los costes totales del proyecto para el año serán de 3380.44 €.
 - **Productos/Servicios:** Se ofrecerán dos opciones de productos/servicios:
   - Opción 1, que incluye la aplicación y soporte de errores por 15 €/mes.
   - Opción 2, que incluye la Opción 1 más la administración y gestión de la app web por 30 €/mes.

@@ -118,18 +118,18 @@ La previsión de costes totales es de 3380.44 € anuales, siendo esta variable,
 
 - **Costes totales anuales:** Los costes totales del proyecto para el año serán de 3380.44 €.
 - **Productos/Servicios:** Se ofrecerán dos opciones de productos/servicios:
-  - Opción 1, que incluye la aplicación y soporte de errores por 15 €/mes.
-  - Opción 2, que incluye la Opción 1 más la administración y gestión de la app web por 30 €/mes.
+  - Opción 1, que incluye la aplicación y soporte de errores por 20 €/mes.
+  - Opción 2, que incluye la Opción 1 más la administración y gestión de la app web por 35 €/mes.
 
 ### Previsión de ingresos:
 
 - **Año 1:**
-  - Opción 1: Con 2 clientes, se generarán ingresos de 360,00 €/año.
-  - Opción 2: Con 4 clientes, se generarán ingresos de 1.440,00 €/año.
+  - Opción 1: Con 2 clientes, se generarán ingresos de 480,00 €/año.
+  - Opción 2: Con 4 clientes, se generarán ingresos de 1.680,00 €/año.
   
 - **Año 2:**
-  - Opción 1: Con 2 clientes, se generarán ingresos de 360,00 €/año.
-  - Opción 2: Con 8 clientes, se generarán ingresos de 2.880,00 €/año.
+  - Opción 1: Con 2 clientes, se generarán ingresos de 960,00 €/año.
+  - Opción 2: Con 8 clientes, se generarán ingresos de 3.360,00 €/año.
 
 Con estos datos, se pretende asegurar una gestión eficiente de los recursos y una planificación financiera sólida para la puesta en marcha y desarrollo exitoso del proyecto.
 

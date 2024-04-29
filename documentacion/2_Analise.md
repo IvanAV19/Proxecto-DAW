@@ -89,7 +89,7 @@ El proyecto "DeviceCare" cumple con la normativa nacional en materia de protecci
 
 En cumplimiento de la normativa, se proporciona la siguiente información sobre el tratamiento de datos en la plataforma:
 
-- **Responsable del Tratamiento de Datos**: Jefe del departamento de seguridad informática
+- **Responsable del Tratamiento de Datos**: Empresa adquisidora del producto
 - **Finalidad del Tratamiento**: Los datos proporcionados por los usuarios se utilizan exclusivamente para el funcionamiento de la plataforma "DeviceCare" y la mejora de la experiencia del usuario.
 
 ### Aviso Legal

@@ -24,42 +24,35 @@ DeviceCare representa una solución integral para las empresas del sector, brind
 
 ## 2- Funcionalidades
 
-1. **Registro de Usuarios**
-   - **Descripción**: Permite a los usuarios registrarse en la plataforma proporcionando su información personal.
-   - **Actores Involucrados**: Usuarios, Sistema.
-   - **Datos de Entrada**: Nombre de usuario, correo electrónico, contraseña.
-   - **Proceso**: El sistema verifica la validez de los datos ingresados y los almacena en la base de datos.
-   - **Datos de Salida**: Confirmación de registro.
-
-2. **Inicio de Sesión**
+1. **Inicio de Sesión**
    - **Descripción**: Permite a los usuarios iniciar sesión en la plataforma utilizando sus credenciales.
    - **Actores Involucrados**: Usuarios, Sistema.
    - **Datos de Entrada**: Correo electrónico del usuario, contraseña.
    - **Proceso**: El sistema verifica la autenticidad de las credenciales ingresadas y otorga acceso si son válidas.
    - **Datos de Salida**: Sesión iniciada, acceso a funciones del usuario.
 
-3. **Registro de Clientes**
+2. **Registro de Clientes**
    - **Descripción**: Permite registrar nuevos clientes en la aplicación.
    - **Actores Involucrados**: Técnicos, Sistema.
    - **Datos de Entrada**: Datos del cliente.
    - **Proceso**: El técnico registra al cliente en la aplicación.
    - **Datos de Salida**: Cliente registrado.
 
-4. **Registro de Dispositivos**
+3. **Registro de Dispositivos**
    - **Descripción**: Permite registrar nuevos dispositivos detallado de los mantenimientos a realizar en cada equipo y asocia el cliente al dispositivo.
    - **Actores Involucrados**: Técnicos, Sistema.
    - **Datos de Entrada**: Detalles del mantenimiento, información del equipo, cliente asociado.
    - **Proceso**: El técnico registra los detalles de cada dispositivo, incluyendo cliente, tipo de mantenimiento y descripción de este mismo.
    - **Datos de Salida**: Dispositivo registrado.
 
-5. **Registro de Mantenimientos**
+4. **Registro de Mantenimientos**
    - **Descripción**: Permite registrar nuevos mantenimientos en la aplicación.
    - **Actores Involucrados**: Administrador, Sistema.
    - **Datos de Entrada**: Nombre del mantenimiento, precio.
    - **Proceso**: El sistema verifica la validez de los datos ingresados y los almacena en la base de datos.
    - **Datos de Salida**: Mantenimiento Registrado.
 
-6. **Registro de Técnicos**
+5. **Registro de Técnicos**
    - **Descripción**: Permite registrar nuevos técnicos en la aplicación.
    - **Actores Involucrados**: Administrador, Sistema.
    - **Datos de Entrada**: Nombre de usuario, correo electrónico, contraseña.
@@ -68,11 +61,11 @@ DeviceCare representa una solución integral para las empresas del sector, brind
 
 ## 3- Tipos de usuarios
    
-1. **Usuario Registrado**
-   - **Descripción**: Los usuarios registrados han creado una cuenta en el sistema y tienen acceso a las funcionalidades del mismo, como registrar clientes o dispositivos.
+1. **Usuario Técnico**
+   - **Descripción**: Los usuarios técnicos han sido creados por el usuario administrador en el sistema y tienen acceso a las funcionalidades del mismo, como registrar clientes o dispositivos.
 
 2. **Usuario Administrador**
-   - **Descripción**: Los administradores tienen privilegios ampliados en el sistema y pueden acceder a todas las funcionalidades de administración. Tienen la capacidad de gestionar usuarios, configurar ajustes del sistema, y moderar contenidos y actividades.
+   - **Descripción**: Los administradores tienen privilegios ampliados en el sistema y pueden acceder a todas las funcionalidades de administración. Tienen la capacidad de gestionar técnicos, configurar nuevos tipos de mantenimientos.
 
 ## 4- Contorno operacional
 
@@ -96,7 +89,7 @@ El proyecto "DeviceCare" cumple con la normativa nacional en materia de protecci
 
 En cumplimiento de la normativa, se proporciona la siguiente información sobre el tratamiento de datos en la plataforma:
 
-- **Responsable del Tratamiento de Datos**: Iván Alonso Vidal
+- **Responsable del Tratamiento de Datos**: Jefe del departamento de seguridad informática
 - **Finalidad del Tratamiento**: Los datos proporcionados por los usuarios se utilizan exclusivamente para el funcionamiento de la plataforma "DeviceCare" y la mejora de la experiencia del usuario.
 
 ### Aviso Legal

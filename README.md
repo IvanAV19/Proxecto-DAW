@@ -52,9 +52,9 @@ Estaré disponible para responder cualquier pregunta o discutir ideas durante to
 
 ## Licenza
 
-Este proyecto está licenciado bajo los términos de la Licencia Pública General de GNU (GNU General Public License) v3.0. Puedes encontrar una copia de la licencia en el archivo [LICENSE](LICENSE) de este repositorio o en el siguiente enlace: [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.html).
+Este proyecto está licenciado bajo los términos de la Licencia Apache versión 2.0. Puedes encontrar una copia de la licencia en el archivo [LICENSE](LICENSE) de este repositorio o en el siguiente enlace: [Apache v2.0](https://www.apache.org/licenses/LICENSE-2.0).
 
-Bajo los términos de esta licencia, estás autorizado a usar, modificar y distribuir este software de acuerdo con los términos y condiciones establecidos en la Licencia Pública General de GNU v3.0.
+Bajo los términos de esta licencia, estás autorizado a usar, modificar y distribuir este software de acuerdo con los términos y condiciones establecidos en la Licencia Apache versión 2.0.
 
 ## Índice
 

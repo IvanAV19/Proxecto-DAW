@@ -26,7 +26,7 @@
 
 > Primera versión del Diagrama de Entidad Relacion / Relacional
 
-![Diagrama de Entidad Relacion](../diseños/Diagrama_relacional_BD.drawio.png "Diagrama de Entidad Relacion")
+![Diagrama de Entidad Relacion](../diseños/Diagrama_relacional_BD_v2.drawio.png "Diagrama de Entidad Relacion")
 
 ![Diagrama Relacional](../diseños/diagrama_entidadRelacion_DB.drawio.png "Diagrama Relacional")
 

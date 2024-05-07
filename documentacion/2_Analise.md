@@ -221,13 +221,10 @@ Algunas de las nuevas funcionalidades que podrían considerarse son las siguient
 6. **Gestión de Personal y Horarios**:
    - Desarrollar un módulo para gestionar el personal técnico, asignar horarios de trabajo y planificar rutas de servicio de manera eficiente.
 
-7. **Interfaz Móvil**:
-   - Desarrollar una aplicación móvil complementaria para que los técnicos puedan acceder a la información de los mantenimientos y actualizar el estado de los equipos desde cualquier lugar.
-
-8. **Soporte Multilingüe**:
+7. **Soporte Multilingüe**:
    - Incorporar soporte para múltiples idiomas para adaptar la aplicación a las necesidades de clientes internacionales.
 
-9. **Integración con IoT**:
+8. **Integración con IoT**:
     - Explorar la integración con dispositivos IoT para monitorear el estado de los equipos de forma remota y anticipar posibles problemas.
 
 Estas son solo algunas ideas de posibles mejoras que podrían considerarse para ampliar y enriquecer la funcionalidad de la aplicación.

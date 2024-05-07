@@ -24,7 +24,7 @@
 
 ## 3- Diagrama de Base de Datos
 
-> Primera versión del Diagrama de Entidad Relacion / Relacional
+> Segunda versión del Diagrama de Entidad Relacion / Relacional
 
 ![Diagrama de Entidad Relacion](../diseños/Diagrama_relacional_BD_v2.drawio.png "Diagrama de Entidad Relacion")
 

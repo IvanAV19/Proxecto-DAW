@@ -18,7 +18,7 @@
 
 1. Mejores herramientas de [diagramación](https://es.linkedin.com/pulse/las-8-mejores-herramientas-de-diagramaci%C3%B3n-para-software-joel-benitez).
 2. Web con iconos para el [diseño web](https://fontawesome.com/).
-3. Web donde sacar datos de interes para la documentación de tú [empresa](https://www.ine.es/)
+3. Web donde sacar datos de interes para la documentación de tú [empresa](https://www.ine.es/).
 
 ## 3- Sitios oficiais do software utilizado
 

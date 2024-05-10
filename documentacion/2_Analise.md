@@ -100,7 +100,7 @@ Todos los derechos de propiedad intelectual e industrial del sitio web y sus con
 
 #### Licencia de Software
 
-El software utilizado en este sitio web se distribuye bajo los términos de la Licencia Pública General de GNU (GNU GPLv3). Puede consultar los términos completos de la licencia en el siguiente enlace: [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.html).
+El software utilizado en este sitio web se distribuye bajo los términos de la Licencia Apache versión 2.0. Puede consultar los términos completos de la licencia en el siguiente enlace: [Apache v2.0](https://www.apache.org/licenses/LICENSE-2.0).
 
 #### Limitación de Responsabilidad
 

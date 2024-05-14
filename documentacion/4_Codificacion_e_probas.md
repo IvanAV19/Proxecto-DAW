@@ -16,7 +16,7 @@
 
 ## 2- Prototipos
 
-**Enlace Prototipo Figma**: https://www.figma.com/file/rbDqwp6vh9sb7bchPQLAXS/Prototipo-Proyecto_DAW?type=design&node-id=6%3A5&mode=design&t=gNMUbXMOF43fSmmP-1
+**[Enlace Prototipo Figma](https://www.figma.com/file/rbDqwp6vh9sb7bchPQLAXS/Prototipo-Proyecto_DAW?type=design&node-id=6%3A5&mode=design&t=gNMUbXMOF43fSmmP-1)**
 
 ## 3- Innovación
 

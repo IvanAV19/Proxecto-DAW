@@ -10,7 +10,7 @@
 
 ## 1- Codificación
 
-[Abrir carpeta de la aplicación](./devicecare)
+[Abrir carpeta de la aplicación](././devicecare)
 
 ## 2- Prototipos
 

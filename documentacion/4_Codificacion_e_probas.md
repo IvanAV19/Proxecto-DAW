@@ -10,9 +10,7 @@
 
 ## 1- Codificación
 
-> Crea unha carpeta no teu repositorio e sube o código frecuentemente.
->
-> Mentres se vai codificando a aplicación, iranse atopando problemas e haberá que ir modificando aspectos do deseño. Estes cambios tamén se deben recoller na documentación.
+[Abrir carpeta de la aplicación](./devicecare)
 
 ## 2- Prototipos
 

@@ -68,7 +68,7 @@ Bajo los términos de esta licencia, estás autorizado a usar, modificar y distr
 
 ## Guía de contribución
 
-¡Gracias por considerar contribuir a Bios-Simulator! Tu ayuda es invaluable para hacer que nuestro proyecto sea aún mejor. Antes de comenzar, asegúrate de leer y seguir estas pautas para que tu contribución sea efectiva con la comunidad de desarrollo.
+¡Gracias por considerar contribuir a DeviceCare! Tu ayuda es invaluable para hacer que nuestro proyecto sea aún mejor. Antes de comenzar, asegúrate de leer y seguir estas pautas para que tu contribución sea efectiva con la comunidad de desarrollo.
 
 ### Objetivo del Proyecto
 

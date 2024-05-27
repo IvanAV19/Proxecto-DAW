@@ -79,5 +79,7 @@ En este apartado se describen las pruebas realizadas durante el desarrollo del p
   - **Solución:** Se actualizó la URL de la página desde la que se accedía a esos logos, ya que durante el desarrollo se cambió la URL del sitio web.
 - **Problema:** Incorrecta visualización de los elementos en la interfaz de usuario.
   - **Solución:** Se cambiaron los estilos CSS de la web para asegurar una correcta visualización de todos los elementos.
+- **Problema:** Al seleccionar un técnico para asignarlo a un dispositivo, la funcionalidad fallaba debido a un error en la ruta referenciada en las solicitudes del dispositivo.
+  - **Solución:** Se actualizó el nombre de la ruta en las solicitudes del dispositivo, asegurando que se use la ruta correcta.
 
 En resumen, se realizaron pruebas exhaustivas de todas las funcionalidades clave de la aplicación, y se resolvieron los problemas encontrados de manera efectiva, garantizando que la aplicación funcione de manera óptima y sin errores.

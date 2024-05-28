@@ -32,7 +32,8 @@ El objetivo principal de esta aplicación es optimizar y agilizar el proceso de 
 
 ### 2.1- Idea de negocio
 
-El producto central de este proyecto es una aplicación de gestión de mantenimientos de equipos. Su principal valor añadido radica en proporcionar a las empresas una plataforma centralizada y eficiente para gestionar clientes, dispositivos y mantenimientos.
+El producto central de este proyecto es una aplicación de gestión de mantenimientos de equipos. La propuesta de valor se basa en proporcionar a las empresas una plataforma centralizada y eficiente para gestionar clientes, dispositivos y mantenimientos.
+Algunos de los principales valores añadidos radican en ofrecer soporte técnico prioritario, actualizaciones periódicas con nuevas funcionalidades, personalización de la interfaz, integración con otros sistemas empresariales, y recursos educativos como tutoriales y webinars para maximizar el uso de la plataforma.
 
 La utilidad de esta aplicación es facilitar la administración de los procesos de mantenimiento y reparación de equipos, permitiendo a las empresas llevar un registro detallado de los clientes, los dispositivos asociados a cada uno y los mantenimientos realizados en cada equipo. Esto les ayudará a mejorar la organización interna, optimizar la asignación de recursos y ofrecer un servicio más eficiente y de mayor calidad a sus clientes.
 

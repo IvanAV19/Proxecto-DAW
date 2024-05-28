@@ -36,7 +36,7 @@ El producto central de este proyecto es una aplicación de gestión de mantenimi
 
 Algunos de los principales valores añadidos radican en ofrecer soporte técnico prioritario, actualizaciones periódicas con nuevas funcionalidades, personalización de la interfaz, integración con otros sistemas empresariales, y recursos educativos como tutoriales y webinars para maximizar el uso de la plataforma.
 
-La utilidad de esta aplicación es facilitar la administración de los procesos de mantenimiento y reparación de equipos, permitiendo a las empresas llevar un registro detallado de los clientes, los dispositivos asociados a cada uno y los mantenimientos realizados en cada equipo. Esto les ayudará a mejorar la organización interna, optimizar la asignación de recursos y ofrecer un servicio más eficiente y de mayor calidad a sus clientes.
+La utilidad de esta aplicación es facilitar la administración de los procesos de mantenimiento y reparación de equipos, proporcionando comodidad y flexibilidad a las empresas. Esta permite llevar un registro detallado de los clientes, los dispositivos asociados a cada uno y los mantenimientos realizados en cada equipo. Esto ayuda a mejorar la organización interna, optimizar la asignación de recursos y ofrecer un servicio más eficiente y de mayor calidad a sus clientes.
 
 Además del producto central, se podrían ofrecer productos aumentados, como servicios de análisis de datos para identificar tendencias en los mantenimientos realizados, herramientas de programación de intervenciones automatizadas o servicios de asesoramiento técnico para la optimización de procesos de mantenimiento. Estos productos aumentados podrían ofrecer un valor adicional y ampliar las posibilidades de negocio para las empresas que utilicen la aplicación.
 

@@ -44,17 +44,16 @@ Además del producto central, se podrían ofrecer productos aumentados, como ser
 
 La idea de desarrollar una aplicación para la gestión de mantenimientos de equipos surge de la necesidad identificada en muchas empresas de servicios de mantenimiento y reparación de dispositivos de contar con una herramienta eficiente para organizar y gestionar sus actividades. Esta necesidad se deriva de la complejidad inherente a la gestión de múltiples clientes, dispositivos y tareas de mantenimiento, así como de la falta de soluciones integrales disponibles en el mercado que satisfagan estas necesidades de manera adecuada.
 
-Actualmente, existen algunas aplicaciones y productos en el mercado que intentan abordar esta problemática, pero muchas de ellas son soluciones fragmentadas o poco adaptadas a las necesidades específicas de este sector. En general, estas herramientas suelen carecer de funcionalidades completas para la gestión de clientes, dispositivos y mantenimientos, lo que dificulta su uso y limita su eficacia.
+Actualmente, en el mercado no he encontrado soluciones específicas para la gestión de mantenimientos de equipos dirigidas al sector de servicios de mantenimiento y reparación de dispositivos. Aunque existen algunas empresas que ofrecen productos relacionados con la gestión de servicios externos o de activos(los cuales están en el apartado de "Competencia"), ninguno de ellos se ajusta a las soluciones o funcionalidades que mi idea proporciona. Esta falta de competidores directos resalta la ausencia de soluciones completas y adaptadas a las necesidades específicas de este sector, lo que subraya aún más la oportunidad que representa desarrollar una herramienta integral y eficiente como la propuesta por este proyecto. Con más de 20.000 empresas dedicadas al mantenimiento y reparación de equipos en el país, existe un claro espacio en el mercado para una solución que cubra todas las necesidades de gestión de mantenimientos de manera adecuada y eficaz.
 
 Por lo tanto, se puede decir que se trata de un segmento de mercado desabastecido o insuficientemente atendido, donde hay una clara oportunidad para desarrollar una solución integral y eficiente que cubra todas las necesidades de gestión de mantenimientos de equipos.
 
 #### Análisis DAFO
 
 ##### Debilidades:
-- Falta de experiencia en el desarrollo de aplicaciones de gestión.
-- Necesidad de inversión inicial para el desarrollo y lanzamiento del producto.
-- Posible resistencia al cambio por parte de los usuarios acostumbrados a otros métodos de gestión.
-- Competencia potencial de empresas establecidas en el mercado de software de gestión.
+- Dependencia de la disponibilidad y confiabilidad de la infraestructura tecnológica.
+- Posibles dificultades en la interoperabilidad con sistemas de terceros.
+- Posibles problemas de rendimiento o escalabilidad que pueden surgir al manejar grandes volúmenes de datos.
 
 ##### Amenazas:
 - Rápida evolución tecnológica que puede hacer obsoleta la aplicación en poco tiempo.
@@ -68,7 +67,7 @@ Por lo tanto, se puede decir que se trata de un segmento de mercado desabastecid
 - Posibilidad de ofrecer servicios de valor añadido, como soporte técnico o consultoría.
 
 ##### Oportunidades:
-- Demanda creciente de soluciones de gestión eficientes en el sector de servicios de mantenimiento y reparación.
+- Segmento de mercado desatendido o insuficientemente atendido.
 - Posibilidad de expandir el negocio a otros sectores o mercados relacionados con la gestión de activos.
 - Potencial para establecer alianzas estratégicas con fabricantes de equipos o empresas de servicios complementarios.
 
@@ -77,6 +76,18 @@ Por lo tanto, se puede decir que se trata de un segmento de mercado desabastecid
 #### Mercado Objetivo:
 - El negocio estará dirigido a empresas dedicadas al mantenimiento y reparación de equipos, como empresas de servicios de informática, empresas de reparación de electrodomésticos, empresas de mantenimiento industrial, entre otras.
 - También se puede considerar como potenciales clientes a departamentos de mantenimiento de grandes empresas o instituciones que gestionan sus propios equipos internamente.
+
+#### Necesidades no Cubiertas:
+- A pesar de la disponibilidad de algunas soluciones en el mercado, existe una falta de herramientas integradas para la programación de mantenimientos, lo que conlleva a la dificultad para llevar un seguimiento detallado de las intervenciones realizadas.
+
+#### Análisis de Competidores:
+- Al realizar un análisis de la competencia, se ha observado que algunas soluciones existentes en el mercado carecen de funcionalidades clave que son importantes para las empresas de mantenimiento. Por ejemplo, muchas de ellas ofrecen herramientas básicas de programación, pero carecen de capacidades avanzadas de gestión de dispositivos y mantenimientos.
+
+#### Perfil del Cliente Ideal:
+- El cliente ideal para nuestra aplicación de gestión de mantenimientos de equipos es una empresa de tamaño mediano a grande que opera en sectores como la informática, la industria manufacturera o el sector de servicios. Este cliente valora la eficiencia y la fiabilidad en la gestión de sus activos y busca una solución integral que le permita optimizar sus procesos de mantenimiento y reparación.
+
+#### Estrategias de Penetración de Mercado:
+- Para llegar a nuestro mercado objetivo, planeamos implementar una estrategia de marketing digital que incluya la creación de contenido relevante para nuestro público objetivo, la participación en eventos sectoriales y la colaboración con asociaciones empresariales. Además, estamos explorando la posibilidad de establecer alianzas estratégicas con fabricantes de equipos y empresas de servicios complementarios para ampliar nuestra base de clientes.
 
 #### Características del Segmento:
 - Las empresas del segmento suelen tener una amplia variedad de equipos y dispositivos que requieren mantenimiento regular.

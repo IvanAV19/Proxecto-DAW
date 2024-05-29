@@ -127,7 +127,11 @@ Los recursos materiales y humanos necesarios para poner en marcha el proyecto, a
 
 ![Imagen de Costes](../img/costesVariables.PNG "Costes Fijos")
 
-La previsión de costes totales es de 3380.44 € anuales, siendo esta variable, ya que se debe tener en cuenta que el coste del uso del servidor varía según el tráfico de la aplicación.
+La previsión de costes totales el primer año es de 5.199,72 € anual, siendo esta variable, ya que se debe tener en cuenta que el coste de la inversión inical en el equipo de trabajo.
+
+![Imagen de Costes](../img/costesTotales-primerAnho.PNG "Costes Totales en el primer año")
+
+La previsión de costes totales es de 4.530,72 € anuales, siendo esta variable, ya que se debe tener en cuenta que el coste del uso del servidor varía según el tráfico de la aplicación.
 
 ![Imagen de Costes](../img/costesTotales.PNG "Costes Totales")
 
@@ -141,12 +145,12 @@ A aplicación será de suscripción mensual:
 ### Previsión de ingresos:
 
 - **Año 1:**
-  - Opción 1: Con 2 clientes, se generarán ingresos de 480,00 €/año.
-  - Opción 2: Con 4 clientes, se generarán ingresos de 1.680,00 €/año.
+  - Opción 1: Con 2 clientes, se generarán ingresos de 580,80 €/año.
+  - Opción 2: Con 4 clientes, se generarán ingresos de 2.032,80 €/año.
   
 - **Año 2:**
-  - Opción 1: Con 2 clientes, se generarán ingresos de 960,00 €/año.
-  - Opción 2: Con 8 clientes, se generarán ingresos de 3.360,00 €/año.
+  - Opción 1: Con 4 clientes, se generarán ingresos de 1.161,60 €/año.
+  - Opción 2: Con 8 clientes, se generarán ingresos de 4.065,60 €/año.
 
 Con estos datos, se pretende asegurar una gestión eficiente de los recursos y una planificación financiera sólida para la puesta en marcha y desarrollo exitoso del proyecto.
 
@@ -221,6 +225,8 @@ Se considera que el proyecto es técnicamente viable debido a las siguientes raz
 ##### 2.5.1.2- Viabilidade económica
 
 Teniendo en cuenta los datos sobre la inversión y costes tratados en el apartados de "[2.4- Axudas e financiación](#24--axudas-e-financiación)", esta sería la evaluación de costes directos e indirectos del proyecto como los beneficios esperados a 2 años vista.
+
+Generando así el siguiente entorno económico:
 
 ![Imagen de Costes](../img/entornoEconomico.PNG "Entorno Económico")
 

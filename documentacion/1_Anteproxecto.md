@@ -337,6 +337,33 @@ Generando así el siguiente entorno económico:
 
 La opción elegida es constituirme como autónomo, ya que me brinda flexibilidad e independencia económica. Puedo gestionar mi horario, elegir los proyectos y clientes que deseo, y desarrollar nuevas habilidades. Además, tengo el control de mi negocio y puedo crecer profesionalmente. Teniendo en cuenta que ser autónomo implica asumir riesgos económicos y responsabilidades adicionales.
 
+#### Cuota de Autónomos
+
+La cuota de autónomos es un pago mensual obligatorio que debe realizar cada trabajador por cuenta propia a la Seguridad Social. En España, la cuota mínima para los autónomos está determinada por la base de cotización, que es el salario mensual sobre el cual se calculan las cotizaciones sociales. A partir de 2023, la cuota mínima para la base mínima de cotización ronda los 294 euros mensuales, aunque esto puede variar en función de las reformas y actualizaciones anuales.
+
+Existen reducciones y bonificaciones para nuevos autónomos, como la tarifa plana de 80 euros mensuales durante los primeros 12 meses. Esta tarifa puede ampliarse a 24 meses en total con bonificaciones decrecientes durante el segundo año.
+
+#### Requisitos para Constituirse como Autónomo
+
+Para constituirme como autónomo, debo cumplir con los siguientes requisitos y realizar los trámites necesarios:
+
+1. **Registro en la Seguridad Social**: Darme de alta en el Régimen Especial de Trabajadores Autónomos (RETA). 
+2. **Alta en Hacienda**: Darme de alta en Hacienda a través del modelo 036 o 037 para obtener el número de identificación fiscal y comunicar el inicio de la actividad económica.
+3. **Licencias y Permisos**: Obtener cualquier licencia o permiso necesario para el desarrollo de mi actividad, dependiendo del sector específico.
+4. **Libro de Visitas**: Mantener un libro de visitas disponible para posibles inspecciones de trabajo, aunque su obligatoriedad ha sido eliminada en algunas comunidades autónomas.
+
+#### Carga Impositiva
+
+Como autónomo, estaré sujeto a varias obligaciones fiscales:
+
+1. **Impuesto sobre la Renta de las Personas Físicas (IRPF)**: Deberé declarar y pagar trimestralmente el IRPF mediante pagos fraccionados (modelo 130). También, presentaré la declaración anual de la renta.
+2. **Impuesto sobre el Valor Añadido (IVA)**: Deberé presentar trimestralmente las liquidaciones del IVA (modelo 303) y una declaración resumen anual (modelo 390). Esto implica cobrar el IVA a mis clientes y pagarlo a Hacienda, descontando el IVA soportado en mis compras y gastos relacionados con la actividad.
+3. **Retenciones**: Si contrato a empleados o subcontrato servicios a otros profesionales, debo practicar retenciones en sus facturas y declararlas a través del modelo 111 trimestralmente.
+
+---
+
+Esta estructura jurídica me proporciona la flexibilidad necesaria para gestionar mi negocio de manera autónoma, asumiendo al mismo tiempo las obligaciones fiscales y de cotización que ello implica. Con una planificación adecuada, podré cumplir con estas responsabilidades mientras desarrollo y hago crecer mi actividad empresarial.
+
 ### 2.10- Prevención de riesgos laborales
 
 En este apartado se detallan las medidas necesarias para garantizar la seguridad y salud de los trabajadores involucrados en el desarrollo y mantenimiento de la aplicación. Además, se identifican los riesgos inherentes a la ejecución de las actividades y se establece un plan de prevención de riesgos, así como los medios y equipos necesarios para mitigarlos.

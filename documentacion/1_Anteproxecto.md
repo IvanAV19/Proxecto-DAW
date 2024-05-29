@@ -141,8 +141,8 @@ La previsión de costes totales es de 4.530,72 € anuales, siendo esta variable
 A aplicación será de suscripción mensual:
 
 - **Productos/Servicios:** Se ofrecerán dos opciones de productos/servicios:
-  - Opción 1, que incluye la aplicación y soporte de errores por 24,2 €/mes (precio sin IVA 20 €/mes).
-  - Opción 2, que incluye la Opción 1 más la administración y gestión de la app web por 42,35 €/mes (precio sin IVA 35 €/mes).
+  - Opción 1, que incluye la aplicación y soporte de errores por 60,50 €/mes (precio sin IVA 50 €/mes).
+  - Opción 2, que incluye la Opción 1 más la administración y gestión de la app web por 121 €/mes (precio sin IVA 100 €/mes).
 
 ### Previsión de ingresos:
 

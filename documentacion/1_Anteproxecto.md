@@ -104,11 +104,21 @@ Por lo tanto, se puede decir que se trata de un segmento de mercado desabastecid
 
 Los recursos materiales y humanos necesarios para poner en marcha el proyecto, así como las necesidades de financiación asociadas son los siguientes:
 
-### Recursos materiales:
+### Inversiones:
 
+- **Ordenador Portátil:** El coste es de 669 €.
 - **Dominio web:** El coste fijo anual del dominio web será de 10 €/año.
 - **Servidor:** El coste fijo mensual del servidor será de 10 €/mes, lo que equivale a 120 €/año.
 - **Suministros:** El coste fijo mensual de los suministros será de 56.67€/mes, lo que equivale a 680.04 €/año.
+
+### Costes:
+
+- **Salario bruto anual:** El sueldo bruto anual será de 14.400 €.
+- **Cuota a la Seguridad Social:** La cuota a la Seguridad Social será de 1029,61 €.
+- **Cuota de IRPF:** La cuota del IRPF será de 120,67 €.
+- **Tipo de retención en el IRPF:** El tipo de retención en el IRPF será del 0,84%.
+- **Salario neto anual:** El sueldo neto anual será de 	13.249,72 €.
+- **Cuota IVA:** El porcentaje de IVA aplicado a los productos/servicios será del 21%.
 
 ![Imagen de Costes](../img/costes.PNG "Costes Fijos")
 
@@ -121,18 +131,12 @@ La previsión de costes totales es de 3380.44 € anuales, siendo esta variable,
 
 ![Imagen de Costes](../img/costesTotales.PNG "Costes Totales")
 
-### Recursos humanos:
+### Política de precios:
+A aplicación será de suscripción mensual:
 
-- **Personal de desarrollo:** Se determinará el número de desarrolladores necesarios para llevar a cabo el proyecto, así como sus roles y responsabilidades específicas.
-- **Diseñadores y creativos:** Se considerará la contratación de diseñadores gráficos, diseñadores web y otros profesionales creativos para la creación de la identidad visual y el diseño del sitio web.
-- **Gestores de proyecto:** Se asignará personal para la gestión y coordinación del proyecto, incluyendo la planificación, seguimiento y control de las actividades, así como la comunicación con los interesados.
-
-### Financiación:
-
-- **Costes totales anuales:** Los costes totales del proyecto para el año serán de 3380.44 €.
 - **Productos/Servicios:** Se ofrecerán dos opciones de productos/servicios:
-  - Opción 1, que incluye la aplicación y soporte de errores por 20 €/mes.
-  - Opción 2, que incluye la Opción 1 más la administración y gestión de la app web por 35 €/mes.
+  - Opción 1, que incluye la aplicación y soporte de errores por 24,2 €/mes (precio sin iva 20 €/mes).
+  - Opción 2, que incluye la Opción 1 más la administración y gestión de la app web por 42,35 €/mes (precio sin IVA 35 €/mes).
 
 ### Previsión de ingresos:
 
@@ -147,6 +151,8 @@ La previsión de costes totales es de 3380.44 € anuales, siendo esta variable,
 Con estos datos, se pretende asegurar una gestión eficiente de los recursos y una planificación financiera sólida para la puesta en marcha y desarrollo exitoso del proyecto.
 
 ![Imagen de Costes](../img/prevision.PNG "Previsión de Ingresos")
+
+### Financiación:
 
 ### 2.5- Modelo de negocio
 

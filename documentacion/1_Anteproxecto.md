@@ -164,13 +164,13 @@ La financiación para la puesta en marcha de la empresa provendrá de fondos pro
 
 1. **Terrenos Familiares**: Mi familia posee varios terrenos que serán utilizados como garantía para obtener fondos adicionales si es necesario. Estos terrenos representan un activo significativo que puede ser liquidado o utilizado como colateral para asegurar préstamos o líneas de crédito. La valorización de estos terrenos proporciona una base financiera sólida y confiable.
 
-2. **Aportaciones Directas de la Familia**: Además de los terrenos, mi familia proporcionará una cantidad sustancial de dinero en efectivo. Este capital será suficiente para cubrir todos los gastos iniciales y operativos previstos en el plan de negocios, incluyendo la adquisición de equipos, desarrollo de software, marketing y otros costos operativos. La disponibilidad de estos fondos asegura que no habrá necesidad inmediata de buscar financiación externa.
+2. **Aportaciones Directas**: Además de los terrenos, mi familia proporcionará una cantidad sustancial de dinero en efectivo. Este capital será suficiente para cubrir todos los gastos iniciales y operativos previstos en el plan de negocios, incluyendo la adquisición de equipos, desarrollo de software, marketing y otros costos operativos. La disponibilidad de estos fondos asegura que no habrá necesidad inmediata de buscar financiación externa.
 
 #### Plan de Utilización de Fondos
 
 - **Desarrollo de la Aplicación**: Parte de los fondos se destinará al desarrollo y mejora continua de la aplicación de gestión de mantenimientos de equipos. Esto incluye costos de compra de software y licencias, y otros gastos relacionados con la tecnología.
   
-- **Infraestructura y Equipamiento**: Los fondos también cubrirán la compra de equipos y mobiliario necesarios para las operaciones diarias de la empresa, como computadoras, servidores, y otros dispositivos tecnológicos.
+- **Infraestructura y Equipamiento**: Los fondos también cubrirán la compra de equipos y mobiliario necesarios para las operaciones diarias de la empresa, como ordenadores, servidores, y otros dispositivos tecnológicos.
 
 - **Marketing y Publicidad**: Se asignará una parte del presupuesto para estrategias de marketing y publicidad con el fin de promocionar la aplicación y atraer a los clientes objetivo.
 

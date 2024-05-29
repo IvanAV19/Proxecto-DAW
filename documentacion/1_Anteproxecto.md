@@ -119,6 +119,8 @@ Los recursos materiales y humanos necesarios para poner en marcha el proyecto, a
 - **Tipo de retención en el IRPF:** El tipo de retención en el IRPF será del 0,84%.
 - **Salario neto anual:** El sueldo neto anual será de 	13.249,72 €.
 - **Cuota IVA:** El porcentaje de IVA aplicado a los productos/servicios será del 21%.
+- **Asesorías:** El coste fijo será de 300 €/mes.
+- **Marketing y Publicidad:** El coste fijo será de 500 €/mes.
 
 ![Imagen de Costes](../img/costes.PNG "Costes Fijos")
 
@@ -139,7 +141,7 @@ La previsión de costes totales es de 4.530,72 € anuales, siendo esta variable
 A aplicación será de suscripción mensual:
 
 - **Productos/Servicios:** Se ofrecerán dos opciones de productos/servicios:
-  - Opción 1, que incluye la aplicación y soporte de errores por 24,2 €/mes (precio sin iva 20 €/mes).
+  - Opción 1, que incluye la aplicación y soporte de errores por 24,2 €/mes (precio sin IVA 20 €/mes).
   - Opción 2, que incluye la Opción 1 más la administración y gestión de la app web por 42,35 €/mes (precio sin IVA 35 €/mes).
 
 ### Previsión de ingresos:
@@ -157,6 +159,30 @@ Con estos datos, se pretende asegurar una gestión eficiente de los recursos y u
 ![Imagen de Costes](../img/prevision.PNG "Previsión de Ingresos")
 
 ### Financiación:
+
+La financiación para la puesta en marcha de la empresa provendrá de fondos propios y recursos familiares. Los principales fondos serán aportados a través de dos fuentes principales:
+
+1. **Terrenos Familiares**: Mi familia posee varios terrenos que serán utilizados como garantía para obtener fondos adicionales si es necesario. Estos terrenos representan un activo significativo que puede ser liquidado o utilizado como colateral para asegurar préstamos o líneas de crédito. La valorización de estos terrenos proporciona una base financiera sólida y confiable.
+
+2. **Aportaciones Directas de la Familia**: Además de los terrenos, mi familia proporcionará una cantidad sustancial de dinero en efectivo. Este capital será suficiente para cubrir todos los gastos iniciales y operativos previstos en el plan de negocios, incluyendo la adquisición de equipos, desarrollo de software, marketing y otros costos operativos. La disponibilidad de estos fondos asegura que no habrá necesidad inmediata de buscar financiación externa.
+
+#### Plan de Utilización de Fondos
+
+- **Desarrollo de la Aplicación**: Parte de los fondos se destinará al desarrollo y mejora continua de la aplicación de gestión de mantenimientos de equipos. Esto incluye costos de compra de software y licencias, y otros gastos relacionados con la tecnología.
+  
+- **Infraestructura y Equipamiento**: Los fondos también cubrirán la compra de equipos y mobiliario necesarios para las operaciones diarias de la empresa, como computadoras, servidores, y otros dispositivos tecnológicos.
+
+- **Marketing y Publicidad**: Se asignará una parte del presupuesto para estrategias de marketing y publicidad con el fin de promocionar la aplicación y atraer a los clientes objetivo.
+
+- **Operaciones y Administración**: Finalmente, los fondos se utilizarán para cubrir los costos operativos y administrativos, incluyendo salarios del personal, alquiler de oficinas si fuera necesario, y otros gastos generales.
+
+#### Seguridad Financiera
+
+La combinación de terrenos familiares y aportaciones directas de la familia proporciona una seguridad financiera sólida para el proyecto. Estos recursos no solo cubren los costos iniciales de puesta en marcha sino que también garantizan una base financiera estable para futuras expansiones y mejoras de la aplicación. Esta estructura financiera minimiza los riesgos asociados con la falta de liquidez y proporciona una base confiable para el crecimiento sostenido del negocio.
+
+---
+
+Esta estrategia de financiación asegura que la empresa tendrá los recursos necesarios para iniciar sus operaciones sin recurrir a deudas significativas desde el principio. La solidez de los activos familiares y el apoyo financiero directo proporcionan una ventaja competitiva, permitiendo enfocarse en el desarrollo y crecimiento del negocio sin las preocupaciones inmediatas de financiamiento externo.
 
 ### 2.5- Modelo de negocio
 

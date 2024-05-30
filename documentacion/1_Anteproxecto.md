@@ -179,8 +179,8 @@ Los recursos materiales y humanos necesarios para poner en marcha el proyecto, a
 - **Tipo de retención en el IRPF:** El tipo de retención en el IRPF será del 0,84%.
 - **Salario neto anual:** El sueldo neto anual será de 	13.249,72 €.
 - **Cuota IVA:** El porcentaje de IVA aplicado a los productos/servicios será del 21%.
-- **Asesorías:** El coste fijo será de 300 €/mes.
-- **Marketing y Publicidad:** El coste fijo será de 500 €/mes.
+- **Asesorías:** El coste fijo será de 150 €/mes.
+- **Marketing y Publicidad:** El coste fijo será de 300 €/mes.
 
 ![Imagen de Costes](../img/costes.PNG "Costes Fijos")
 
@@ -189,11 +189,11 @@ Los recursos materiales y humanos necesarios para poner en marcha el proyecto, a
 
 ![Imagen de Costes](../img/costesVariables.PNG "Costes Fijos")
 
-La previsión de costes totales el primer año es de 29.169,72 € anual, siendo esta variable, ya que se debe tener en cuenta que el coste de la inversión inical en el equipo de trabajo.
+La previsión de costes totales el primer año es de 24.999,72 € anual, siendo esta variable, ya que se debe tener en cuenta que el coste de la inversión inical en el equipo de trabajo.
 
 ![Imagen de Costes](../img/costesTotales-primerAnho.PNG "Costes Totales en el primer año")
 
-La previsión de costes totales es de 28.500,72 € anuales, siendo esta variable, ya que se debe tener en cuenta que el coste del uso del servidor varía según el tráfico de la aplicación.
+La previsión de costes totales es de 24.330,72 € anuales, siendo esta variable, ya que se debe tener en cuenta que el coste del uso del servidor varía según el tráfico de la aplicación.
 
 ![Imagen de Costes](../img/costesTotales.PNG "Costes Totales")
 

@@ -99,7 +99,7 @@ Por lo tanto, se puede decir que se trata de un segmento de mercado desabastecid
 - Los usuarios finales de la aplicación serán los técnicos de mantenimiento y los responsables de operaciones en las empresas clientes.
 - Los clientes serán las empresas que contraten el servicio de gestión de mantenimientos, las cuales pagarán por el uso de la plataforma según el número de usuarios y las funcionalidades contratadas.
 
-### 2.4- Axudas e financiación | 2.4- Competencia
+### 2.4- Competencia
 
 1. **Empresas Competidoras:**
    - Nomadia Field Service: Ofrece un paquete de software para la gestión de servicios externos, con características como programación en tiempo real, reserva de citas y transacciones. [Sitio web](https://www.nomadia-group.com/en/landing-page-nomadia-fsm/?utm_source=GetApp)
@@ -115,29 +115,7 @@ Por lo tanto, se puede decir que se trata de un segmento de mercado desabastecid
    - Otro desafío podría ser establecer la confianza y credibilidad entre los potenciales clientes, especialmente si están acostumbrados a utilizar métodos tradicionales de gestión de mantenimientos.
    - Sin embargo, con una estrategia de marketing sólida y un enfoque en la excelencia del producto y el servicio al cliente, estos desafíos pueden superarse con éxito.
 
-### Financiación:
-
-La financiación para la puesta en marcha de la empresa provendrá de fondos propios y recursos familiares. Los principales fondos serán aportados a través de dos fuentes principales:
-
-1. **Terrenos Familiares**: Mi familia posee varios terrenos que serán utilizados como garantía para obtener fondos adicionales si es necesario. Estos terrenos representan un activo significativo que puede ser liquidado o utilizado como colateral para asegurar préstamos o líneas de crédito. La valorización de estos terrenos proporciona una base financiera sólida y confiable.
-
-2. **Aportaciones Directas**: Además de los terrenos, mi familia proporcionará una cantidad sustancial de dinero en efectivo. Este capital será suficiente para cubrir todos los gastos iniciales y operativos previstos en el plan de negocios, incluyendo la adquisición de equipos, desarrollo de software, marketing y otros costos operativos. La disponibilidad de estos fondos asegura que no habrá necesidad inmediata de buscar financiación externa.
-
-#### Plan de Utilización de Fondos
-
-- **Desarrollo de la Aplicación**: Parte de los fondos se destinará al desarrollo y mejora continua de la aplicación de gestión de mantenimientos de equipos. Esto incluye costos de compra de software y licencias, y otros gastos relacionados con la tecnología.
-  
-- **Infraestructura y Equipamiento**: Los fondos también cubrirán la compra de equipos y mobiliario necesarios para las operaciones diarias de la empresa, como ordenadores, servidores, y otros dispositivos tecnológicos.
-
-- **Marketing y Publicidad**: Se asignará una parte del presupuesto para estrategias de marketing y publicidad con el fin de promocionar la aplicación y atraer a los clientes objetivo.
-
-- **Operaciones y Administración**: Finalmente, los fondos se utilizarán para cubrir los costos operativos y administrativos, incluyendo salarios del personal, alquiler de oficinas si fuera necesario, y otros gastos generales.
-
-#### Seguridad Financiera
-
-La combinación de terrenos familiares y aportaciones directas de la familia proporciona una seguridad financiera sólida para el proyecto. Estos recursos no solo cubren los costos iniciales de puesta en marcha sino que también garantizan una base financiera estable para futuras expansiones y mejoras de la aplicación. Esta estructura financiera minimiza los riesgos asociados con la falta de liquidez y proporciona una base confiable para el crecimiento sostenido del negocio.
-
-### 2.5- Modelo de negocio | 2.5- Proposta de valor
+### 2.5- Proposta de valor
 
 1. **Diferenciación frente a los competidores:**
    - Nuestro servicio se distingue por ofrecer un enfoque integral en el mantenimiento de equipos, combinando la eficiencia operativa con la atención personalizada al cliente.
@@ -349,6 +327,28 @@ Generando así el siguiente entorno económico:
 
 ![Imagen de Costes](../img/entornoEconomico.PNG "Entorno Económico")
 
+###### Financiación:
+
+La financiación para la puesta en marcha de la empresa provendrá de fondos propios y recursos familiares. Los principales fondos serán aportados a través de dos fuentes principales:
+
+1. **Terrenos Familiares**: Mi familia posee varios terrenos que serán utilizados como garantía para obtener fondos adicionales si es necesario. Estos terrenos representan un activo significativo que puede ser liquidado o utilizado como colateral para asegurar préstamos o líneas de crédito. La valorización de estos terrenos proporciona una base financiera sólida y confiable.
+
+2. **Aportaciones Directas**: Además de los terrenos, mi familia proporcionará una cantidad sustancial de dinero en efectivo. Este capital será suficiente para cubrir todos los gastos iniciales y operativos previstos en el plan de negocios, incluyendo la adquisición de equipos, desarrollo de software, marketing y otros costos operativos. La disponibilidad de estos fondos asegura que no habrá necesidad inmediata de buscar financiación externa.
+
+###### Plan de Utilización de Fondos
+
+- **Desarrollo de la Aplicación**: Parte de los fondos se destinará al desarrollo y mejora continua de la aplicación de gestión de mantenimientos de equipos. Esto incluye costos de compra de software y licencias, y otros gastos relacionados con la tecnología.
+  
+- **Infraestructura y Equipamiento**: Los fondos también cubrirán la compra de equipos y mobiliario necesarios para las operaciones diarias de la empresa, como ordenadores, servidores, y otros dispositivos tecnológicos.
+
+- **Marketing y Publicidad**: Se asignará una parte del presupuesto para estrategias de marketing y publicidad con el fin de promocionar la aplicación y atraer a los clientes objetivo.
+
+- **Operaciones y Administración**: Finalmente, los fondos se utilizarán para cubrir los costos operativos y administrativos, incluyendo salarios del personal, alquiler de oficinas si fuera necesario, y otros gastos generales.
+
+###### Seguridad Financiera
+
+La combinación de terrenos familiares y aportaciones directas de la familia proporciona una seguridad financiera sólida para el proyecto. Estos recursos no solo cubren los costos iniciales de puesta en marcha sino que también garantizan una base financiera estable para futuras expansiones y mejoras de la aplicación. Esta estructura financiera minimiza los riesgos asociados con la falta de liquidez y proporciona una base confiable para el crecimiento sostenido del negocio.
+
 #### 2.8.3- Conclusión
 
 1. **¿Es viable?**
@@ -359,37 +359,6 @@ Generando así el siguiente entorno económico:
 
 3. **¿Las pérdidas pueden cubrirse vía financiamiento?**
    Es posible que las pérdidas iniciales puedan cubrirse mediante financiamiento, especialmente si se recibe apoyo de la administración pública o se obtienen subvenciones u otras formas de financiamiento externo.
-
-### 2.9- Prevención de riesgos laborales
-
-En este apartado se detallan las medidas necesarias para garantizar la seguridad y salud de los trabajadores involucrados en el desarrollo y mantenimiento de la aplicación. Además, se identifican los riesgos inherentes a la ejecución de las actividades y se establece un plan de prevención de riesgos, así como los medios y equipos necesarios para mitigarlos.
-
-#### Necesidades de permisos y autorizaciones
-
-Para llevar a cabo las actividades relacionadas con el desarrollo y mantenimiento de la aplicación web, no se requieren permisos especiales o autorizaciones adicionales más allá de las habituales para el desarrollo de software y el alojamiento web.
-
-#### Riesgos inherentes a la ejecución
-
-1. **Riesgos ergonómicos:** Dado que el trabajo se realiza frente a un ordenador, existe el riesgo de fatiga visual, dolores musculares y lesiones relacionadas con la postura. Se debe promover el uso de mobiliario ergonómico y realizar pausas regulares para descansar la vista y estirar los músculos.
-
-2. **Riesgos psicosociales:** La presión por cumplir con los plazos de entrega y la concentración prolongada pueden provocar estrés y ansiedad en los trabajadores. Se deben establecer medidas para gestionar la carga de trabajo, fomentar un ambiente laboral positivo y ofrecer apoyo psicológico si es necesario.
-
-3. **Riesgos de seguridad de la información:** Dado que la página web puede contener información sensible o confidencial, existe el riesgo de violaciones de seguridad, como el acceso no autorizado o la divulgación de datos. Se deben implementar medidas de seguridad adecuadas, como el cifrado de datos, el control de acceso y la capacitación en concienciación sobre seguridad.
-
-#### Plan de prevención de riesgos
-
-- Se proporcionará formación sobre ergonomía y seguridad en el trabajo a todos los empleados involucrados en el desarrollo y mantenimiento de la aplicación web.
-- Se establecerán pausas regulares durante la jornada laboral para descansar la vista y realizar ejercicios de estiramiento.
-- Se realizarán evaluaciones periódicas de riesgos psicosociales y se implementarán medidas para promover el bienestar emocional de los trabajadores.
-- Se aplicarán políticas de seguridad de la información, que incluyen la gestión de contraseñas, el cifrado de datos y la protección contra malware y ataques cibernéticos.
-- Se designará a un responsable de seguridad y salud en el trabajo para supervisar la implementación del plan de prevención de riesgos y coordinar las acciones necesarias.
-
-#### Medios y equipos necesarios
-
-- Equipos informáticos adecuados, como ordenadores portátiles o de escritorio con pantallas de alta resolución y teclados ergonómicos.
-- Mobiliario de oficina ergonómico, que incluye sillas ajustables y mesas de trabajo con altura regulable.
-- Software de seguridad informática, como antivirus, firewall y herramientas de detección de intrusiones.
-- Material de formación sobre ergonomía, seguridad en el trabajo y concienciación sobre seguridad de la información.
 
 ## 3- Requirimentos técnicos
 

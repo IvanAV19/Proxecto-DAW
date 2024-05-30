@@ -129,11 +129,11 @@ Los recursos materiales y humanos necesarios para poner en marcha el proyecto, a
 
 ![Imagen de Costes](../img/costesVariables.PNG "Costes Fijos")
 
-La previsión de costes totales el primer año es de 5.199,72 € anual, siendo esta variable, ya que se debe tener en cuenta que el coste de la inversión inical en el equipo de trabajo.
+La previsión de costes totales el primer año es de 29.169,72 € anual, siendo esta variable, ya que se debe tener en cuenta que el coste de la inversión inical en el equipo de trabajo.
 
 ![Imagen de Costes](../img/costesTotales-primerAnho.PNG "Costes Totales en el primer año")
 
-La previsión de costes totales es de 4.530,72 € anuales, siendo esta variable, ya que se debe tener en cuenta que el coste del uso del servidor varía según el tráfico de la aplicación.
+La previsión de costes totales es de 28.500,72 € anuales, siendo esta variable, ya que se debe tener en cuenta que el coste del uso del servidor varía según el tráfico de la aplicación.
 
 ![Imagen de Costes](../img/costesTotales.PNG "Costes Totales")
 
@@ -141,18 +141,22 @@ La previsión de costes totales es de 4.530,72 € anuales, siendo esta variable
 A aplicación será de suscripción mensual:
 
 - **Productos/Servicios:** Se ofrecerán dos opciones de productos/servicios:
-  - Opción 1, que incluye la aplicación y soporte de errores por 60,50 €/mes (precio sin IVA 50 €/mes).
-  - Opción 2, que incluye la Opción 1 más la administración y gestión de la app web por 121 €/mes (precio sin IVA 100 €/mes).
+  - Opción 1, que incluye la aplicación y soporte de errores por 121 €/mes (precio sin IVA 100 €/mes).
+  - Opción 2, que incluye la Opción 1 más la administración y gestión de la app web por 181,5 €/mes (precio sin IVA 150 €/mes).
 
 ### Previsión de ingresos:
 
 - **Año 1:**
-  - Opción 1: Con 2 clientes, se generarán ingresos de 580,80 €/año.
-  - Opción 2: Con 4 clientes, se generarán ingresos de 2.032,80 €/año.
+  - Opción 1: Con 2 clientes, se generarán ingresos de 2.904 €/año.
+  - Opción 2: Con 4 clientes, se generarán ingresos de 8.172 €/año.
   
 - **Año 2:**
-  - Opción 1: Con 4 clientes, se generarán ingresos de 1.161,60 €/año.
-  - Opción 2: Con 8 clientes, se generarán ingresos de 4.065,60 €/año.
+  - Opción 1: Con 4 clientes, se generarán ingresos de 5.808 €/año.
+  - Opción 2: Con 8 clientes, se generarán ingresos de 17.424 €/año.
+
+- **Año 3:**
+  - Opción 1: Con 6 clientes, se generarán ingresos de 8.712 €/año.
+  - Opción 2: Con 8 clientes, se generarán ingresos de 21.780 €/año.
 
 Con estos datos, se pretende asegurar una gestión eficiente de los recursos y una planificación financiera sólida para la puesta en marcha y desarrollo exitoso del proyecto.
 
@@ -179,10 +183,6 @@ La financiación para la puesta en marcha de la empresa provendrá de fondos pro
 #### Seguridad Financiera
 
 La combinación de terrenos familiares y aportaciones directas de la familia proporciona una seguridad financiera sólida para el proyecto. Estos recursos no solo cubren los costos iniciales de puesta en marcha sino que también garantizan una base financiera estable para futuras expansiones y mejoras de la aplicación. Esta estructura financiera minimiza los riesgos asociados con la falta de liquidez y proporciona una base confiable para el crecimiento sostenido del negocio.
-
----
-
-Esta estrategia de financiación asegura que la empresa tendrá los recursos necesarios para iniciar sus operaciones sin recurrir a deudas significativas desde el principio. La solidez de los activos familiares y el apoyo financiero directo proporcionan una ventaja competitiva, permitiendo enfocarse en el desarrollo y crecimiento del negocio sin las preocupaciones inmediatas de financiamiento externo.
 
 ### 2.5- Modelo de negocio
 
@@ -359,10 +359,6 @@ Como autónomo, estaré sujeto a varias obligaciones fiscales:
 1. **Impuesto sobre la Renta de las Personas Físicas (IRPF)**: Deberé declarar y pagar trimestralmente el IRPF mediante pagos fraccionados (modelo 130). También, presentaré la declaración anual de la renta.
 2. **Impuesto sobre el Valor Añadido (IVA)**: Deberé presentar trimestralmente las liquidaciones del IVA (modelo 303) y una declaración resumen anual (modelo 390). Esto implica cobrar el IVA a mis clientes y pagarlo a Hacienda, descontando el IVA soportado en mis compras y gastos relacionados con la actividad.
 3. **Retenciones**: Si contrato a empleados o subcontrato servicios a otros profesionales, debo practicar retenciones en sus facturas y declararlas a través del modelo 111 trimestralmente.
-
----
-
-Esta estructura jurídica me proporciona la flexibilidad necesaria para gestionar mi negocio de manera autónoma, asumiendo al mismo tiempo las obligaciones fiscales y de cotización que ello implica. Con una planificación adecuada, podré cumplir con estas responsabilidades mientras desarrollo y hago crecer mi actividad empresarial.
 
 ### 2.10- Prevención de riesgos laborales
 

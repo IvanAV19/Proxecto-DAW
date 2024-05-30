@@ -16,7 +16,7 @@
         </div>
         <div class="col-9">
             <div class="tab-content" id="v-pills-tabContent">
-                <div class="tab-pane fade show active" id="v-pills-tabContent" role="tabpanel" aria-labelledby="v-pills-tech-tab">
+                <div class="tab-pane fade show active" id="v-pills-tech" role="tabpanel" aria-labelledby="v-pills-tech-tab">
                     <table class="table table-bordered table-hover">
                         <tbody>
                           <tr>

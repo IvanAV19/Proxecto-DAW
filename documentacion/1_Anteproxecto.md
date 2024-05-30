@@ -288,7 +288,7 @@ Se considera que el proyecto es técnicamente viable debido a las siguientes raz
 
 #### 2.8.2 - Viabilidade económica
 
-Teniendo en cuenta los datos sobre la inversión y costes tratados en el apartados de "[2.4- Axudas e financiación](#24--axudas-e-financiación)", esta sería la evaluación de costes directos e indirectos del proyecto como los beneficios esperados a 2 años vista.
+Teniendo en cuenta los datos sobre la inversión y costes tratados en el apartados de "[2.7- Investimentos](#27--investimentos)", esta sería la evaluación de costes directos e indirectos del proyecto como los beneficios esperados a 2 años vista.
 
 Generando así el siguiente entorno económico:
 

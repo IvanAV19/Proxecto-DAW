@@ -6,17 +6,16 @@
     - [2.1- Idea de negocio](#21--idea-de-negocio)
     - [2.2- Xustificación da idea](#22--xustificación-da-idea)
     - [2.3- Segmento de clientes](#23--segmento-de-clientes)
-    - [2.4- Axudas e financiación](#24--axudas-e-financiación)
-    - [2.5- Modelo de negocio](#25--modelo-de-negocio)
-      - [2.5.1- Viabilidade](#251--viabilidade)
-        - [2.5.1.1- Viabilidade técnica](#2511--viabilidade-técnica)
-        - [2.5.1.2- Viabilidade económica](#2512--viabilidade-económica)
-      - [2.5.1.3- Conclusión](#2513--conclusión)
-    - [2.6- Competencia](#26--competencia)
-    - [2.7- Promoción](#27--promoción)
-    - [2.8- Proposta de valor](#28--proposta-de-valor)
-    - [2.9- Forma xurídica](#29--forma-xurídica)
-    - [2.10- Prevención de riesgos laborales](#210--prevención-de-riesgos-laborales)
+    - [2.4- Competencia](#24--competencia)
+    - [2.5- Proposta de valor](#25--proposta-de-valor)
+    - [2.6- Forma xurídica](#26--forma-xurídica)
+    - [2.7- Investimentos](#27--investimentos)
+      - [2.7.1- Custos](#271--custos)
+      - [2.7.2- Ingresos](#272--ingresos)
+    - [2.8- Viabilidade](#28--viabilidade)
+      - [2.8.1- Viabilidade técnica](#281--viabilidade-técnica)
+      - [2.8.2 - Viabilidade económica](#282---viabilidade-económica)
+      - [2.8.3- Conclusión](#283--conclusión)
   - [3- Requirimentos técnicos](#3--requirimentos-técnicos)
   - [4- Planificación](#4--planificación)
 
@@ -100,7 +99,90 @@ Por lo tanto, se puede decir que se trata de un segmento de mercado desabastecid
 - Los usuarios finales de la aplicación serán los técnicos de mantenimiento y los responsables de operaciones en las empresas clientes.
 - Los clientes serán las empresas que contraten el servicio de gestión de mantenimientos, las cuales pagarán por el uso de la plataforma según el número de usuarios y las funcionalidades contratadas.
 
-### 2.4- Axudas e financiación
+### 2.4- Axudas e financiación | 2.4- Competencia
+
+1. **Empresas Competidoras:**
+   - Nomadia Field Service: Ofrece un paquete de software para la gestión de servicios externos, con características como programación en tiempo real, reserva de citas y transacciones. [Sitio web](https://www.nomadia-group.com/en/landing-page-nomadia-fsm/?utm_source=GetApp)
+   - MEX Maintenance: Proporciona soluciones para la gestión de activos y mantenimiento diario, incluyendo creación de informes y pedidos automáticos de tiendas. Su aplicación MEX Mobile facilita la gestión de instalaciones tanto para los administradores como para los técnicos de servicio en el campo. [Sitio web](https://www.mex.com.au/Products/MEX)
+   - MaintainX: Ofrece un software de digitalización de procedimientos y órdenes de trabajo con prioridad para dispositivos móviles. Está diseñado para ayudar a los equipos de primera línea de fábricas a saber exactamente qué necesitan hacer y cómo hacerlo, incluyendo procedimientos de seguridad centralizados. [Sitio web](https://www.getmaintainx.com/?utm_campaign=Maintenance+Management&utm_medium=cpc&utm_source=GetApp)
+
+2. **Análisis de Vacíos en el Mercado:**
+   - Aunque existen algunas empresas que ofrecen soluciones relacionadas, no hay competidores directos en España que ofrezcan una aplicación para la gestión de mantenimientos de equipos con las mismas características y funcionalidades que nuestra idea.
+   - Esta falta de competidores directos representa una oportunidad para llenar un vacío en el mercado local y ofrecer una solución única y adaptada a las necesidades de las empresas españolas.
+
+3. **Identificación de Desafíos Potenciales:**
+   - Uno de los desafíos potenciales podría ser la necesidad de educar al mercado sobre la importancia y los beneficios de utilizar una aplicación específica para la gestión de mantenimientos de equipos.
+   - Otro desafío podría ser establecer la confianza y credibilidad entre los potenciales clientes, especialmente si están acostumbrados a utilizar métodos tradicionales de gestión de mantenimientos.
+   - Sin embargo, con una estrategia de marketing sólida y un enfoque en la excelencia del producto y el servicio al cliente, estos desafíos pueden superarse con éxito.
+
+### Financiación:
+
+La financiación para la puesta en marcha de la empresa provendrá de fondos propios y recursos familiares. Los principales fondos serán aportados a través de dos fuentes principales:
+
+1. **Terrenos Familiares**: Mi familia posee varios terrenos que serán utilizados como garantía para obtener fondos adicionales si es necesario. Estos terrenos representan un activo significativo que puede ser liquidado o utilizado como colateral para asegurar préstamos o líneas de crédito. La valorización de estos terrenos proporciona una base financiera sólida y confiable.
+
+2. **Aportaciones Directas**: Además de los terrenos, mi familia proporcionará una cantidad sustancial de dinero en efectivo. Este capital será suficiente para cubrir todos los gastos iniciales y operativos previstos en el plan de negocios, incluyendo la adquisición de equipos, desarrollo de software, marketing y otros costos operativos. La disponibilidad de estos fondos asegura que no habrá necesidad inmediata de buscar financiación externa.
+
+#### Plan de Utilización de Fondos
+
+- **Desarrollo de la Aplicación**: Parte de los fondos se destinará al desarrollo y mejora continua de la aplicación de gestión de mantenimientos de equipos. Esto incluye costos de compra de software y licencias, y otros gastos relacionados con la tecnología.
+  
+- **Infraestructura y Equipamiento**: Los fondos también cubrirán la compra de equipos y mobiliario necesarios para las operaciones diarias de la empresa, como ordenadores, servidores, y otros dispositivos tecnológicos.
+
+- **Marketing y Publicidad**: Se asignará una parte del presupuesto para estrategias de marketing y publicidad con el fin de promocionar la aplicación y atraer a los clientes objetivo.
+
+- **Operaciones y Administración**: Finalmente, los fondos se utilizarán para cubrir los costos operativos y administrativos, incluyendo salarios del personal, alquiler de oficinas si fuera necesario, y otros gastos generales.
+
+#### Seguridad Financiera
+
+La combinación de terrenos familiares y aportaciones directas de la familia proporciona una seguridad financiera sólida para el proyecto. Estos recursos no solo cubren los costos iniciales de puesta en marcha sino que también garantizan una base financiera estable para futuras expansiones y mejoras de la aplicación. Esta estructura financiera minimiza los riesgos asociados con la falta de liquidez y proporciona una base confiable para el crecimiento sostenido del negocio.
+
+### 2.5- Modelo de negocio | 2.5- Proposta de valor
+
+1. **Diferenciación frente a los competidores:**
+   - Nuestro servicio se distingue por ofrecer un enfoque integral en el mantenimiento de equipos, combinando la eficiencia operativa con la atención personalizada al cliente.
+   - Implementaremos un sistema de seguimiento detallado de cada mantenimiento realizado, brindando transparencia y confianza a nuestros clientes en cada etapa del proceso.
+
+2. **Mejoras frente a los competidores:**
+   - Integraremos tecnología avanzada para agilizar la gestión de mantenimientos y optimizar los tiempos de respuesta, ofreciendo un servicio más rápido y eficiente.
+   - Ofreceremos opciones de personalización en los planes de mantenimiento, adaptándonos a las necesidades específicas de cada cliente y superando las soluciones genéricas de la competencia.
+
+3. **Valor que aporta al mercado:**
+   - Nuestro servicio proporciona tranquilidad a los clientes al ofrecer un seguimiento detallado y transparente de cada mantenimiento, garantizando la calidad y confiabilidad en la atención.
+   - La combinación de eficiencia operativa y atención personalizada mejora la experiencia del cliente, generando una mayor satisfacción y fidelización en el mercado.
+
+4. **¿Por qué comprarán/contratarán este producto/servicio/idea frente al resto?:**
+   - Los clientes optarán por nuestro servicio debido a nuestra capacidad para ofrecer soluciones a medida que se adaptan a sus necesidades específicas, brindando un servicio personalizado y eficiente que se distingue de la competencia.
+   - La transparencia en la gestión y el seguimiento detallado de cada mantenimiento generarán confianza en los clientes, convirtiéndonos en la opción preferida en el mercado de reparación y mantenimiento de equipos.
+
+### 2.6- Forma xurídica
+
+La opción elegida es constituirme como autónomo, ya que me brinda flexibilidad e independencia económica. Puedo gestionar mi horario, elegir los proyectos y clientes que deseo, y desarrollar nuevas habilidades. Además, tengo el control de mi negocio y puedo crecer profesionalmente. Teniendo en cuenta que ser autónomo implica asumir riesgos económicos y responsabilidades adicionales.
+
+#### Cuota de Autónomos
+
+La cuota de autónomos es un pago mensual obligatorio que debe realizar cada trabajador por cuenta propia a la Seguridad Social. En España, la cuota mínima para los autónomos está determinada por la base de cotización, que es el salario mensual sobre el cual se calculan las cotizaciones sociales. A partir de 2023, la cuota mínima para la base mínima de cotización ronda los 294 euros mensuales, aunque esto puede variar en función de las reformas y actualizaciones anuales.
+
+Existen reducciones y bonificaciones para nuevos autónomos, como la tarifa plana de 80 euros mensuales durante los primeros 12 meses. Esta tarifa puede ampliarse a 24 meses en total con bonificaciones decrecientes durante el segundo año.
+
+#### Requisitos para Constituirse como Autónomo
+
+Para constituirme como autónomo, debo cumplir con los siguientes requisitos y realizar los trámites necesarios:
+
+1. **Registro en la Seguridad Social**: Darme de alta en el Régimen Especial de Trabajadores Autónomos (RETA). 
+2. **Alta en Hacienda**: Darme de alta en Hacienda a través del modelo 036 o 037 para obtener el número de identificación fiscal y comunicar el inicio de la actividad económica.
+3. **Licencias y Permisos**: Obtener cualquier licencia o permiso necesario para el desarrollo de mi actividad, dependiendo del sector específico.
+4. **Libro de Visitas**: Mantener un libro de visitas disponible para posibles inspecciones de trabajo, aunque su obligatoriedad ha sido eliminada en algunas comunidades autónomas.
+
+#### Carga Impositiva
+
+Como autónomo, estaré sujeto a varias obligaciones fiscales:
+
+1. **Impuesto sobre la Renta de las Personas Físicas (IRPF)**: Deberé declarar y pagar trimestralmente el IRPF mediante pagos fraccionados (modelo 130). También, presentaré la declaración anual de la renta.
+2. **Impuesto sobre el Valor Añadido (IVA)**: Deberé presentar trimestralmente las liquidaciones del IVA (modelo 303) y una declaración resumen anual (modelo 390). Esto implica cobrar el IVA a mis clientes y pagarlo a Hacienda, descontando el IVA soportado en mis compras y gastos relacionados con la actividad.
+3. **Retenciones**: Si contrato a empleados o subcontrato servicios a otros profesionales, debo practicar retenciones en sus facturas y declararlas a través del modelo 111 trimestralmente.
+
+### 2.7- Promoción | 2.7- Investimentos
 
 Los recursos materiales y humanos necesarios para poner en marcha el proyecto, así como las necesidades de financiación asociadas son los siguientes:
 
@@ -111,7 +193,7 @@ Los recursos materiales y humanos necesarios para poner en marcha el proyecto, a
 - **Servidor:** El coste fijo mensual del servidor será de 10 €/mes, lo que equivale a 120 €/año.
 - **Suministros:** El coste fijo mensual de los suministros será de 56.67€/mes, lo que equivale a 680.04 €/año.
 
-### Costes:
+#### 2.7.1- Custos:
 
 - **Salario bruto anual:** El sueldo bruto anual será de 14.400 €.
 - **Cuota a la Seguridad Social:** La cuota a la Seguridad Social será de 1029,61 €.
@@ -137,14 +219,16 @@ La previsión de costes totales es de 28.500,72 € anuales, siendo esta variabl
 
 ![Imagen de Costes](../img/costesTotales.PNG "Costes Totales")
 
-### Política de precios:
+#### 2.7.2- Ingresos
+
+##### Política de precios:
 A aplicación será de suscripción mensual:
 
 - **Productos/Servicios:** Se ofrecerán dos opciones de productos/servicios:
   - Opción 1, que incluye la aplicación y soporte de errores por 121 €/mes (precio sin IVA 100 €/mes).
   - Opción 2, que incluye la Opción 1 más la administración y gestión de la app web por 181,5 €/mes (precio sin IVA 150 €/mes).
 
-### Previsión de ingresos:
+##### Previsión de ingresos:
 
 - **Año 1:**
   - Opción 1: Con 2 clientes, se generarán ingresos de 2.904 €/año.
@@ -162,29 +246,38 @@ Con estos datos, se pretende asegurar una gestión eficiente de los recursos y u
 
 ![Imagen de Costes](../img/prevision.PNG "Previsión de Ingresos")
 
-### Financiación:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### Las Técnicas Elegidas son:
 
-La financiación para la puesta en marcha de la empresa provendrá de fondos propios y recursos familiares. Los principales fondos serán aportados a través de dos fuentes principales:
+1. **Redes Sociales**:
+   - Utilizaremos plataformas como Facebook, Twitter, e Instagram para llegar a una amplia audiencia, compartir contenido relevante y establecer una comunidad en línea.
 
-1. **Terrenos Familiares**: Mi familia posee varios terrenos que serán utilizados como garantía para obtener fondos adicionales si es necesario. Estos terrenos representan un activo significativo que puede ser liquidado o utilizado como colateral para asegurar préstamos o líneas de crédito. La valorización de estos terrenos proporciona una base financiera sólida y confiable.
+2. **Plataformas Multimedia**:
+   - Aprovecharemos plataformas como YouTube y Vimeo para crear videos promocionales, tutoriales y demostraciones de nuestros productos y servicios.
 
-2. **Aportaciones Directas**: Además de los terrenos, mi familia proporcionará una cantidad sustancial de dinero en efectivo. Este capital será suficiente para cubrir todos los gastos iniciales y operativos previstos en el plan de negocios, incluyendo la adquisición de equipos, desarrollo de software, marketing y otros costos operativos. La disponibilidad de estos fondos asegura que no habrá necesidad inmediata de buscar financiación externa.
+3. **Página Web**:
+   - Desarrollaremos y mantendremos una página web profesional que sirva como punto central de información sobre nuestra empresa, productos y servicios.
 
-#### Plan de Utilización de Fondos
+4. **Posicionamiento Web**:
+   - Implementaremos estrategias de SEO (Optimización de Motores de Búsqueda) para mejorar el posicionamiento de nuestra página web en los resultados de búsqueda y aumentar nuestra visibilidad en línea.
 
-- **Desarrollo de la Aplicación**: Parte de los fondos se destinará al desarrollo y mejora continua de la aplicación de gestión de mantenimientos de equipos. Esto incluye costos de compra de software y licencias, y otros gastos relacionados con la tecnología.
-  
-- **Infraestructura y Equipamiento**: Los fondos también cubrirán la compra de equipos y mobiliario necesarios para las operaciones diarias de la empresa, como ordenadores, servidores, y otros dispositivos tecnológicos.
+5. **Patrocinios**:
+   - Exploraremos oportunidades de patrocinio en eventos locales y encuentros profesionales del sector para aumentar la exposición de nuestra marca y establecer asociaciones en la comunidad empresarial.
 
-- **Marketing y Publicidad**: Se asignará una parte del presupuesto para estrategias de marketing y publicidad con el fin de promocionar la aplicación y atraer a los clientes objetivo.
+6. **Prácticas de Responsabilidad Social Corporativa (RSC)**:
+   - Nos comprometeremos con prácticas empresariales socialmente responsables, como donaciones a organizaciones benéficas locales, programas de voluntariado y acciones medioambientales, para fortalecer nuestra imagen de marca y contribuir positivamente a la comunidad.
 
-- **Operaciones y Administración**: Finalmente, los fondos se utilizarán para cubrir los costos operativos y administrativos, incluyendo salarios del personal, alquiler de oficinas si fuera necesario, y otros gastos generales.
+#### Justificación de la Elección:
 
-#### Seguridad Financiera
+- **Alcance Amplio y Diversificado**: Al combinar diferentes técnicas de promoción, podemos llegar a una audiencia más amplia y diversa, abarcando tanto a usuarios activos en línea como a aquellos que prefieren medios tradicionales.
 
-La combinación de terrenos familiares y aportaciones directas de la familia proporciona una seguridad financiera sólida para el proyecto. Estos recursos no solo cubren los costos iniciales de puesta en marcha sino que también garantizan una base financiera estable para futuras expansiones y mejoras de la aplicación. Esta estructura financiera minimiza los riesgos asociados con la falta de liquidez y proporciona una base confiable para el crecimiento sostenido del negocio.
+- **Interacción y Engagement**: Las redes sociales y las plataformas multimedia nos permitirán interactuar directamente con nuestros clientes potenciales, responder preguntas, recopilar comentarios y crear relaciones más sólidas con nuestra audiencia.
 
-### 2.5- Modelo de negocio
+- **Visibilidad y Credibilidad**: Una página web bien diseñada y un sólido posicionamiento en buscadores aumentarán nuestra visibilidad en línea y mejorarán nuestra credibilidad como empresa.
+
+- **Participación en la Comunidad**: A través de patrocinios, eventos y prácticas de RSC, demostraremos nuestro compromiso con la comunidad local y ganaremos la confianza y lealtad de los clientes al demostrar nuestros valores y responsabilidad social.
+
+### 2.8- Viabilidade
 
 #### Necesidades detectadas
 
@@ -240,7 +333,7 @@ La combinación de terrenos familiares y aportaciones directas de la familia pro
 
 #### 2.5.1- Viabilidade
 
-##### 2.5.1.1- Viabilidade técnica
+##### 2.8.1- Viabilidade técnica
 
 Se considera que el proyecto es técnicamente viable debido a las siguientes razones:
 
@@ -248,7 +341,7 @@ Se considera que el proyecto es técnicamente viable debido a las siguientes raz
 
 2. **RRHH**: Al ser el único trabajador del proyecto, tengo un control total sobre el proceso de desarrollo y mantenimiento del sistema, tengo la libertad de elegir las tecnologías más adecuadas para el proyecto según mis preferencias. Esto me permite una adaptación eficiente a las necesidades del negocio y la implementación de soluciones técnicas óptimas, lo que me facilita la toma de decisiones técnicas y la implementación de cambios según sea necesario.
 
-##### 2.5.1.2- Viabilidade económica
+##### 2.8.2- Viabilidade económica
 
 Teniendo en cuenta los datos sobre la inversión y costes tratados en el apartados de "[2.4- Axudas e financiación](#24--axudas-e-financiación)", esta sería la evaluación de costes directos e indirectos del proyecto como los beneficios esperados a 2 años vista.
 
@@ -256,7 +349,7 @@ Generando así el siguiente entorno económico:
 
 ![Imagen de Costes](../img/entornoEconomico.PNG "Entorno Económico")
 
-#### 2.5.1.3- Conclusión
+#### 2.8.3- Conclusión
 
 1. **¿Es viable?**
    Sí, el proyecto es viable, esto sugiere que el proyecto tiene el potencial de generar beneficios a largo plazo.
@@ -267,100 +360,7 @@ Generando así el siguiente entorno económico:
 3. **¿Las pérdidas pueden cubrirse vía financiamiento?**
    Es posible que las pérdidas iniciales puedan cubrirse mediante financiamiento, especialmente si se recibe apoyo de la administración pública o se obtienen subvenciones u otras formas de financiamiento externo.
 
-### 2.6- Competencia
-
-1. **Empresas Competidoras:**
-   - Nomadia Field Service: Ofrece un paquete de software para la gestión de servicios externos, con características como programación en tiempo real, reserva de citas y transacciones. [Sitio web](https://www.nomadia-group.com/en/landing-page-nomadia-fsm/?utm_source=GetApp)
-   - MEX Maintenance: Proporciona soluciones para la gestión de activos y mantenimiento diario, incluyendo creación de informes y pedidos automáticos de tiendas. Su aplicación MEX Mobile facilita la gestión de instalaciones tanto para los administradores como para los técnicos de servicio en el campo. [Sitio web](https://www.mex.com.au/Products/MEX)
-   - MaintainX: Ofrece un software de digitalización de procedimientos y órdenes de trabajo con prioridad para dispositivos móviles. Está diseñado para ayudar a los equipos de primera línea de fábricas a saber exactamente qué necesitan hacer y cómo hacerlo, incluyendo procedimientos de seguridad centralizados. [Sitio web](https://www.getmaintainx.com/?utm_campaign=Maintenance+Management&utm_medium=cpc&utm_source=GetApp)
-
-2. **Análisis de Vacíos en el Mercado:**
-   - Aunque existen algunas empresas que ofrecen soluciones relacionadas, no hay competidores directos en España que ofrezcan una aplicación para la gestión de mantenimientos de equipos con las mismas características y funcionalidades que nuestra idea.
-   - Esta falta de competidores directos representa una oportunidad para llenar un vacío en el mercado local y ofrecer una solución única y adaptada a las necesidades de las empresas españolas.
-
-3. **Identificación de Desafíos Potenciales:**
-   - Uno de los desafíos potenciales podría ser la necesidad de educar al mercado sobre la importancia y los beneficios de utilizar una aplicación específica para la gestión de mantenimientos de equipos.
-   - Otro desafío podría ser establecer la confianza y credibilidad entre los potenciales clientes, especialmente si están acostumbrados a utilizar métodos tradicionales de gestión de mantenimientos.
-   - Sin embargo, con una estrategia de marketing sólida y un enfoque en la excelencia del producto y el servicio al cliente, estos desafíos pueden superarse con éxito.
-
-### 2.7- Promoción
-
-#### Las Técnicas Elegidas son:
-
-1. **Redes Sociales**:
-   - Utilizaremos plataformas como Facebook, Twitter, e Instagram para llegar a una amplia audiencia, compartir contenido relevante y establecer una comunidad en línea.
-
-2. **Plataformas Multimedia**:
-   - Aprovecharemos plataformas como YouTube y Vimeo para crear videos promocionales, tutoriales y demostraciones de nuestros productos y servicios.
-
-3. **Página Web**:
-   - Desarrollaremos y mantendremos una página web profesional que sirva como punto central de información sobre nuestra empresa, productos y servicios.
-
-4. **Posicionamiento Web**:
-   - Implementaremos estrategias de SEO (Optimización de Motores de Búsqueda) para mejorar el posicionamiento de nuestra página web en los resultados de búsqueda y aumentar nuestra visibilidad en línea.
-
-5. **Patrocinios**:
-   - Exploraremos oportunidades de patrocinio en eventos locales y encuentros profesionales del sector para aumentar la exposición de nuestra marca y establecer asociaciones en la comunidad empresarial.
-
-6. **Prácticas de Responsabilidad Social Corporativa (RSC)**:
-   - Nos comprometeremos con prácticas empresariales socialmente responsables, como donaciones a organizaciones benéficas locales, programas de voluntariado y acciones medioambientales, para fortalecer nuestra imagen de marca y contribuir positivamente a la comunidad.
-
-#### Justificación de la Elección:
-
-- **Alcance Amplio y Diversificado**: Al combinar diferentes técnicas de promoción, podemos llegar a una audiencia más amplia y diversa, abarcando tanto a usuarios activos en línea como a aquellos que prefieren medios tradicionales.
-
-- **Interacción y Engagement**: Las redes sociales y las plataformas multimedia nos permitirán interactuar directamente con nuestros clientes potenciales, responder preguntas, recopilar comentarios y crear relaciones más sólidas con nuestra audiencia.
-
-- **Visibilidad y Credibilidad**: Una página web bien diseñada y un sólido posicionamiento en buscadores aumentarán nuestra visibilidad en línea y mejorarán nuestra credibilidad como empresa.
-
-- **Participación en la Comunidad**: A través de patrocinios, eventos y prácticas de RSC, demostraremos nuestro compromiso con la comunidad local y ganaremos la confianza y lealtad de los clientes al demostrar nuestros valores y responsabilidad social.
-
-### 2.8- Proposta de valor
-
-1. **Diferenciación frente a los competidores:**
-   - Nuestro servicio se distingue por ofrecer un enfoque integral en el mantenimiento de equipos, combinando la eficiencia operativa con la atención personalizada al cliente.
-   - Implementaremos un sistema de seguimiento detallado de cada mantenimiento realizado, brindando transparencia y confianza a nuestros clientes en cada etapa del proceso.
-
-2. **Mejoras frente a los competidores:**
-   - Integraremos tecnología avanzada para agilizar la gestión de mantenimientos y optimizar los tiempos de respuesta, ofreciendo un servicio más rápido y eficiente.
-   - Ofreceremos opciones de personalización en los planes de mantenimiento, adaptándonos a las necesidades específicas de cada cliente y superando las soluciones genéricas de la competencia.
-
-3. **Valor que aporta al mercado:**
-   - Nuestro servicio proporciona tranquilidad a los clientes al ofrecer un seguimiento detallado y transparente de cada mantenimiento, garantizando la calidad y confiabilidad en la atención.
-   - La combinación de eficiencia operativa y atención personalizada mejora la experiencia del cliente, generando una mayor satisfacción y fidelización en el mercado.
-
-4. **¿Por qué comprarán/contratarán este producto/servicio/idea frente al resto?:**
-   - Los clientes optarán por nuestro servicio debido a nuestra capacidad para ofrecer soluciones a medida que se adaptan a sus necesidades específicas, brindando un servicio personalizado y eficiente que se distingue de la competencia.
-   - La transparencia en la gestión y el seguimiento detallado de cada mantenimiento generarán confianza en los clientes, convirtiéndonos en la opción preferida en el mercado de reparación y mantenimiento de equipos.
-
-### 2.9- Forma xurídica
-
-La opción elegida es constituirme como autónomo, ya que me brinda flexibilidad e independencia económica. Puedo gestionar mi horario, elegir los proyectos y clientes que deseo, y desarrollar nuevas habilidades. Además, tengo el control de mi negocio y puedo crecer profesionalmente. Teniendo en cuenta que ser autónomo implica asumir riesgos económicos y responsabilidades adicionales.
-
-#### Cuota de Autónomos
-
-La cuota de autónomos es un pago mensual obligatorio que debe realizar cada trabajador por cuenta propia a la Seguridad Social. En España, la cuota mínima para los autónomos está determinada por la base de cotización, que es el salario mensual sobre el cual se calculan las cotizaciones sociales. A partir de 2023, la cuota mínima para la base mínima de cotización ronda los 294 euros mensuales, aunque esto puede variar en función de las reformas y actualizaciones anuales.
-
-Existen reducciones y bonificaciones para nuevos autónomos, como la tarifa plana de 80 euros mensuales durante los primeros 12 meses. Esta tarifa puede ampliarse a 24 meses en total con bonificaciones decrecientes durante el segundo año.
-
-#### Requisitos para Constituirse como Autónomo
-
-Para constituirme como autónomo, debo cumplir con los siguientes requisitos y realizar los trámites necesarios:
-
-1. **Registro en la Seguridad Social**: Darme de alta en el Régimen Especial de Trabajadores Autónomos (RETA). 
-2. **Alta en Hacienda**: Darme de alta en Hacienda a través del modelo 036 o 037 para obtener el número de identificación fiscal y comunicar el inicio de la actividad económica.
-3. **Licencias y Permisos**: Obtener cualquier licencia o permiso necesario para el desarrollo de mi actividad, dependiendo del sector específico.
-4. **Libro de Visitas**: Mantener un libro de visitas disponible para posibles inspecciones de trabajo, aunque su obligatoriedad ha sido eliminada en algunas comunidades autónomas.
-
-#### Carga Impositiva
-
-Como autónomo, estaré sujeto a varias obligaciones fiscales:
-
-1. **Impuesto sobre la Renta de las Personas Físicas (IRPF)**: Deberé declarar y pagar trimestralmente el IRPF mediante pagos fraccionados (modelo 130). También, presentaré la declaración anual de la renta.
-2. **Impuesto sobre el Valor Añadido (IVA)**: Deberé presentar trimestralmente las liquidaciones del IVA (modelo 303) y una declaración resumen anual (modelo 390). Esto implica cobrar el IVA a mis clientes y pagarlo a Hacienda, descontando el IVA soportado en mis compras y gastos relacionados con la actividad.
-3. **Retenciones**: Si contrato a empleados o subcontrato servicios a otros profesionales, debo practicar retenciones en sus facturas y declararlas a través del modelo 111 trimestralmente.
-
-### 2.10- Prevención de riesgos laborales
+### 2.9- Prevención de riesgos laborales
 
 En este apartado se detallan las medidas necesarias para garantizar la seguridad y salud de los trabajadores involucrados en el desarrollo y mantenimiento de la aplicación. Además, se identifican los riesgos inherentes a la ejecución de las actividades y se establece un plan de prevención de riesgos, así como los medios y equipos necesarios para mitigarlos.
 

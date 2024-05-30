@@ -322,10 +322,10 @@ La combinación de terrenos familiares y aportaciones directas de la familia pro
    Sí, el proyecto es viable, esto sugiere que el proyecto tiene el potencial de generar beneficios a largo plazo.
 
 2. **¿Los beneficios del proyecto son superiores a los costes?**
-   Sí, según la evaluación de costes e ingresos adjunta en la documentación del proyecto, los ingresos son superiores a los costes a partir del segundo año. Esto indica que el proyecto tiene una estructura financiera sólida y tiene el potencial de generar ganancias una vez que se establezca y comience a operar.
+   Sí, según la evaluación de costes e ingresos adjunta en la documentación del proyecto, los ingresos son superiores a los costes a partir del tercer año. Esto indica que el proyecto tiene una estructura financiera sólida y tiene el potencial de generar ganancias una vez que se establezca y comience a operar.
 
 3. **¿Las pérdidas pueden cubrirse vía financiamiento?**
-   Es posible que las pérdidas iniciales puedan cubrirse mediante financiamiento, especialmente si se recibe apoyo de la administración pública o se obtienen subvenciones u otras formas de financiamiento externo.
+   Como se puede observar en el apartado anterior, la estrategia de financiación asegura que la empresa tendrá los recursos necesarios para iniciar sus operaciones sin recurrir a deudas significativas desde el principio. La solidez de los activos familiares y el apoyo financiero directo proporcionan una ventaja competitiva, permitiendo enfocarse en el desarrollo y crecimiento del negocio sin las preocupaciones inmediatas de financiamiento externo.
 
 ## 3- Requirimentos técnicos
 

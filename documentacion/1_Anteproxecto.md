@@ -286,7 +286,7 @@ Se considera que el proyecto es técnicamente viable debido a las siguientes raz
 
 2. **RRHH**: Al ser el único trabajador del proyecto, tengo un control total sobre el proceso de desarrollo y mantenimiento del sistema, tengo la libertad de elegir las tecnologías más adecuadas para el proyecto según mis preferencias. Esto me permite una adaptación eficiente a las necesidades del negocio y la implementación de soluciones técnicas óptimas, lo que me facilita la toma de decisiones técnicas y la implementación de cambios según sea necesario.
 
-#### 2.8.2- Viabilidade económica
+#### 2.8.2 - Viabilidade económica
 
 Teniendo en cuenta los datos sobre la inversión y costes tratados en el apartados de "[2.4- Axudas e financiación](#24--axudas-e-financiación)", esta sería la evaluación de costes directos e indirectos del proyecto como los beneficios esperados a 2 años vista.
 

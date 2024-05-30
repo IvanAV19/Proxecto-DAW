@@ -160,11 +160,11 @@ Como autónomo, estaré sujeto a varias obligaciones fiscales:
 2. **Impuesto sobre el Valor Añadido (IVA)**: Deberé presentar trimestralmente las liquidaciones del IVA (modelo 303) y una declaración resumen anual (modelo 390). Esto implica cobrar el IVA a mis clientes y pagarlo a Hacienda, descontando el IVA soportado en mis compras y gastos relacionados con la actividad.
 3. **Retenciones**: Si contrato a empleados o subcontrato servicios a otros profesionales, debo practicar retenciones en sus facturas y declararlas a través del modelo 111 trimestralmente.
 
-### 2.7- Promoción | 2.7- Investimentos
+### 2.7- Investimentos
 
 Los recursos materiales y humanos necesarios para poner en marcha el proyecto, así como las necesidades de financiación asociadas son los siguientes:
 
-### Inversiones:
+#### Inversiones:
 
 - **Ordenador Portátil:** El coste es de 669 €.
 - **Dominio web:** El coste fijo anual del dominio web será de 10 €/año.
@@ -224,37 +224,6 @@ Con estos datos, se pretende asegurar una gestión eficiente de los recursos y u
 
 ![Imagen de Costes](../img/prevision.PNG "Previsión de Ingresos")
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#### Las Técnicas Elegidas son:
-
-1. **Redes Sociales**:
-   - Utilizaremos plataformas como Facebook, Twitter, e Instagram para llegar a una amplia audiencia, compartir contenido relevante y establecer una comunidad en línea.
-
-2. **Plataformas Multimedia**:
-   - Aprovecharemos plataformas como YouTube y Vimeo para crear videos promocionales, tutoriales y demostraciones de nuestros productos y servicios.
-
-3. **Página Web**:
-   - Desarrollaremos y mantendremos una página web profesional que sirva como punto central de información sobre nuestra empresa, productos y servicios.
-
-4. **Posicionamiento Web**:
-   - Implementaremos estrategias de SEO (Optimización de Motores de Búsqueda) para mejorar el posicionamiento de nuestra página web en los resultados de búsqueda y aumentar nuestra visibilidad en línea.
-
-5. **Patrocinios**:
-   - Exploraremos oportunidades de patrocinio en eventos locales y encuentros profesionales del sector para aumentar la exposición de nuestra marca y establecer asociaciones en la comunidad empresarial.
-
-6. **Prácticas de Responsabilidad Social Corporativa (RSC)**:
-   - Nos comprometeremos con prácticas empresariales socialmente responsables, como donaciones a organizaciones benéficas locales, programas de voluntariado y acciones medioambientales, para fortalecer nuestra imagen de marca y contribuir positivamente a la comunidad.
-
-#### Justificación de la Elección:
-
-- **Alcance Amplio y Diversificado**: Al combinar diferentes técnicas de promoción, podemos llegar a una audiencia más amplia y diversa, abarcando tanto a usuarios activos en línea como a aquellos que prefieren medios tradicionales.
-
-- **Interacción y Engagement**: Las redes sociales y las plataformas multimedia nos permitirán interactuar directamente con nuestros clientes potenciales, responder preguntas, recopilar comentarios y crear relaciones más sólidas con nuestra audiencia.
-
-- **Visibilidad y Credibilidad**: Una página web bien diseñada y un sólido posicionamiento en buscadores aumentarán nuestra visibilidad en línea y mejorarán nuestra credibilidad como empresa.
-
-- **Participación en la Comunidad**: A través de patrocinios, eventos y prácticas de RSC, demostraremos nuestro compromiso con la comunidad local y ganaremos la confianza y lealtad de los clientes al demostrar nuestros valores y responsabilidad social.
-
 ### 2.8- Viabilidade
 
 #### Necesidades detectadas
@@ -309,9 +278,7 @@ Con estos datos, se pretende asegurar una gestión eficiente de los recursos y u
    - Tarifas adicionales por servicios de personalización y consultoría, como la integración con sistemas existentes o el desarrollo de funcionalidades específicas.
    - Oferta de servicios de formación y capacitación para usuarios finales y administradores del sistema.
 
-#### 2.5.1- Viabilidade
-
-##### 2.8.1- Viabilidade técnica
+#### 2.8.1- Viabilidade técnica
 
 Se considera que el proyecto es técnicamente viable debido a las siguientes razones:
 
@@ -319,7 +286,7 @@ Se considera que el proyecto es técnicamente viable debido a las siguientes raz
 
 2. **RRHH**: Al ser el único trabajador del proyecto, tengo un control total sobre el proceso de desarrollo y mantenimiento del sistema, tengo la libertad de elegir las tecnologías más adecuadas para el proyecto según mis preferencias. Esto me permite una adaptación eficiente a las necesidades del negocio y la implementación de soluciones técnicas óptimas, lo que me facilita la toma de decisiones técnicas y la implementación de cambios según sea necesario.
 
-##### 2.8.2- Viabilidade económica
+#### 2.8.2- Viabilidade económica
 
 Teniendo en cuenta los datos sobre la inversión y costes tratados en el apartados de "[2.4- Axudas e financiación](#24--axudas-e-financiación)", esta sería la evaluación de costes directos e indirectos del proyecto como los beneficios esperados a 2 años vista.
 
@@ -327,7 +294,7 @@ Generando así el siguiente entorno económico:
 
 ![Imagen de Costes](../img/entornoEconomico.PNG "Entorno Económico")
 
-###### Financiación:
+##### Financiación:
 
 La financiación para la puesta en marcha de la empresa provendrá de fondos propios y recursos familiares. Los principales fondos serán aportados a través de dos fuentes principales:
 
@@ -335,7 +302,7 @@ La financiación para la puesta en marcha de la empresa provendrá de fondos pro
 
 2. **Aportaciones Directas**: Además de los terrenos, mi familia proporcionará una cantidad sustancial de dinero en efectivo. Este capital será suficiente para cubrir todos los gastos iniciales y operativos previstos en el plan de negocios, incluyendo la adquisición de equipos, desarrollo de software, marketing y otros costos operativos. La disponibilidad de estos fondos asegura que no habrá necesidad inmediata de buscar financiación externa.
 
-###### Plan de Utilización de Fondos
+##### Plan de Utilización de Fondos
 
 - **Desarrollo de la Aplicación**: Parte de los fondos se destinará al desarrollo y mejora continua de la aplicación de gestión de mantenimientos de equipos. Esto incluye costos de compra de software y licencias, y otros gastos relacionados con la tecnología.
   
@@ -345,7 +312,7 @@ La financiación para la puesta en marcha de la empresa provendrá de fondos pro
 
 - **Operaciones y Administración**: Finalmente, los fondos se utilizarán para cubrir los costos operativos y administrativos, incluyendo salarios del personal, alquiler de oficinas si fuera necesario, y otros gastos generales.
 
-###### Seguridad Financiera
+##### Seguridad Financiera
 
 La combinación de terrenos familiares y aportaciones directas de la familia proporciona una seguridad financiera sólida para el proyecto. Estos recursos no solo cubren los costos iniciales de puesta en marcha sino que también garantizan una base financiera estable para futuras expansiones y mejoras de la aplicación. Esta estructura financiera minimiza los riesgos asociados con la falta de liquidez y proporciona una base confiable para el crecimiento sostenido del negocio.
 

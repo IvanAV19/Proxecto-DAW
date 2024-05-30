@@ -139,7 +139,7 @@ La opción elegida es constituirme como autónomo, ya que me brinda flexibilidad
 
 #### Cuota de Autónomos
 
-La cuota de autónomos es un pago mensual obligatorio que debe realizar cada trabajador por cuenta propia a la Seguridad Social. En España, la cuota mínima para los autónomos está determinada por la base de cotización, que es el salario mensual sobre el cual se calculan las cotizaciones sociales. A partir de 2023, la cuota mínima para la base mínima de cotización ronda los 294 euros mensuales, aunque esto puede variar en función de las reformas y actualizaciones anuales.
+La cuota de autónomos es un pago mensual obligatorio que debe realizar cada trabajador por cuenta propia a la Seguridad Social. En España, la cuota mínima para los autónomos está determinada por la base de cotización, que es el salario mensual sobre el cual se calculan las cotizaciones sociales. A partir de 2023, la cuota mínima para la base mínima de cotización ronda los 230 euros mensuales, aunque esto puede variar en función de las reformas y actualizaciones anuales.
 
 Existen reducciones y bonificaciones para nuevos autónomos, como la tarifa plana de 80 euros mensuales durante los primeros 12 meses. Esta tarifa puede ampliarse a 24 meses en total con bonificaciones decrecientes durante el segundo año.
 

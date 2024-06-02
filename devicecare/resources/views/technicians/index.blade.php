@@ -13,7 +13,7 @@
         <table class="table">
             <thead class="thead-dark">
             <tr>
-                <th scope="col">Avatar</th>
+                <!-- <th scope="col">Avatar</th> -->
                 <th scope="col">Nombre</th>
                 <th scope="col">Apellido</th>
                 <th scope="col">E-mail</th>
@@ -23,13 +23,13 @@
             <tbody>
             @forelse ($technicians as $technician)
                 <tr id="target{{$technician->id}}">
-                    <th scope="row">
+                    <!-- <th scope="row">
                         @if($technician->avatar == 'default')
                             <img src="{{ asset('/storage/default.png') }}" class="img-thumbnail" alt="Avatar" width="50" height="50">
                         @else
                             <img src="{{ asset('/storage/avatars/'.$technician->avatar) }}" alt="Avatar" class="img-thumbnail" width="50" height="50">
                         @endif
-                    </th>
+                    </th> -->
                     <td>{{ $technician->name }}</td>
                     <td>{{ $technician->last_name }}</td>
                     <td>{{ $technician->email }}</td>

@@ -46,7 +46,7 @@
                     </span>
                 @enderror
             </div>
-            <div class="form-group">
+            <!-- <div class="form-group">
                 {!! Form::label('avatar_label', 'Avatar') !!}
                 <div class="custom-file">
                     {!! Form::file('avatar', ['id' => 'avatar', 'class' => 'custom-file-input '.((!empty($errors->first('avatar')) || session()->has('file_error') ? 'is-invalid' : ''))]); !!}
@@ -64,7 +64,7 @@
                         </span>
                     @endif
                 </div>
-            </div>
+            </div> -->
 
             <div class="form-group">
                 <button type="submit" class="btn btn-primary">

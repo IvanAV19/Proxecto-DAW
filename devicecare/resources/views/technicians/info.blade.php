@@ -31,7 +31,7 @@
                             <th>E-mail</th>
                             <td>{{ $technician->email }}</td>
                           </tr>
-                          <tr>
+                          <!-- <tr>
                             <th>Avatar</th>
                             <td>
                                 @if($technician->avatar == 'default')
@@ -40,7 +40,7 @@
                                     <img src="{{ asset('/storage/avatars/'.$technician->avatar) }}" alt="Avatar" class="img-thumbnail" width="50" height="50">
                                 @endif
                             </td>
-                          </tr>
+                          </tr> -->
                         </tbody>
                       </table>
                 </div>

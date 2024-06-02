@@ -7,7 +7,7 @@
     <div class="table-responsive">
         <table class="table table-bordered table-hover">
             <tbody>
-              <tr>
+              <!-- <tr>
                 <th>Avatar</th>
                 <td>
                     @if(auth()->user()->avatar == 'default')
@@ -16,7 +16,7 @@
                         <img src="{{ asset('/storage/avatars/'.auth()->user()->avatar) }}" alt="Avatar" class="img-thumbnail" width="70" height="70">
                     @endif
                 </td>
-                </tr>
+                </tr> -->
               <tr>
                 <th>Nombre</th>
                 <td>{{ auth()->user()->name }}</td>

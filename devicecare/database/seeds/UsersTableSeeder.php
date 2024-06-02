@@ -13,12 +13,12 @@ class UsersTableSeeder extends Seeder
     public function run()
     {
         factory('App\Models\User')->create([
-            'name' => 'Iván',
-            'last_name' => 'Alonso',
-            'email' => 'ivanav@devicecare.com',
+            'name' => 'Admin',
+            'last_name' => 'ApelAdmin',
+            'email' => 'admin@devicecare.com',
             'type' => 1,
             'email_verified_at' => now(),
-            'password' => Hash::make('secret123'),
+            'password' => 'secret123',
             'remember_token' => Str::random(10)
         ]);
 

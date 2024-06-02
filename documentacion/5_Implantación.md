@@ -11,15 +11,20 @@
 
 ### 1.1- Instalación
 
-> *EXPLICACIÓN:* Neste apartado describiranse todos os pasos necesarios para que calquera persoa poida descargar o código do proxecto e continuar o seu desenvolvemento.
->
-> Como:
-> 
-> - Requirimentos de hardware, servidores na nube, etc.
-> - Software necesario: servidores (Exemplo servidor Web), software externo co que interaciona a nosa aplicación, contenedores, etc.
-> - Carga inicial de datos na base de datos. Migración de datos xa existentes noutros formatos.
-> - Usuarios da aplicación.
-> - Diagrama final de despregue (se hai variacións con respecto ó realizado na anterior fase).
+#### 1.1.1-**Requisitos**
+- Disponer de Docker y Docker Compose instalado en el equipo.
+
+#### 1.1.2-**Arranque de aplicación**
+- Ejecutar el comando `docker compose up -d`
+
+#### 1.1.2-**Carga inicial en la base de datos**
+- Ejecutar los siguientes comandos:
+  `docker compose exec app php artisan migrate`
+  `docker compose exec app php artisan db:seed`
+
+#### 1.1.2-**Usuario admin**
+- Nombre de usuario: **admin@devicecare.com**.
+- Contraseña de usuario: **secret123**.
 
 ### 1.2- Administración do sistema
 

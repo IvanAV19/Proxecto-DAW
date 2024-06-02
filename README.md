@@ -25,8 +25,37 @@ El objetivo principal de esta aplicación es optimizar y agilizar el proceso de 
 
 ## Instalación / Posta en marcha
 
-> *EXPLICACIÓN*: Neste apartado describe con toda precisión e a poder ser coa maior simplicidade/facilidade posible, como poñer en marcha a túa aplicación para probala (nun ambiente local). Valorarase moi positivamente que este proceso sexa o máis fácil posible, cunha simple instrución (p. e. un script de instalación, descarga e posta en marcha dun contedor,...).
->
+### 1.1- Instalación
+
+#### 1.1.1- Requisitos
+
+Para poner en marcha esta aplicación en un ambiente local, asegúrate de que tu equipo cumple con los siguientes requisitos:
+
+- Docker instalado
+- Docker Compose instalado
+
+#### 1.1.2- Arranque de la aplicación
+
+Una vez que tengas Docker y Docker Compose instalados, sigue estos pasos para arrancar la aplicación:
+
+1. Abre una terminal en la raíz del proyecto.
+2. Ejecuta el siguiente comando para construir y arrancar los contenedores en segundo plano:
+   `docker compose up -d`
+
+#### 1.1.3- Carga inicial en la base de datos
+Después de arrancar los contenedores, necesitas preparar la base de datos. Ejecuta los siguientes comandos en la terminal:
+
+1. Ejecuta las migraciones para crear las tablas en la base de datos:
+   `docker compose exec app php artisan migrate`
+   
+2. Ejecuta los seeders para poblar la base de datos con datos iniciales:
+   `docker compose exec app php artisan db:seed`
+
+#### 1.1.4- Usuario admin
+Para acceder a la aplicación con privilegios de administrador, utiliza las siguientes credenciales:
+
+- Nombre de usuario: **admin@devicecare.com**.
+- Contraseña de usuario: **secret123**.
 
 ## Uso
 

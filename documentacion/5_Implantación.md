@@ -134,17 +134,9 @@ Para registrar un nuevo cliente:
 1. Inicie sesión en la aplicación.
 2. Vaya a la sección "Clientes".
 3. Haga clic en "Crear Cliente".
-
-![DeviceCare-Crear_Cliente](https://github.com/IvanAV19/Proxecto-DAW/assets/82937686/3520e06a-28c3-4d27-a9f7-483f9d1ae55b)
-
-
-![Imagen de Creación de Cliente](../img/crearCliente-1.PNG "Creación del Cliente Parte 1")
-
 4. Complete el formulario con la información del cliente y guarde los cambios.
 
-![Imagen de Creación de Cliente](../img/crearCliente-2.png "Creación del Cliente Parte 2")
-
-![Imagen de Creación de Cliente](../img/clienteCreado.PNG "Creación del Cliente Parte Final")
+![DeviceCare-Crear_Cliente](https://github.com/IvanAV19/Proxecto-DAW/assets/82937686/3520e06a-28c3-4d27-a9f7-483f9d1ae55b)
 
 Para gestionar clientes existentes:
 1. Inicie sesión en la aplicación.
@@ -152,21 +144,7 @@ Para gestionar clientes existentes:
 3. Seleccione el cliente que desea editar o eliminar.
 4. Realice las modificaciones necesarias y guarde los cambios.
 
-**Editar Cliente**
-
-![Imagen de Edición de Cliente](../img/editarCliente-1.PNG "Edición del Cliente Parte 1")
-
-![Imagen de Edición de Cliente](../img/editarCliente-2.png "Edición del Cliente Parte 2")
-
-![Imagen de Edición de Cliente](../img/clienteEditado.PNG "Edición del Cliente Parte Final")
-
-**Eliminar Cliente**
-
-![Imagen de Eliminación de Cliente](../img/eliminarCliente.PNG "Eliminación del Cliente Parte 1")
-
-![Imagen de Eliminación de Cliente](../img/eliminarCliente-2.PNG "Eliminación del Cliente Parte 2")
-
-![Imagen de Eliminación de Cliente](../img/eliminarCliente-3.PNG "Eliminación del Cliente Parte Final")
+![DeviceCare-Editar_Eliminar_Cliente](https://github.com/IvanAV19/Proxecto-DAW/assets/82937686/f8368b2a-11bc-4764-a611-871c9a254b62)
 
 #### 3. Registro y Gestión de Dispositivos
 

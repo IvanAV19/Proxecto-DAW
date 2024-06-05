@@ -136,7 +136,13 @@ Para registrar un nuevo cliente:
 3. Haga clic en "Añadir Cliente".
 4. Complete el formulario con la información del cliente y guarde los cambios.
 
-c
+**Crear Cliente**
+
+![Imagen de Creación de Cliente](../img/crearCliente-1.PNG "Creación del Cliente Parte 1")
+
+![Imagen de Creación de Cliente](../img/crearCliente-2.png "Creación del Cliente Parte 2")
+
+![Imagen de Creación de Cliente](../img/clienteCreado.PNG "Creación del Cliente Parte Final")
 
 Para gestionar clientes existentes:
 1. Inicie sesión en la aplicación.
@@ -144,11 +150,21 @@ Para gestionar clientes existentes:
 3. Seleccione el cliente que desea editar o eliminar.
 4. Realice las modificaciones necesarias y guarde los cambios.
 
+**Editar Cliente**
+
 ![Imagen de Edición de Cliente](../img/editarCliente-1.PNG "Edición del Cliente Parte 1")
 
-![Imagen de Edición de Cliente](../img/editarCliente-2.PNG "Edición del Cliente Parte 2")
+![Imagen de Edición de Cliente](../img/editarCliente-2.png "Edición del Cliente Parte 2")
 
 ![Imagen de Edición de Cliente](../img/clienteEditado.PNG "Edición del Cliente Parte Final")
+
+**Eliminar Cliente**
+
+![Imagen de Eliminación de Cliente](../img/eliminarCliente-1.PNG "Eliminación del Cliente Parte 1")
+
+![Imagen de Eliminación de Cliente](../img/eliminarCliente-2.PNG "Eliminación del Cliente Parte 2")
+
+![Imagen de Eliminación de Cliente](../img/eliminarCliente-3.PNG "Eliminación del Cliente Parte Final")
 
 #### 3. Registro y Gestión de Dispositivos
 

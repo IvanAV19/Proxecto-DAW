@@ -154,11 +154,15 @@ Para registrar un nuevo dispositivo:
 3. Haga clic en "Añadir Dispositivo".
 4. Complete el formulario con la información del dispositivo y guarde los cambios.
 
+![DeviceCare-Crear_Dispositivo](https://github.com/IvanAV19/Proxecto-DAW/assets/82937686/ad4738de-d310-4520-82c2-ea78d2381a48)
+
 Para gestionar dispositivos existentes:
 1. Inicie sesión en la aplicación.
 2. Vaya a la sección "Dispositivos".
 3. Seleccione el dispositivo que desea editar o eliminar.
 4. Realice las modificaciones necesarias y guarde los cambios.
+
+![DeviceCare-Editar_Eliminar_Dispositivo](https://github.com/IvanAV19/Proxecto-DAW/assets/82937686/ba412939-cb8e-4757-aa2f-014952bd5bd8)
 
 #### 4. Asignación de Técnicos y Creación de Mantenimientos
 

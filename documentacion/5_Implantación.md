@@ -116,13 +116,12 @@ A continuación, se presenta el manual de usuario, diseñado para guiar a los us
 
 #### Índice del Manual de Usuario:
 
-1. [Introducción](#introducción)
-2. [Registro y Gestión de Clientes](#registro-y-gestión-de-clientes)
-3. [Registro y Gestión de Dispositivos](#registro-y-gestión-de-dispositivos)
-4. [Creación de Mantenimientos](#creación-de-mantenimientos)
-5. [Visualización de Información](#visualización-de-información)
-6. [Gestión de Técnicos](#gestión-de-tecnicos)
-7. [FAQ](#faq)
+1. [Introducción](#1-introducción)
+2. [Registro y Gestión de Clientes](#2-registro-y-gestión-de-clientes)
+3. [Registro y Gestión de Dispositivos + Asignación de Técnicos](#3-registro-y-gestión-de-dispositivos--asignación-de-técnicos)
+4. [Creación de Mantenimientos](#4-creación-de-mantenimientos)
+5. [Visualización de Información](#5-visualización-de-información)
+6. [Gestión de Técnicos](#6-gestión-de-técnicos)
 
 #### 1. Introducción
 
@@ -201,19 +200,6 @@ Para gestionar usuarios y roles:
 ![DeviceCare-Crear_Tecnico](https://github.com/IvanAV19/Proxecto-DAW/assets/82937686/1cd3386b-4fcb-4c5d-b3be-ad0408aea26a)
 
 ![DeviceCare-Editar_Eliminar_Tecnico](https://github.com/IvanAV19/Proxecto-DAW/assets/82937686/506d3367-a561-4072-9e20-eba9deab29a1)
-
-#### 7. FAQ
-
-**¿Cómo recupero mi contraseña?**
-- Vaya a la página de inicio de sesión y haga clic en "Olvidé mi contraseña". Siga las instrucciones para restablecerla.
-
-**¿Cómo añado un nuevo cliente?**
-- Vaya a la sección "Clientes" y haga clic en "Añadir Cliente". Complete el formulario y guarde los cambios.
-
-**¿Cómo asigno un mantenimiento a un técnico?**
-- Vaya a la sección "Mantenimientos" y haga clic en "Añadir Mantenimiento". Complete el formulario y asigne el técnico correspondiente.
-
-Para cualquier otra pregunta o soporte adicional, por favor contacte al soporte técnico
 
 ## 3- Melloras futuras
 

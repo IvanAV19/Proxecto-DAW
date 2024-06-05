@@ -90,13 +90,138 @@ Las incidencias pueden ser de dos tipos: de sistema y de software. Es importante
 
 ## 2- Manual de usuario
 
-> *EXPLICACIÓN:* Neste apartado fara
->
-> - Indicar se será necesario formar ós usuarios. En caso afirmativo planificar.
-> - Manual de usuario, FAQ ou outro xeito que sexa o máis adecuado para que os usuarios saiban usar a nosa aplicación informática.
->
-> Todo esto se a aplicación require de manual de usuario.
+### 2.1- Formación de usuarios
+
+Para asegurar que los usuarios puedan utilizar la aplicación de manera eficiente, se recomienda llevar a cabo una formación inicial. Esta formación ayudará a los usuarios a familiarizarse con las funcionalidades de la aplicación y a aprovechar al máximo sus capacidades.
+
+##### Planificación de la formación:
+
+- **Duración:** 2 sesiones de 2 horas cada una.
+- **Formato:** Online (videollamadas) o presencial, dependiendo de la preferencia de la empresa.
+- **Contenido de las sesiones:**
+  - **Sesión 1: Introducción y funcionalidades básicas**
+    - Presentación general de la aplicación.
+    - Registro y gestión de clientes.
+    - Registro y gestión de dispositivos.
+    - Asignación de técnicos y creación de mantenimientos.
+    - Visualización y edición de información.
+  - **Sesión 2: Funcionalidades avanzadas y buenas prácticas**
+    - Gestión de usuarios y roles.
+    - Configuración de notificaciones y alertas.
+    - Exportación de datos e informes.
+    - Resolución de problemas comunes.
+    - Buenas prácticas para el uso diario de la aplicación.
+
+### 2.2- Manual de usuario
+
+A continuación, se presenta el manual de usuario, diseñado para guiar a los usuarios en el uso de la aplicación:
+
+#### Índice del Manual de Usuario:
+
+1. [Introducción](#introducción)
+2. [Registro y Gestión de Clientes](#registro-y-gestión-de-clientes)
+3. [Registro y Gestión de Dispositivos](#registro-y-gestión-de-dispositivos)
+4. [Asignación de Técnicos y Creación de Mantenimientos](#asignación-de-técnicos-y-creación-de-mantenimientos)
+5. [Visualización y Edición de Información](#visualización-y-edición-de-información)
+6. [Gestión de Usuarios y Roles](#gestión-de-usuarios-y-roles)
+7. [FAQ](#faq)
+
+#### 1. Introducción
+
+Bienvenido al manual de usuario de la aplicación de gestión de mantenimientos de equipos. Esta guía le ayudará a navegar y utilizar todas las funcionalidades disponibles para optimizar sus procesos de mantenimiento.
+
+#### 2. Registro y Gestión de Clientes
+
+Para registrar un nuevo cliente:
+1. Inicie sesión en la aplicación.
+2. Vaya a la sección "Clientes".
+3. Haga clic en "Añadir Cliente".
+4. Complete el formulario con la información del cliente y guarde los cambios.
+
+Para gestionar clientes existentes:
+1. Inicie sesión en la aplicación.
+2. Vaya a la sección "Clientes".
+3. Seleccione el cliente que desea editar o eliminar.
+4. Realice las modificaciones necesarias y guarde los cambios.
+
+#### 3. Registro y Gestión de Dispositivos
+
+Para registrar un nuevo dispositivo:
+1. Inicie sesión en la aplicación.
+2. Vaya a la sección "Dispositivos".
+3. Haga clic en "Añadir Dispositivo".
+4. Complete el formulario con la información del dispositivo y guarde los cambios.
+
+Para gestionar dispositivos existentes:
+1. Inicie sesión en la aplicación.
+2. Vaya a la sección "Dispositivos".
+3. Seleccione el dispositivo que desea editar o eliminar.
+4. Realice las modificaciones necesarias y guarde los cambios.
+
+#### 4. Asignación de Técnicos y Creación de Mantenimientos
+
+Para asignar un técnico y crear un mantenimiento:
+1. Inicie sesión en la aplicación.
+2. Vaya a la sección "Mantenimientos".
+3. Haga clic en "Añadir Mantenimiento".
+4. Complete el formulario con la información del mantenimiento, incluyendo la asignación del técnico, y guarde los cambios.
+
+#### 5. Visualización y Edición de Información
+
+Para visualizar y editar la información:
+1. Inicie sesión en la aplicación.
+2. Navegue a la sección correspondiente (Clientes, Dispositivos, Mantenimientos).
+3. Seleccione el elemento que desea ver o editar.
+4. Realice las modificaciones necesarias y guarde los cambios.
+
+#### 6. Gestión de Usuarios y Roles
+
+Para gestionar usuarios y roles:
+1. Inicie sesión en la aplicación como administrador.
+2. Vaya a la sección "Usuarios".
+3. Añada, edite o elimine usuarios y asigne roles según sea necesario.
+
+#### 7. FAQ
+
+**¿Cómo recupero mi contraseña?**
+- Vaya a la página de inicio de sesión y haga clic en "Olvidé mi contraseña". Siga las instrucciones para restablecerla.
+
+**¿Cómo añado un nuevo cliente?**
+- Vaya a la sección "Clientes" y haga clic en "Añadir Cliente". Complete el formulario y guarde los cambios.
+
+**¿Cómo asigno un mantenimiento a un técnico?**
+- Vaya a la sección "Mantenimientos" y haga clic en "Añadir Mantenimiento". Complete el formulario y asigne el técnico correspondiente.
+
+Para cualquier otra pregunta o soporte adicional, por favor contacte al soporte técnico
 
 ## 3- Melloras futuras
 
-> *EXPLICACIÓN:* Neste apartado incluiranse as posibilidades de mellora da aplicación no futuro.
+La aplicación web "DeviceCare" se encuentra en una etapa prematura de su desarrollo, por lo cual aún no dispone de todo el potencial que podría llegar a alcanzar en un futuro con mejoras y posibles ampliaciones.
+
+Algunas de las nuevas funcionalidades que podrían considerarse son las siguientes:
+
+1. **Notificaciones Automatizadas**:
+   - Desarrollar un sistema de notificaciones automatizadas para alertar a los clientes sobre el estado de sus equipos y los próximos mantenimientos programados.
+
+2. **Gestión de Inventario**:
+   - Agregar funcionalidades para gestionar el inventario de piezas y repuestos, facilitando la gestión de pedidos de suministros y el seguimiento de productos disponibles.
+
+3. **Programación de Mantenimientos Periódicos**:
+   - Permitir a los clientes programar mantenimientos periódicos para sus equipos, con recordatorios automáticos para garantizar un servicio preventivo constante.
+
+4. **Integración de Facturación**:
+   - Integrar un sistema de facturación para generar automáticamente facturas detalladas de los servicios prestados, simplificando la gestión financiera de la empresa.
+
+5. **Análisis de Datos y Reportes**:
+   - Incorporar herramientas de análisis de datos y generación de reportes para visualizar métricas clave y tomar decisiones informadas basadas en datos.
+
+6. **Gestión de Personal y Horarios**:
+   - Desarrollar un módulo para gestionar el personal técnico, asignar horarios de trabajo y planificar rutas de servicio de manera eficiente.
+
+7. **Soporte Multilingüe**:
+   - Incorporar soporte para múltiples idiomas para adaptar la aplicación a las necesidades de clientes internacionales.
+
+8. **Integración con IoT**:
+    - Explorar la integración con dispositivos IoT para monitorear el estado de los equipos de forma remota y anticipar posibles problemas.
+
+Estas son solo algunas ideas de posibles mejoras que podrían considerarse para ampliar y enriquecer la funcionalidad de la aplicación.

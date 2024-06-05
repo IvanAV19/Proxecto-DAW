@@ -196,7 +196,11 @@ Para visualizar y editar la información:
 Para gestionar usuarios y roles:
 1. Inicie sesión en la aplicación como administrador.
 2. Vaya a la sección "Técnicos".
-3. Añada, edite o elimine usuarios.
+3. Cree, edite o elimine usuarios.
+
+![DeviceCare-Crear_Tecnico](https://github.com/IvanAV19/Proxecto-DAW/assets/82937686/1cd3386b-4fcb-4c5d-b3be-ad0408aea26a)
+
+![DeviceCare-Editar_Eliminar_Tecnico](https://github.com/IvanAV19/Proxecto-DAW/assets/82937686/506d3367-a561-4072-9e20-eba9deab29a1)
 
 #### 7. FAQ
 

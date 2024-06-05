@@ -135,6 +135,9 @@ Para registrar un nuevo cliente:
 2. Vaya a la sección "Clientes".
 3. Haga clic en "Crear Cliente".
 
+![DeviceCare-Crear_Cliente](https://github.com/IvanAV19/Proxecto-DAW/assets/82937686/3520e06a-28c3-4d27-a9f7-483f9d1ae55b)
+
+
 ![Imagen de Creación de Cliente](../img/crearCliente-1.PNG "Creación del Cliente Parte 1")
 
 4. Complete el formulario con la información del cliente y guarde los cambios.

@@ -119,9 +119,9 @@ A continuación, se presenta el manual de usuario, diseñado para guiar a los us
 1. [Introducción](#introducción)
 2. [Registro y Gestión de Clientes](#registro-y-gestión-de-clientes)
 3. [Registro y Gestión de Dispositivos](#registro-y-gestión-de-dispositivos)
-4. [Asignación de Técnicos y Creación de Mantenimientos](#asignación-de-técnicos-y-creación-de-mantenimientos)
+4. [Creación de Mantenimientos](#creación-de-mantenimientos)
 5. [Visualización y Edición de Información](#visualización-y-edición-de-información)
-6. [Gestión de Usuarios y Roles](#gestión-de-usuarios-y-roles)
+6. [Gestión de Técnicos](#gestión-de-tecnicos)
 7. [FAQ](#faq)
 
 #### 1. Introducción
@@ -146,13 +146,13 @@ Para gestionar clientes existentes:
 
 ![DeviceCare-Editar_Eliminar_Cliente](https://github.com/IvanAV19/Proxecto-DAW/assets/82937686/f8368b2a-11bc-4764-a611-871c9a254b62)
 
-#### 3. Registro y Gestión de Dispositivos
+#### 3. Registro y Gestión de Dispositivos + Asignación de Técnicos
 
 Para registrar un nuevo dispositivo:
 1. Inicie sesión en la aplicación.
 2. Vaya a la sección "Dispositivos".
-3. Haga clic en "Añadir Dispositivo".
-4. Complete el formulario con la información del dispositivo y guarde los cambios.
+3. Haga clic en "Crear Dispositivo".
+4. Complete el formulario con la información del dispositivo, incluyendo la asignación del técnico, y guarde los cambios.
 
 ![DeviceCare-Crear_Dispositivo](https://github.com/IvanAV19/Proxecto-DAW/assets/82937686/ad4738de-d310-4520-82c2-ea78d2381a48)
 
@@ -164,13 +164,23 @@ Para gestionar dispositivos existentes:
 
 ![DeviceCare-Editar_Eliminar_Dispositivo](https://github.com/IvanAV19/Proxecto-DAW/assets/82937686/ba412939-cb8e-4757-aa2f-014952bd5bd8)
 
-#### 4. Asignación de Técnicos y Creación de Mantenimientos
+#### 4. Creación de Mantenimientos
 
-Para asignar un técnico y crear un mantenimiento:
-1. Inicie sesión en la aplicación.
+Para crear un mantenimiento:
+1. Inicie sesión en la aplicación como administrador.
 2. Vaya a la sección "Mantenimientos".
-3. Haga clic en "Añadir Mantenimiento".
-4. Complete el formulario con la información del mantenimiento, incluyendo la asignación del técnico, y guarde los cambios.
+3. Haga clic en "Crear Mantenimiento".
+4. Complete el formulario con la información del mantenimiento y guarde los cambios.
+
+![DeviceCare-Crear_Mantenimiento](https://github.com/IvanAV19/Proxecto-DAW/assets/82937686/78a396fa-9a77-4765-81e7-596f9db0b6ed)
+
+Para gestionar mantenimientos existentes:
+1. Inicie sesión en la aplicación como administrador.
+2. Vaya a la sección "Mantenimientos".
+3. Seleccione el mantenimiento que desea editar o eliminar.
+4. Realice las modificaciones necesarias y guarde los cambios.
+
+![DeviceCare-Editar_Eliminar_Mantenimiento](https://github.com/IvanAV19/Proxecto-DAW/assets/82937686/b2a4093d-8322-45d6-ac2d-7861785bf924)
 
 #### 5. Visualización y Edición de Información
 
@@ -180,7 +190,7 @@ Para visualizar y editar la información:
 3. Seleccione el elemento que desea ver o editar.
 4. Realice las modificaciones necesarias y guarde los cambios.
 
-#### 6. Gestión de Usuarios y Roles
+#### 6. Gestión de Técnicos
 
 Para gestionar usuarios y roles:
 1. Inicie sesión en la aplicación como administrador.

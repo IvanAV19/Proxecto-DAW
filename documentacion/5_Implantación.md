@@ -120,7 +120,7 @@ A continuación, se presenta el manual de usuario, diseñado para guiar a los us
 2. [Registro y Gestión de Clientes](#registro-y-gestión-de-clientes)
 3. [Registro y Gestión de Dispositivos](#registro-y-gestión-de-dispositivos)
 4. [Creación de Mantenimientos](#creación-de-mantenimientos)
-5. [Visualización y Edición de Información](#visualización-y-edición-de-información)
+5. [Visualización de Información](#visualización-de-información)
 6. [Gestión de Técnicos](#gestión-de-tecnicos)
 7. [FAQ](#faq)
 
@@ -182,13 +182,14 @@ Para gestionar mantenimientos existentes:
 
 ![DeviceCare-Editar_Eliminar_Mantenimiento](https://github.com/IvanAV19/Proxecto-DAW/assets/82937686/b2a4093d-8322-45d6-ac2d-7861785bf924)
 
-#### 5. Visualización y Edición de Información
+#### 5. Visualización de Información
 
 Para visualizar y editar la información:
 1. Inicie sesión en la aplicación.
 2. Navegue a la sección correspondiente (Clientes, Dispositivos, Mantenimientos).
-3. Seleccione el elemento que desea ver o editar.
-4. Realice las modificaciones necesarias y guarde los cambios.
+3. Seleccione el elemento que desea ver.
+
+![DeviceCare-Visualizar_Info](https://github.com/IvanAV19/Proxecto-DAW/assets/82937686/02af838d-ba7e-4dd6-bdf6-8ce3ef3108c3)
 
 #### 6. Gestión de Técnicos
 

@@ -107,8 +107,6 @@ Para asegurar que los usuarios puedan utilizar la aplicación de manera eficient
     - Visualización y edición de información.
   - **Sesión 2: Funcionalidades avanzadas y buenas prácticas**
     - Gestión de usuarios y roles.
-    - Configuración de notificaciones y alertas.
-    - Exportación de datos e informes.
     - Resolución de problemas comunes.
     - Buenas prácticas para el uso diario de la aplicación.
 
@@ -128,7 +126,7 @@ A continuación, se presenta el manual de usuario, diseñado para guiar a los us
 
 #### 1. Introducción
 
-Bienvenido al manual de usuario de la aplicación de gestión de mantenimientos de equipos. Esta guía le ayudará a navegar y utilizar todas las funcionalidades disponibles para optimizar sus procesos de mantenimiento.
+Bienvenido al manual de usuario de la aplicación DeviceCare. Esta guía le ayudará a navegar y utilizar todas las funcionalidades disponibles para optimizar sus procesos de mantenimiento.
 
 #### 2. Registro y Gestión de Clientes
 

@@ -133,12 +133,11 @@ Bienvenido al manual de usuario de la aplicación DeviceCare. Esta guía le ayud
 Para registrar un nuevo cliente:
 1. Inicie sesión en la aplicación.
 2. Vaya a la sección "Clientes".
-3. Haga clic en "Añadir Cliente".
-4. Complete el formulario con la información del cliente y guarde los cambios.
-
-**Crear Cliente**
+3. Haga clic en "Crear Cliente".
 
 ![Imagen de Creación de Cliente](../img/crearCliente-1.PNG "Creación del Cliente Parte 1")
+
+4. Complete el formulario con la información del cliente y guarde los cambios.
 
 ![Imagen de Creación de Cliente](../img/crearCliente-2.png "Creación del Cliente Parte 2")
 

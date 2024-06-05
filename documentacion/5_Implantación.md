@@ -159,7 +159,7 @@ Para gestionar clientes existentes:
 
 **Eliminar Cliente**
 
-![Imagen de Eliminación de Cliente](../img/eliminarCliente-1.PNG "Eliminación del Cliente Parte 1")
+![Imagen de Eliminación de Cliente](../img/eliminarCliente.PNG "Eliminación del Cliente Parte 1")
 
 ![Imagen de Eliminación de Cliente](../img/eliminarCliente-2.PNG "Eliminación del Cliente Parte 2")
 
@@ -199,8 +199,8 @@ Para visualizar y editar la información:
 
 Para gestionar usuarios y roles:
 1. Inicie sesión en la aplicación como administrador.
-2. Vaya a la sección "Usuarios".
-3. Añada, edite o elimine usuarios y asigne roles según sea necesario.
+2. Vaya a la sección "Técnicos".
+3. Añada, edite o elimine usuarios.
 
 #### 7. FAQ
 

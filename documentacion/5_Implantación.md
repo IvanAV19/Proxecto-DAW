@@ -47,7 +47,7 @@ Las copias de seguridad de la base de datos son esenciales para preservar los da
 - **Procedimiento:** 
   - Ejecutar el siguiente comando para hacer una copia de seguridad de la base de datos:
     ```sh
-    docker exec [database_container_name] pg_dump -U [username] [database_name] > backup.sql
+    docker exec devicecaredb-1 pg_dump -U admin devicecaredb > backup.sql
     ```
   - Almacenar el archivo `backup.sql` en un lugar seguro.
 

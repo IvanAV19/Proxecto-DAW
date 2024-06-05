@@ -28,17 +28,65 @@
 
 ### 1.2- Administración do sistema
 
-> *EXPLICACIÓN:* Neste apartado indicarase información relativa á administración do sistema, é dicir, tarefas que se deberán realizar unha vez que o sistema estea funcionando.
->
-> Como:
-> 
-> - Copias de seguridade do sistema.
-> - Copias de seguridade da base de datos.
-> - Xestión de usuarios.
-> - Xestión seguridade.
-> - Xestión de incidencias, que poden ser de dous tipos: de sistema (accesos non autorizados á BD, etc) ou de fallos no software.
->
-> No caso de que sexan precisas.
+Una vez que la aplicación esté en funcionamiento, es crucial realizar tareas regulares de administración del sistema para asegurar su correcto funcionamiento y la integridad de los datos. A continuación, se detallan las principales tareas de administración que deben llevarse a cabo:
+
+#### 1.3.1- Copias de seguridad del sistema
+
+Para garantizar la recuperación de datos en caso de fallos, es necesario realizar copias de seguridad periódicas tanto del sistema como de la base de datos.
+
+- **Frecuencia:** Diaria
+- **Procedimiento:** 
+  - Utilizar scripts automatizados para crear copias de seguridad de los contenedores Docker.
+  - Guardar las copias de seguridad en un almacenamiento seguro y redundante.
+
+#### 1.3.2- Copias de seguridad de la base de datos
+
+Las copias de seguridad de la base de datos son esenciales para preservar los datos de la aplicación.
+
+- **Frecuencia:** Diaria
+- **Procedimiento:** 
+  - Ejecutar el siguiente comando para hacer una copia de seguridad de la base de datos:
+    ```sh
+    docker exec [database_container_name] pg_dump -U [username] [database_name] > backup.sql
+    ```
+  - Almacenar el archivo `backup.sql` en un lugar seguro.
+
+#### 1.3.3- Gestión de usuarios
+
+La gestión de usuarios incluye la creación, modificación y eliminación de cuentas de usuario.
+
+- **Procedimiento:**
+  - Acceder al panel de administración de la aplicación.
+  - Utilizar las opciones disponibles para añadir nuevos usuarios, modificar permisos o eliminar usuarios existentes.
+
+#### 1.3.4- Gestión de seguridad
+
+Mantener la seguridad del sistema es fundamental para proteger los datos y la integridad de la aplicación.
+
+- **Procedimiento:**
+  - Implementar autenticación de dos factores (2FA) para los usuarios.
+  - Realizar auditorías de seguridad periódicas.
+  - Mantener el software y las dependencias actualizadas para mitigar vulnerabilidades conocidas.
+
+#### 1.3.5- Gestión de incidencias
+
+Las incidencias pueden ser de dos tipos: de sistema y de software. Es importante gestionarlas de manera eficiente para minimizar el impacto en el servicio.
+
+- **Incidencias de sistema:**
+  - **Accesos no autorizados a la base de datos:**
+    - Monitorizar los logs de acceso para detectar actividades sospechosas.
+    - Configurar alertas automáticas para accesos no autorizados.
+  - **Procedimiento:**
+    - Investigar cualquier acceso no autorizado y tomar medidas correctivas.
+    - Informar a los usuarios afectados y realizar un análisis de las brechas de seguridad.
+
+- **Incidencias de software:**
+  - **Fallo en el software:**
+    - Monitorizar el rendimiento de la aplicación y los logs de errores.
+    - Configurar alertas automáticas para fallos críticos.
+  - **Procedimiento:**
+    - Diagnosticar y resolver los errores de software lo antes posible.
+    - Realizar pruebas exhaustivas antes de aplicar cualquier corrección al sistema en producción.
 
 ## 2- Manual de usuario
 

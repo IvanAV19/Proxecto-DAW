@@ -12,6 +12,8 @@
 
 [Abrir carpeta de la aplicación](../devicecare)
 
+Dispone de la carpeta de la aplicación comprimida con todos los archivos necesarios en la raiz del repositorio con el nombre de **"devicecare_aplicacionCompleta.7z"**.
+
 ## 2- Prototipos
 
 **[Enlace Prototipo Figma](https://www.figma.com/file/rbDqwp6vh9sb7bchPQLAXS/Prototipo-Proyecto_DAW?type=design&node-id=6%3A5&mode=design&t=gNMUbXMOF43fSmmP-1)**

@@ -9,7 +9,6 @@
   - [Licenza](#licenza)
   - [Índice](#índice)
   - [Guía de contribución](#guía-de-contribución)
-  - [Links](#links)
 
 ## Taboleiro do proyecto
 
@@ -93,7 +92,6 @@ Bajo los términos de esta licencia, estás autorizado a usar, modificar y distr
 4. [Codificación e probas](documentacion/4_Codificacion_e_probas.md)
 5. [Implantación](documentacion/5_Implantación.md)
 6. [Referencias](documentacion/6_Referencias.md)
-7. [Incidencias](documentacion/7_Incidencias.md)
 
 ## Guía de contribución
 
@@ -145,7 +143,3 @@ En caso de conflictos o desacuerdos, comunícate con un miembro del equipo de mo
 ### Actualización y Mantenimiento
 
 Esta guía de contribución se mantendrá actualizada con los cambios en el proyecto y en la comunidad de desarrollo. Agradecemos cualquier comentario o sugerencia para mejorar esta guía.
-
-## Links
-
-> EXPLICACIÓN*: Ligazóns externas e descipciones destas ligazóns que creas conveniente indicar aquí. Xeralmente xa van estar integrados coa túa documentación, pero se requires realizar unha listaxe deles, leste é o lugar.
